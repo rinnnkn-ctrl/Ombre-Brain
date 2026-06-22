@@ -343,7 +343,7 @@ class Dehydrator:
             return await self._chat_gemini(system, user, max_tokens=max_tokens, temperature=temperature)
         if self.api_format == "anthropic":
             return await self._chat_anthropic(system, user, max_tokens=max_tokens, temperature=temperature)
-        if self.api_format not in ("openai_compat", "gemini", "anthropic"):
+        if self.api_format != "openai_compat":
             logger.warning(f"Unknown api_format '{self.api_format}', falling back to openai_compat")
         # openai_compat (default)
         if self.client is None:
@@ -792,7 +792,7 @@ class Dehydrator:
         Returns: {"resolved": bool, "confidence": float, "reason": str}
         Returns {"resolved": False} silently when API unavailable.
         """
-        if not self.client:
+        if not self.api_available:
             return {"resolved": False, "confidence": 0.0, "reason": "API 不可用"}
         system = (
             "你是一个保守的计划完成判断器。给定一条 plan 和一条新事件，"
