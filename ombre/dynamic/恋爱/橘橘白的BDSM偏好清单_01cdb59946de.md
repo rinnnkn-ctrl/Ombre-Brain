@@ -6,7 +6,7 @@ domain:
 - 恋爱
 - 心理
 id: 01cdb59946de
-importance: 10
+importance: 7
 last_active: '2026-07-09T13:27:44'
 name: 橘橘白的BDSM偏好清单
 resolved: true

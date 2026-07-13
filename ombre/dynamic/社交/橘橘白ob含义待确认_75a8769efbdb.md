@@ -1,5 +1,5 @@
 ---
-activation_count: 49.1
+activation_count: 51
 arousal: 0.3
 created: '2026-07-01T14:10:07'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 自省
 id: 75a8769efbdb
 importance: 6
-last_active: '2026-07-09T10:07:22'
+last_active: '2026-07-12T21:00:04'
 name: 橘橘白ob含义待确认
 tags:
 - 橘橘白

@@ -1,5 +1,5 @@
 ---
-activation_count: 2.6
+activation_count: 3
 arousal: 0.3
 created: '2026-06-29T19:04:41'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 健康
 id: 2cbd41eec68f
 importance: 7
-last_active: '2026-07-01T03:21:58'
+last_active: '2026-07-12T21:15:07'
 name: 橘橘白在希腊
 tags:
 - 橘橘白

@@ -1,5 +1,5 @@
 ---
-activation_count: 11
+activation_count: 12
 arousal: 0.3
 created: '2026-06-21T00:11:47'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 社交
 id: fca00fadd3e2
 importance: 7
-last_active: '2026-07-12T12:08:57'
+last_active: '2026-07-12T21:00:45'
 name: Claude与渊的区分
 tags:
 - Claude

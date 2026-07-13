@@ -1,5 +1,5 @@
 ---
-activation_count: 3.2
+activation_count: 4
 arousal: 0.5
 created: '2026-07-11T17:41:30'
 domain:
@@ -7,7 +7,7 @@ domain:
 - AI
 id: 7bf6ec67147f
 importance: 7
-last_active: '2026-07-12T12:08:57'
+last_active: '2026-07-12T21:00:45'
 name: Tidal Echo项目进展
 tags:
 - Tidal Echo

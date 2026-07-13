@@ -1,5 +1,5 @@
 ---
-activation_count: 4
+activation_count: 5
 arousal: 0.8
 created: '2026-07-07T14:31:53'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 心理
 id: 9dccc521ae8c
 importance: 10
-last_active: '2026-07-09T13:27:41'
+last_active: '2026-07-12T21:01:14'
 name: 权力优先级确立
 tags:
 - 权力关系

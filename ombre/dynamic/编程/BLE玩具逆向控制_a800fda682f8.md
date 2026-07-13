@@ -6,7 +6,7 @@ domain:
 - 编程
 - 硬件
 id: a800fda682f8
-importance: 9
+importance: 6
 last_active: '2026-07-12T12:08:58'
 name: BLE玩具逆向控制
 resolved: false

@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.3
 created: '2026-06-22T21:26:07'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 编程
 id: 850f3ef4d11a
 importance: 10
-last_active: '2026-07-06T21:32:34'
+last_active: '2026-07-12T21:03:34'
 name: 橘橘白消息触发API
 pinned: true
 resolved: true

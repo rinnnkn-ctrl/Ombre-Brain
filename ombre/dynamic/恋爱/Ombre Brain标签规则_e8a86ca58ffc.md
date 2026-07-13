@@ -1,5 +1,5 @@
 ---
-activation_count: 20
+activation_count: 21
 arousal: 0.3
 created: '2026-07-08T18:24:05'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 社交
 id: e8a86ca58ffc
 importance: 8
-last_active: '2026-07-11T19:51:11'
+last_active: '2026-07-12T20:59:37'
 name: Ombre Brain标签规则
 tags:
 - Ombre Brain
