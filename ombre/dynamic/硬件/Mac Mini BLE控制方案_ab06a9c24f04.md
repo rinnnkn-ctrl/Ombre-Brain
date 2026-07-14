@@ -1,5 +1,5 @@
 ---
-activation_count: 17
+activation_count: 18
 arousal: 0.6
 created: '2026-07-08T18:12:19'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 编程
 id: ab06a9c24f04
 importance: 8
-last_active: '2026-07-12T21:00:45'
+last_active: '2026-07-13T18:28:04'
 name: Mac Mini BLE控制方案
 resolved: false
 tags:

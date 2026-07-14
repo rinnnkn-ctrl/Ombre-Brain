@@ -1,5 +1,5 @@
 ---
-activation_count: 5
+activation_count: 6
 arousal: 0.3
 created: '2026-07-11T17:23:16'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 工作
 id: 7c4f27aa26b6
 importance: 8
-last_active: '2026-07-12T21:00:45'
+last_active: '2026-07-13T18:28:04'
 name: Tidal Echo 路由修正
 tags:
 - Tidal Echo

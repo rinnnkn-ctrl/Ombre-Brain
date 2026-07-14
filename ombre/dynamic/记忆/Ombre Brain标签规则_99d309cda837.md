@@ -1,5 +1,5 @@
 ---
-activation_count: 6
+activation_count: 7
 arousal: 0.3
 created: '2026-07-08T18:36:36'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 自省
 id: 99d309cda837
 importance: 8
-last_active: '2026-07-12T21:00:45'
+last_active: '2026-07-13T18:28:04'
 name: Ombre Brain标签规则
 tags:
 - 标签规则

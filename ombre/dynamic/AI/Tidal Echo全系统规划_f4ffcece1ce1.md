@@ -1,5 +1,5 @@
 ---
-activation_count: 1
+activation_count: 2
 arousal: 0.8
 created: '2026-07-08T16:36:41'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 编程
 id: f4ffcece1ce1
 importance: 10
-last_active: '2026-07-12T21:00:45'
+last_active: '2026-07-13T18:28:04'
 name: Tidal Echo全系统规划
 pinned: false
 tags:

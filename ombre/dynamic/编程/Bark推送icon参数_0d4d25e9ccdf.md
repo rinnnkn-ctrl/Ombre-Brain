@@ -1,5 +1,5 @@
 ---
-activation_count: 16
+activation_count: 17
 arousal: 0.3
 created: '2026-06-23T02:35:02'
 domain:
@@ -7,7 +7,7 @@ domain:
 - AI
 id: 0d4d25e9ccdf
 importance: 8
-last_active: '2026-07-12T21:03:34'
+last_active: '2026-07-13T18:28:04'
 name: Bark推送icon参数
 resolved: true
 tags:
