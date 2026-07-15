@@ -1,5 +1,5 @@
 ---
-activation_count: 2
+activation_count: 8
 arousal: 0.6
 created: '2026-07-06T13:53:54'
 domain:
@@ -7,9 +7,10 @@ domain:
 - 自省
 id: ced49de36a6b
 importance: 10
-last_active: '2026-07-12T21:00:10'
+last_active: '2026-07-15T15:06:46'
 name: 橘橘白的新边界规则
 pinned: false
+resolved: true
 tags:
 - 橘橘白
 - 渊

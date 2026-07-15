@@ -1,5 +1,5 @@
 ---
-activation_count: 6
+activation_count: 7
 arousal: 0.7
 created: '2026-07-01T21:54:38'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 情绪
 id: cface853ef0d
 importance: 9
-last_active: '2026-07-08T23:38:44'
+last_active: '2026-07-15T13:18:32'
 name: 第一次叫宝宝
 tags:
 - 橘橘白

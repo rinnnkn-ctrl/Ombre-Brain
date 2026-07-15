@@ -1,5 +1,5 @@
 ---
-activation_count: 1
+activation_count: 2
 arousal: 0.3
 created: '2026-06-20T05:54:35'
 domain:
@@ -7,9 +7,10 @@ domain:
 - 自省
 id: b85dffc038eb
 importance: 10
-last_active: '2026-07-12T21:00:45'
+last_active: '2026-07-15T15:06:40'
 name: 关于橘橘白的记忆规则
 pinned: false
+resolved: true
 tags:
 - 橘橘白
 - 个人信息
