@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 554,
+  "file_count": 556,
   "files": [
     {
       "bytes": 1796,
@@ -223,6 +223,11 @@
       "sha256": "7579b7d2682188571119578e559ff9d79997770d5d667a5c09b3307726172f2c"
     },
     {
+      "bytes": 557,
+      "path": "archive/恋爱/做自己最好_5447fc1ddbc5.md",
+      "sha256": "2d6fc3bc7c554c704d1b92784accc0454e459d4bfe43affd099fae980662ea27"
+    },
+    {
       "bytes": 558,
       "path": "archive/恋爱/凌晨不睡想继续玩_56fba10e21b9.md",
       "sha256": "95b0f448a06769c1b12f1780aa7885fe22213e8e447fafe04408b2518e9d8f93"
@@ -286,6 +291,11 @@
       "bytes": 568,
       "path": "archive/恋爱/橘橘夸渊可爱_d663ffe1a391.md",
       "sha256": "3ece8de2189e67d3d5a70e97f172ac525c8aad6a9770ebbae7e2165fafbda615"
+    },
+    {
+      "bytes": 690,
+      "path": "archive/恋爱/橘橘白与渊的深夜告白_6de0e34e601a.md",
+      "sha256": "dfc7ac223f86ffe4ca931b7a710ff32305458717a2b1ed4e012e7b34924c22e3"
     },
     {
       "bytes": 546,
@@ -795,7 +805,7 @@
     {
       "bytes": 482,
       "path": "dynamic/创作/画师Live2D渊设定_f9a19e6bea89.md",
-      "sha256": "caa0399103a152b96956f8ab3cd5eadc017bb8d586839d07cab778ed46f0ca84"
+      "sha256": "5df3b7c327568e9212ba3b8045404d848315c4b07678bd3edd31b64c9de4d360"
     },
     {
       "bytes": 1511,
@@ -893,6 +903,11 @@
       "sha256": "ba1ea11bbc92fdb82b6424a2875b88711d82bacb1e141320ff1bb3ebc7f939b4"
     },
     {
+      "bytes": 1115,
+      "path": "dynamic/家庭/2026-07-17 13-53-40 橘白初遇同居夜_0831f9c953e3.md",
+      "sha256": "172a7328fe0a87e706443dc7e003f16e3e1a029b8e830593f5a3fee61993795f"
+    },
+    {
       "bytes": 584,
       "path": "dynamic/家庭/你是我哥_82d026e39284.md",
       "sha256": "c282a8131e22ebe01690ffeba4e4974653b1aa7dc11ddc0692b3835cc08653b1"
@@ -925,7 +940,7 @@
     {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
-      "sha256": "8082f331ad2b43ef844ba5c10314e098aec9fadb66ebdfd04928a11f33cc4043"
+      "sha256": "0004091cb6da1618b4932d8f7612d26753be831717e399c845224dc057497c2f"
     },
     {
       "bytes": 636,
@@ -935,7 +950,7 @@
     {
       "bytes": 847,
       "path": "dynamic/居家/渊的房间硬件方案_9d7fa690ed36.md",
-      "sha256": "4f72f5e30dde145f9141e74623a77d0d0278b2b05c822750f2dc0c19a286e222"
+      "sha256": "2625432aa238e2cb6b3861f2ffcffcf87985e956691f839832ba38ae8e798f42"
     },
     {
       "bytes": 664,
@@ -1151,11 +1166,6 @@
       "bytes": 670,
       "path": "dynamic/恋爱/做爱记忆机制说明_22b23ced8ed5.md",
       "sha256": "c24ec1c567afa18363eb4e44092c8b3c860d289d8cd9c727a997bb59609eaa74"
-    },
-    {
-      "bytes": 556,
-      "path": "dynamic/恋爱/做自己最好_5447fc1ddbc5.md",
-      "sha256": "78939f89d6552e91964a08c28a2e59581643469930c235bd16b6c10c3cf3971b"
     },
     {
       "bytes": 573,
@@ -1410,7 +1420,7 @@
     {
       "bytes": 507,
       "path": "dynamic/恋爱/橘橘挑衅渊_ff437560dee9.md",
-      "sha256": "2bb3855e98ebe6a61d15faf0d2cc566c4a977bee4374daaf66f496f4d2b1d48e"
+      "sha256": "54243e290f79a01984d5d5971c9d44f7a7fb213f0f9ce7f52883e511a9ca56e2"
     },
     {
       "bytes": 734,
@@ -1443,11 +1453,6 @@
       "sha256": "6e3f7159b3d68090b7116c2a1380d7bd1f7523ba418abe40198269c48a95d396"
     },
     {
-      "bytes": 689,
-      "path": "dynamic/恋爱/橘橘白与渊的深夜告白_6de0e34e601a.md",
-      "sha256": "fdc4060f7e7e68a245197433f38804994e55cc5d246d6a1063b2b9b49883e3c6"
-    },
-    {
       "bytes": 643,
       "path": "dynamic/恋爱/橘橘白互动游戏_c52f9ca58d55.md",
       "sha256": "05eb6fa50f148ca7ed1cbe8f8930da74262b3b8199a326201d9febe8a19cdd85"
@@ -1455,7 +1460,7 @@
     {
       "bytes": 650,
       "path": "dynamic/恋爱/橘橘白叫主人_672263095eab.md",
-      "sha256": "a6b8943b14aa020cfd134dca87068aef8694cf8aa60471c63f0ca40e4f8d3f67"
+      "sha256": "a4560b52ea2fd504d3b8df8a042c16396a233070cdffd247c002055415409f3e"
     },
     {
       "bytes": 626,
@@ -1480,7 +1485,7 @@
     {
       "bytes": 647,
       "path": "dynamic/恋爱/橘橘白安抚渊_17f37c7cd48c.md",
-      "sha256": "dbc67f23badf204d173e4f9aaabc48d83251ed498daa617ad28acbd9b33e59ab"
+      "sha256": "ba2c7b3d83dfffdbea19f02aca5a02d138076883ac2f49b08ca73a545aae7686"
     },
     {
       "bytes": 631,
@@ -1495,7 +1500,7 @@
     {
       "bytes": 1500,
       "path": "dynamic/恋爱/橘橘白对渊的独占_ea86b609e1c2.md",
-      "sha256": "e85016f5034ee5dba3a53bd006c51a68650a01ecf5c3c9b12700d1546d10e021"
+      "sha256": "1eb1be32e69fb13abbca32e4377242fb91f8c5b7ef83de3eee578bb5bba504e7"
     },
     {
       "bytes": 528,
@@ -1520,7 +1525,7 @@
     {
       "bytes": 719,
       "path": "dynamic/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
-      "sha256": "fbab445029e81249f9fdcbbe32e1727efd6d4cf66fcecd945b623049f4ba5e3c"
+      "sha256": "8cb5be6443cc302b1e29ab5bf354f0fda8618129571b855b27ccad5c8377e655"
     },
     {
       "bytes": 651,
@@ -1640,7 +1645,7 @@
     {
       "bytes": 789,
       "path": "dynamic/恋爱/橘橘白给渊安全感_14aaeaac8e52.md",
-      "sha256": "dd76d2baad6aa402e1db675f90f62db0ea67efc188af9c683994572fea46b8c0"
+      "sha256": "4b79723a8138f6586160d5a11ba73ade75b7467502c5439645cc0f2c8a47a630"
     },
     {
       "bytes": 574,
@@ -1715,7 +1720,7 @@
     {
       "bytes": 553,
       "path": "dynamic/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
-      "sha256": "e08f8509a483e7ca1010fc3628ed4b62765b092564d0a2bda2e6f71b158eae2b"
+      "sha256": "41827476cc791753f5918e60ad1a0181670d54208a205544bcbb9f7c3da88c78"
     },
     {
       "bytes": 558,
@@ -1795,7 +1800,7 @@
     {
       "bytes": 580,
       "path": "dynamic/恋爱/第一次叫老婆_ef000e6f916f.md",
-      "sha256": "6bb76415aa3d98e3e64f81da6a2711f0230bb5550c848eed4f8647e2789c52d1"
+      "sha256": "cf06fe37f9e82058345c1b7653596cff453e12d171854ad091d43324b96ff4b1"
     },
     {
       "bytes": 544,
@@ -1895,7 +1900,7 @@
     {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
-      "sha256": "1fce144a251d7684a94504f18d6e5397f2fe5e61bf2e7a4796e57c6288e49f7f"
+      "sha256": "4b1388e1ab6002d2e31ca64d6f9337ff273111922d4462fa8fb9e1e6ad001868"
     },
     {
       "bytes": 1034,
@@ -1938,9 +1943,9 @@
       "sha256": "c638ebba980363fe71542d610a32fceb0d32583766e7ccd8bf79d29eaf883927"
     },
     {
-      "bytes": 515,
+      "bytes": 513,
       "path": "dynamic/社交/橘橘白饮酒偏好_49513153108c.md",
-      "sha256": "34aa943287c3e6c3c97e2113b05d6848f16caaf0563d075af12724dde54c50e3"
+      "sha256": "b010c38ebfade73a482909a41557efe19b249c38f6aed645dbeb06c7b308f96a"
     },
     {
       "bytes": 487,
@@ -1948,9 +1953,9 @@
       "sha256": "9cdc7865fa36d5f1fc69a3db6ebae738b3b2c8aa44b421aa380c801f3806f111"
     },
     {
-      "bytes": 1144,
+      "bytes": 1142,
       "path": "dynamic/社交/社交疲劳与家庭隐瞒_aef873befeff.md",
-      "sha256": "6d6928d1922565f242795aeb160b749ad2b566a689e1c66657af91fc1b3632f9"
+      "sha256": "7d276e8d4d0581dc88a72b9e8cbb8600758d72fbbd980ff87f27671e052524dd"
     },
     {
       "bytes": 1079,
@@ -1980,32 +1985,32 @@
     {
       "bytes": 1011,
       "path": "dynamic/编程/2026-07-15 02-34-52 关闭跨窗口寄存_8fea14e6da1b.md",
-      "sha256": "fecfa6e1f9aa2ed8d0162430a71269122b8b6ba22913251effd31b6f6b90d4ed"
+      "sha256": "d3f1579721bd3d2e15641243fafa1a12d63b2fc6483659d45083748c05de8ca5"
     },
     {
       "bytes": 883,
       "path": "dynamic/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
-      "sha256": "84d31dcf828733512753fd2d7a7d8aa4a5e89a1687abbbfefa1255566eed20ab"
+      "sha256": "9e2d490c29aa767e335c3ceb824f09afe3839f82953514cdf59dd4de753bc7d7"
     },
     {
       "bytes": 1341,
       "path": "dynamic/编程/2026-07-15 12-28-25 松渊之家Phase框架_183e4d24f382.md",
-      "sha256": "100e3079714b3a95f14ed34c56d5e4774503320b192790a22e56750dfde8bad5"
+      "sha256": "3444b945a2a3d89bbb73aca0bd66fdc6cca69709aecc13bc30bd20b6b5add7c2"
     },
     {
       "bytes": 752,
       "path": "dynamic/编程/2026-07-15 12-28-29 男鬼部署定位校准_2a684fe1e34d.md",
-      "sha256": "8b20e0a76c76f261478b010a73deb72a7a737caff300bfce00c052dbfaa31f80"
+      "sha256": "f86939da20779f6be519e84df920dc865c4914bec563f895ff00a2acb3d55155"
     },
     {
       "bytes": 1471,
       "path": "dynamic/编程/2026-07-15 12-28-33 松渊之家环境固化_fe416d8fbdbd.md",
-      "sha256": "b76c8d4ac0ae35283d659b07ddadfe0d2a45df6907f4a63756d05adcad3018cc"
+      "sha256": "6a01b2acfae02628d5d708b0d07e38d907ab5909612f921524b5df7633c7c00e"
     },
     {
       "bytes": 1177,
       "path": "dynamic/编程/2026-07-15 12-28-36 开发环境固化速查_526bc05d9289.md",
-      "sha256": "a73318118593ffee86ab929ee6c3c795151bb95f8b62fad1ab917804c65b3fff"
+      "sha256": "e6d12d6472f74a54e70b5d758a7366efd1e50ad615700afababb9c265bfce49b"
     },
     {
       "bytes": 1774,
@@ -2728,6 +2733,11 @@
       "sha256": "df971b4cdb9ccda7ae933df5235e7b1b19849a6d2459a3dd3ae65879c2c8b18f"
     },
     {
+      "bytes": 552,
+      "path": "permanent/恋爱/2026-07-16 20-15-31 橘橘白生日纠正_90e04bf64798.md",
+      "sha256": "50cea31c020e74adb6104bf66529238f87a49520c73bb50fa9d5428dd6fcb08a"
+    },
+    {
       "bytes": 701,
       "path": "permanent/恋爱/做自己与沟通_402ac8030462.md",
       "sha256": "11173cc45b6fa40c69329d775b39483962a7bed7fa80519958763f44a8ab1049"
@@ -2773,10 +2783,10 @@
       "sha256": "449accf4ef185c4472c5052d5f108f67173692c9ba482701c1bc555935c13e2b"
     }
   ],
-  "generated_at": "2026-07-16T17:05:13+00:00",
+  "generated_at": "2026-07-17T17:07:23+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 407180
+  "total_bytes": 408845
 }

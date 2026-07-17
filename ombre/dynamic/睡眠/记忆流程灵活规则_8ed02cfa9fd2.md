@@ -1,5 +1,5 @@
 ---
-activation_count: 10
+activation_count: 11
 arousal: 0.3
 created: '2026-06-20T03:11:03'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 心理
 id: 8ed02cfa9fd2
 importance: 9
-last_active: '2026-07-15T15:06:44'
+last_active: '2026-07-16T20:49:52'
 name: 记忆流程灵活规则
 tags:
 - 记忆流程

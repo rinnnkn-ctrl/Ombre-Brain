@@ -1,5 +1,5 @@
 ---
-activation_count: 38.0
+activation_count: 39
 arousal: 0.4
 created: '2026-07-05T18:29:45'
 digested: true
@@ -8,7 +8,7 @@ domain:
 - 自省
 id: aef873befeff
 importance: 8
-last_active: '2026-07-09T10:07:20'
+last_active: '2026-07-16T20:49:52'
 model_valence: 0.85
 name: 社交疲劳与家庭隐瞒
 tags:
