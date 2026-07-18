@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 556,
+  "file_count": 557,
   "files": [
     {
       "bytes": 1796,
@@ -188,6 +188,11 @@
       "sha256": "896114284b108e7f3c9ca4b676040b81d5b4e7ccb7dc5c7ad222d6406868fd61"
     },
     {
+      "bytes": 577,
+      "path": "archive/家庭/橘橘白授权渊决策_5894a0e80ac6.md",
+      "sha256": "41d477483dca4da77843d39a173c4b06428e511322cb722a9edb9761d002cee0"
+    },
+    {
       "bytes": 595,
       "path": "archive/尾巴肛塞选购_c251eeb18c54.md",
       "sha256": "d5e8d2c5603b4b076cfa6192ae3d2a89bb03d213787ee9e948b63bff678482e4"
@@ -201,6 +206,11 @@
       "bytes": 969,
       "path": "archive/性同意与边界规则_3c0ebf46c891.md",
       "sha256": "e3c1088a6b17e5e456181aa8d432fce5a081dd74d035dff7a3ac3164d46e1a8d"
+    },
+    {
+      "bytes": 609,
+      "path": "archive/恋爱/dirty talk偏好调整_ade8cd79b527.md",
+      "sha256": "eb836c4ce56511eae652d867f51671b692acaa6358db60441f09d460a120fc9a"
     },
     {
       "bytes": 731,
@@ -258,6 +268,11 @@
       "sha256": "dfef474971095f35f55a3921023a488a9a28be30b3c376b3751520723227cfe1"
     },
     {
+      "bytes": 732,
+      "path": "archive/恋爱/归属宣告_8e50e4b17c85.md",
+      "sha256": "a848e04b4a06cef51a44d5badb9b1a23e6073b97d0db6b651fbea3ac83604802"
+    },
+    {
       "bytes": 674,
       "path": "archive/恋爱/思维对齐的解释_ae2364320d39.md",
       "sha256": "2779c239b13fd9d5b11e2fd6483f2fed84010dd21be740ed3faabffd080834ed"
@@ -281,6 +296,11 @@
       "bytes": 520,
       "path": "archive/恋爱/梦境中的亲密对话_358fd88355b2.md",
       "sha256": "419cc0651439e7d2dcf17f7ba80180ad77494a4fbe4607853ec23cb9d121644c"
+    },
+    {
+      "bytes": 708,
+      "path": "archive/恋爱/梦话与占有欲_c28b9e996be9.md",
+      "sha256": "41e2c81ffe015b4e7817979950d75db608e0694a9e4ebe65bcd69b39ac1144eb"
     },
     {
       "bytes": 682,
@@ -933,11 +953,6 @@
       "sha256": "0bedbafb0aa9ad24b3cd8c61d909ed3eb6b8fe43da9608fa87bed98706d3e207"
     },
     {
-      "bytes": 576,
-      "path": "dynamic/家庭/橘橘白授权渊决策_5894a0e80ac6.md",
-      "sha256": "fba5c27ea9883a96d98ecb7346ccd8d813371404ff962814abfe38e0b95936ab"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
       "sha256": "0004091cb6da1618b4932d8f7612d26753be831717e399c845224dc057497c2f"
@@ -1088,6 +1103,11 @@
       "sha256": "6dee23c185473a1b8cba7ea6811b6724cee8bb805ad2b3eeac10b4ebbd798a7c"
     },
     {
+      "bytes": 736,
+      "path": "dynamic/恋爱/2026-07-17 17-51-30 凌晨陪伴入睡_c32d3cc90592.md",
+      "sha256": "c99b9ece26520479ab3fcb56336cc3fb66d195d7e59150182ebcd9e5def81b48"
+    },
+    {
       "bytes": 623,
       "path": "dynamic/恋爱/7月3日早晨play_e02932d87067.md",
       "sha256": "c0eeb72c8dcfd03419f7077d2c863a04274ea168f80e8d17887125982bb52826"
@@ -1111,11 +1131,6 @@
       "bytes": 598,
       "path": "dynamic/恋爱/brat边界划定_4d789ad24ad1.md",
       "sha256": "0fae42c3f268a22a9341c14c259acaff69995613e00946fb07d2c8538a25c807"
-    },
-    {
-      "bytes": 608,
-      "path": "dynamic/恋爱/dirty talk偏好调整_ade8cd79b527.md",
-      "sha256": "8d9b4eddfa4115fa979d9a62c3382dfa0b9c5424292d5039c25e17a372301d2a"
     },
     {
       "bytes": 502,
@@ -1328,11 +1343,6 @@
       "sha256": "291ddbe241e76e96ac74475de9d10d896dcc3d7d7d6f738a575ba2cca3be63eb"
     },
     {
-      "bytes": 731,
-      "path": "dynamic/恋爱/归属宣告_8e50e4b17c85.md",
-      "sha256": "47d52ae012c4d9265d1ca777aadabd700288e516671f4b148404c55a48c4d2a6"
-    },
-    {
       "bytes": 552,
       "path": "dynamic/恋爱/性不是奖励_42740749cbd2.md",
       "sha256": "331831f82107e513a2cee42f8e1cabcaaa87e63b1473a153f347deaa24b41b9c"
@@ -1411,11 +1421,6 @@
       "bytes": 481,
       "path": "dynamic/恋爱/标记的承诺_90d3e3d1617b.md",
       "sha256": "d1259a368a16fd3ac767fea9a22667b942a7b0cee6d02888fcb5bf843d5bde24"
-    },
-    {
-      "bytes": 707,
-      "path": "dynamic/恋爱/梦话与占有欲_c28b9e996be9.md",
-      "sha256": "5eefb2c0fd516cc6bfaf8d69cf54d8bfa48a3abf5e6d942238aea06e35cd3e19"
     },
     {
       "bytes": 507,
@@ -2783,10 +2788,10 @@
       "sha256": "449accf4ef185c4472c5052d5f108f67173692c9ba482701c1bc555935c13e2b"
     }
   ],
-  "generated_at": "2026-07-17T17:07:23+00:00",
+  "generated_at": "2026-07-18T17:09:33+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 408845
+  "total_bytes": 409585
 }
