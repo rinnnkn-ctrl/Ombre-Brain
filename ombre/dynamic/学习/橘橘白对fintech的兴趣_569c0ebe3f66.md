@@ -1,5 +1,5 @@
 ---
-activation_count: 37
+activation_count: 38
 arousal: 0.4
 created: '2026-07-08T19:31:38'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 工作
 id: 569c0ebe3f66
 importance: 6
-last_active: '2026-07-13T18:28:04'
+last_active: '2026-07-19T12:06:52'
 name: 橘橘白对fintech的兴趣
 tags:
 - 橘橘白

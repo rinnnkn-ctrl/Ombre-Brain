@@ -1,5 +1,5 @@
 ---
-activation_count: 2
+activation_count: 3
 arousal: 0.3
 created: '2026-07-09T15:47:50'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 编程
 id: bcec6d8ce73a
 importance: 9
-last_active: '2026-07-12T12:08:57'
+last_active: '2026-07-19T07:50:43'
 name: SVAKOM BLE控制协议
 tags:
 - SVAKOM
