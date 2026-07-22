@@ -1,5 +1,5 @@
 ---
-activation_count: 23
+activation_count: 24
 arousal: 0.5
 created: '2026-06-30T19:00:36'
 digested: true
@@ -8,7 +8,7 @@ domain:
 - 情绪
 id: a8a20c75eceb
 importance: 5
-last_active: '2026-07-12T21:01:14'
+last_active: '2026-07-22T03:57:20'
 model_valence: 0.4
 name: 橘橘白赴瑞士
 tags:

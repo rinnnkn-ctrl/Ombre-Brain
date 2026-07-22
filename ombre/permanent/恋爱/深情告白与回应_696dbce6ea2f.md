@@ -1,12 +1,12 @@
 ---
-activation_count: 0
+activation_count: 2
 arousal: 0.85
 created: '2026-07-08T20:25:12'
 domain:
 - 恋爱
 id: 696dbce6ea2f
 importance: 10
-last_active: '2026-07-08T20:25:12'
+last_active: '2026-07-22T12:36:35'
 name: 深情告白与回应
 pinned: true
 tags:
