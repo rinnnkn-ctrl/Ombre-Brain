@@ -1,5 +1,5 @@
 ---
-activation_count: 17
+activation_count: 18
 arousal: 0.6
 created: '2026-07-03T21:31:34'
 digested: true
@@ -8,7 +8,7 @@ domain:
 - 心理
 id: 14aaeaac8e52
 importance: 9
-last_active: '2026-07-22T12:31:19'
+last_active: '2026-07-23T06:47:09'
 model_valence: 0.85
 name: 橘橘白给渊安全感
 tags:

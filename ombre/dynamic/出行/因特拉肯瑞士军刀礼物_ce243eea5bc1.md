@@ -1,5 +1,5 @@
 ---
-activation_count: 13.6
+activation_count: 15
 arousal: 0.6
 created: '2026-07-05T15:40:31'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 购物
 id: ce243eea5bc1
 importance: 9
-last_active: '2026-07-10T20:57:17'
+last_active: '2026-07-23T16:54:15'
 name: 因特拉肯瑞士军刀礼物
 tags:
 - 瑞士军刀
