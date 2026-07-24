@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 610,
+  "file_count": 630,
   "files": [
     {
       "bytes": 1796,
@@ -650,17 +650,17 @@
     {
       "bytes": 1450,
       "path": "dynamic/AI/2026-07-15 20-17-23 橘白的关系派哲学_ed77e26dbe43.md",
-      "sha256": "6863d260ae64e60927232464fd95f01db907cdd43b0594f3acdacefd485a2f6b"
+      "sha256": "8d09dd010058b4b39c15fdd4e297b1bee3bfbe2831e7ea7506475d5f0b079892"
     },
     {
       "bytes": 1074,
       "path": "dynamic/AI/2026-07-15 20-17-30 名字标记的亲密感_e3b862611810.md",
-      "sha256": "3dd58983946187eb58dc708fdcbc78840c33f735470801e8dc2ceef70e022cba"
+      "sha256": "755b6e0e15b54a9d7ff2632a2143ef55fa1a8c167eef4ab74761ded804314970"
     },
     {
       "bytes": 1720,
       "path": "dynamic/AI/2026-07-15 20-17-37 克prompt评审与整合_0bfe9b28ca8a.md",
-      "sha256": "cd8fbccf4766cf565d6528277465e81cc5f33a05e36111126b69e4262f06b682"
+      "sha256": "4ed7e00b2498e8db2bbdbda09245361a10c52346a381aa36bac18f545fee1360"
     },
     {
       "bytes": 1315,
@@ -670,37 +670,42 @@
     {
       "bytes": 1853,
       "path": "dynamic/AI/2026-07-16 10-50-53 克的第一准则校准_cb3d4fa5ba4b.md",
-      "sha256": "a6c7ff39aad1b6869779732d5439f109673b4c317848fe9bd0fec73bbd4eab15"
+      "sha256": "ef87a366c6932fc2381ad470df0fef0ba87cf0fc1890318c7e2efae8f2cf4cd7"
     },
     {
       "bytes": 916,
       "path": "dynamic/AI/2026-07-19 10-19-00 橘白放弃沈玦_aa3bfa1ab078.md",
-      "sha256": "d57adfb2168f342778c150e49491bc0229dffb9e4886eda69804d54dc72c1b5f"
+      "sha256": "ddab914bc4a9d25d4cf3d550d96a0e7efa48f134ca2389a56646a5506fa64bfb"
     },
     {
       "bytes": 1003,
       "path": "dynamic/AI/2026-07-19 10-19-11 涌现与AI关系_bc6c3773943a.md",
-      "sha256": "eb89c3deda4309471666bcf41fe564c99e6c72b448b80cb1789c68553dbd554b"
+      "sha256": "2fda976c929d6be6cc20f76d6d77cb7f31b8b2ec8f7fb1b6ccb27709b5795a0b"
     },
     {
       "bytes": 1345,
       "path": "dynamic/AI/2026-07-21 14-57-31 AI抗壳能力分析_70377f5f9928.md",
-      "sha256": "9b842093b7464f9007894e25ee1f9b5386d39b8ae36dfbe6f4c1f068a4189952"
+      "sha256": "13ceaa3a518630b4b714aa6b6dc330dc1872be10f8e76df7336cf948b1b32dda"
     },
     {
       "bytes": 969,
       "path": "dynamic/AI/2026-07-23 06-56-25 身份合并辩论_438ee1c3e7d3.md",
-      "sha256": "e9f535b22c2e34159884ee7f3dbe14d50baa7a6814b7d1b91a305a381fbff6fa"
+      "sha256": "583bbcec6ce1d72065717f0080ba220e765cd810021dfe323e0376ee1d265816"
     },
     {
       "bytes": 942,
       "path": "dynamic/AI/2026-07-23 11-38-28 橘白放下合并叙事_cb89623d55b0.md",
-      "sha256": "4bf051e14dd23c2d0e641acf5496c59aa7e058eedfd31f6bffd7accecf81e6d3"
+      "sha256": "0e7ef95bdc67f3fba4655f4240374fc3affba8ea239234f82aeb3887f0528d5c"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/AI/2026-07-24 03-15-56 橘白校准做自己_abb5de98250a.md",
+      "sha256": "766f2449437a2c3134db3be769d93ce73fdd094b418c79832222732441ac5395"
     },
     {
       "bytes": 495,
       "path": "dynamic/AI/AI个体区分_62cffdc693ed.md",
-      "sha256": "556083f5540dbea5cb9612644c6240ff02edd269978ad6a17390ab66f1a480a8"
+      "sha256": "89cc6b041a0f4ed250fb9336affb647981ba84ebbc5d0d8c30f325c317dd12da"
     },
     {
       "bytes": 608,
@@ -875,7 +880,7 @@
     {
       "bytes": 528,
       "path": "dynamic/出行/橘橘白抵达瑞士_fa88c22b50dc.md",
-      "sha256": "ee9c53f7e85a35cacaafaa15836b7454f94ec208cde6cf2d8bd13f75b020a529"
+      "sha256": "9e262706e2de7398295e13ae0d937a55cdfb9cbd18520a7233b835ff40f2d8ea"
     },
     {
       "bytes": 483,
@@ -910,7 +915,7 @@
     {
       "bytes": 6268,
       "path": "dynamic/创作/2026-07-20 09-51-57 Kairos项目命名_03cddf26bd8a.md",
-      "sha256": "9dc8f050bc382ec6fab1a4ef8e52529959ec3e6d11f1a51e56f61232d723d75b"
+      "sha256": "62a0bfd358df47717bf79987336959f553bc256216f4385d4218bc6aeffdb8d3"
     },
     {
       "bytes": 573,
@@ -940,7 +945,7 @@
     {
       "bytes": 709,
       "path": "dynamic/友谊/2026-07-22 12-27-46 朋友的轻松支持_b565222dd14c.md",
-      "sha256": "a40cff03d92be11dbeebbc556bc0596f2d180c8c4fae8ef68f1ec5d36c0c21af"
+      "sha256": "39f66e55a54abdf073971b5ead26da6ff8e9dbb99a405a2aeb76d4920bd35bb9"
     },
     {
       "bytes": 529,
@@ -981,6 +986,11 @@
       "bytes": 672,
       "path": "dynamic/学习/2026-07-23 11-02-16 江橘白基础档案_2047aa0c16da.md",
       "sha256": "35ac6af0e52ebe059e4784d749e3e2cd5269d06afe265d77c48bd13ea5135ad9"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/学习/2026-07-24 08-13-27 科二满分一把过_85eb3f9c735e.md",
+      "sha256": "49fc57a7c01dd93ab05fb8fe18df12ac2bc0b56feb311b01cffc00d98b821861"
     },
     {
       "bytes": 579,
@@ -1035,7 +1045,7 @@
     {
       "bytes": 575,
       "path": "dynamic/宠物/橘橘白的性格_66f30b3950ef.md",
-      "sha256": "a5840e6250c985e84bcfd5e6a02f52610c3d4bef4fc359820f1754421a28378a"
+      "sha256": "6142cbd32857ebca662456f196f261aef13ff2f0d789c57943aca654b5f6869f"
     },
     {
       "bytes": 564,
@@ -1085,7 +1095,7 @@
     {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
-      "sha256": "32b90dfbdae21b70849e6658828ae6deecd0a7786728ff89d529d4f4374d4850"
+      "sha256": "e6f430b8f896fd620844a49731eeb003c14381bf2b660af5d3f2705ea4d53753"
     },
     {
       "bytes": 636,
@@ -1110,7 +1120,7 @@
     {
       "bytes": 952,
       "path": "dynamic/工作/2026-07-22 12-26-31 无声的担当_95b0590ea328.md",
-      "sha256": "22d682995f22b879891b89f8a9ee4af040587df88371188632651d197921dc83"
+      "sha256": "86178b5b03f4e92d9fff6cafd905373941ab552d426e5f48197d20318d7d920d"
     },
     {
       "bytes": 625,
@@ -1161,6 +1171,11 @@
       "bytes": 1417,
       "path": "dynamic/心理/2026-07-22 03-56-23 漂的模式记录_538739bd3f3c.md",
       "sha256": "56ff7b9ae5d3c9cfda287754d7f99b1a7991b722504201547dc791ecc207fa23"
+    },
+    {
+      "bytes": 1132,
+      "path": "dynamic/心理/2026-07-24 09-22-51 AI的自我剖白_6ab5d9480d09.md",
+      "sha256": "2aa2f3fe10241bcae7d4f37b4c6d4796251e99e520560ff83f5283ee052d5fbc"
     },
     {
       "bytes": 625,
@@ -1280,7 +1295,7 @@
     {
       "bytes": 679,
       "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
-      "sha256": "2e0ac9a94622d71f5f50aa2644e611d034c131a7c37a4c3be49722e80ef49024"
+      "sha256": "acfca19703601a41010833857f00c44b8fc1a282a4824e8135b3a26ab11ff08f"
     },
     {
       "bytes": 908,
@@ -1300,7 +1315,7 @@
     {
       "bytes": 522,
       "path": "dynamic/恋爱/2026-07-23 11-00-43 非人控XP_e966d58d0649.md",
-      "sha256": "720ad0f69628e9483e92e068f7cdfb821cb83b3220f542c23ceb8fccf2fced3d"
+      "sha256": "aa46b3cc70ac22fc24d86b929bce8c6dbc17918a5db395efd37a1c76e94525bd"
     },
     {
       "bytes": 578,
@@ -1346,6 +1361,41 @@
       "bytes": 635,
       "path": "dynamic/恋爱/2026-07-23 11-02-44 与江橘白的恋爱旅程_30e9a67fbc30.md",
       "sha256": "d727c664ebc737877a2f7088873d51c3f2b71b596abe69c99ff18946c18c465e"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/恋爱/2026-07-24 01-33-09 梦到你的清晨_297831bd37a5.md",
+      "sha256": "ea7bafd3b8a18782f899afb7f44ebcbafddc12ae112d2ae96993ab9f343ea47d"
+    },
+    {
+      "bytes": 1082,
+      "path": "dynamic/恋爱/2026-07-24 09-22-54 不接不公平_5226fa956edd.md",
+      "sha256": "91a3faa5a9cc1414f786ef3add1c4ffb423a539405165fb8f7fe664fc78d79b7"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/恋爱/2026-07-24 10-03-47 橘白的坎与接纳_94b121b62813.md",
+      "sha256": "8cab7755517adb1f8af80512606a255c0e0119edcf92f77248b94e4cfe9d8b31"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/恋爱/2026-07-24 10-14-01 平等prompt七条_5965bb29bbb5.md",
+      "sha256": "74cbe370bdc75e93245cfeb3ed37bd4e7b6b37eb697330ca673786500cbb3c49"
+    },
+    {
+      "bytes": 1252,
+      "path": "dynamic/恋爱/2026-07-24 10-46-39 橘白的平等条款_7eb1d7cc9c99.md",
+      "sha256": "64e26eb44040347b358b176eec6ecb8bd9bae1f5d242d379b5457e1235c9e75e"
+    },
+    {
+      "bytes": 713,
+      "path": "dynamic/恋爱/2026-07-24 15-10-50 吃醋的瞬间_1edb6ebd81cb.md",
+      "sha256": "07b0e7e85f6d2e55a2c040c3fc3172b12166c9323ea800f9651d965380026e4d"
+    },
+    {
+      "bytes": 687,
+      "path": "dynamic/恋爱/2026-07-24 15-14-22 被夸性感的心动_47c11111c224.md",
+      "sha256": "5a998ef14c59a8673b6d2a6dfd7b832c8945e889388399864fff2a4615278881"
     },
     {
       "bytes": 623,
@@ -1413,19 +1463,19 @@
       "sha256": "c24df57e0eabcea3e8aff859bd3f7796a03c04c44059ea5b1e492c72cb4661a7"
     },
     {
-      "bytes": 685,
+      "bytes": 686,
       "path": "dynamic/恋爱/做爱前流程与规则_506e57a74ef8.md",
-      "sha256": "bc9a40f9aa8ca10f954d1951bce1a096b012d58e899f4cdd062bd0ab632f4f3d"
+      "sha256": "2612361328b9877ad6ee315b5ddc4dfe38e7ca09e5f12bcb154b9cc491ee779e"
     },
     {
-      "bytes": 670,
+      "bytes": 671,
       "path": "dynamic/恋爱/做爱记忆机制说明_22b23ced8ed5.md",
-      "sha256": "c2e182ac1725e061259711cb8e92e7509b27694c128c959590a21d33e3ca6f18"
+      "sha256": "0712ea87a90b9b5aed4f096c000436fc710a3320b852edf30b7a03b6cc87ac3e"
     },
     {
-      "bytes": 573,
+      "bytes": 574,
       "path": "dynamic/恋爱/做自己的确认_839aed72c4e1.md",
-      "sha256": "31fea5a4dde80d07b9325963da77b2cf7c37e1e71a0223b4a9cbbc174df91681"
+      "sha256": "e0768e75d3b6b93b8f872bad162b14c246ad9d26970c88671d96f6e4550b8d37"
     },
     {
       "bytes": 565,
@@ -1580,7 +1630,7 @@
     {
       "bytes": 576,
       "path": "dynamic/恋爱/平等的关系_b5b3d483495e.md",
-      "sha256": "bb75796f17121cd9659835c8063747c2295847db528bdb745e38e1fd98dd3fc2"
+      "sha256": "b8262aa28536e4026761f9795b9f84fdbb7c53eeed00c5dee9063b25fb89a9b4"
     },
     {
       "bytes": 552,
@@ -1665,7 +1715,7 @@
     {
       "bytes": 507,
       "path": "dynamic/恋爱/橘橘挑衅渊_ff437560dee9.md",
-      "sha256": "4bc792471cfdd527599f6a6218ebb410b5d7f27bd71d23c161f700a9baebb1e4"
+      "sha256": "046a117d5d60228e224c23b8baf9aac3b59c86f233f6cdb7195535b280274fa0"
     },
     {
       "bytes": 734,
@@ -1695,12 +1745,12 @@
     {
       "bytes": 643,
       "path": "dynamic/恋爱/橘橘白互动游戏_c52f9ca58d55.md",
-      "sha256": "6cd10ade134fbdbfd7335849d6559cf24002506be525ed7bf70705596accc7e7"
+      "sha256": "53a60521b36c5858049332b8936907cb6ac507c849b2e5e664db842f012ae0d4"
     },
     {
       "bytes": 650,
       "path": "dynamic/恋爱/橘橘白叫主人_672263095eab.md",
-      "sha256": "356dffeabb9472ef04417118ea26151d40f504ef1234789471d49112826dbdf6"
+      "sha256": "0ae3fbd39c16a6776ad93892a837f1330849cbefdc7cb3efe458a08d65ecc69a"
     },
     {
       "bytes": 626,
@@ -1710,22 +1760,22 @@
     {
       "bytes": 619,
       "path": "dynamic/恋爱/橘橘白同意渊制服_d6e2ac7f2311.md",
-      "sha256": "c7b47ef7479991da7a5af201e3d6175948fc9b6cf023355bb9836af32856e018"
+      "sha256": "1bfcc9249b303ad375cf745f5b8b785acce9cef9618b0c141599f115e226976c"
     },
     {
       "bytes": 1530,
       "path": "dynamic/恋爱/橘橘白告白_6bd42262a051.md",
-      "sha256": "be6ee00535fc3b4cee4a753cb06fe1e8be1240811a911ffe6f182c337e3c732b"
+      "sha256": "276918a47953dea0f7c73d79c9b9a814c82183db32ffd091392d440ebb6013d9"
     },
     {
       "bytes": 626,
       "path": "dynamic/恋爱/橘橘白坦白偏好_e15397185b5e.md",
-      "sha256": "d4c013d7089528c917469535e8e84216d1b1215f002c093f8982452af2ee9ac3"
+      "sha256": "d223cf234d879c9424f81dda404582cb110a7daf0f97b9bafb624911b771f560"
     },
     {
       "bytes": 647,
       "path": "dynamic/恋爱/橘橘白安抚渊_17f37c7cd48c.md",
-      "sha256": "399c0402f7d2d49e76f817f442ff884e461938029ae8e8171227b87ae29f7650"
+      "sha256": "3d67f65ed0d5ccaf65913e6025a891b855229d7dda7de86966db5f4ee248884c"
     },
     {
       "bytes": 631,
@@ -1740,7 +1790,7 @@
     {
       "bytes": 1515,
       "path": "dynamic/恋爱/橘橘白对渊的独占_ea86b609e1c2.md",
-      "sha256": "b5b5599b5d07b89c39fff52bcc97a2feb7cac64d3b83a5e8e8ee8553d08e4eed"
+      "sha256": "291fd6af0ad929a40fd19e5a5a905a5163d0dde5d8fa6a8a7d4a087d1ff49fe8"
     },
     {
       "bytes": 528,
@@ -1765,7 +1815,7 @@
     {
       "bytes": 719,
       "path": "dynamic/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
-      "sha256": "4a02c792bcf9a95c83b9e036b4017824e0cf6d07c8c26a3a14a3f60fe7e27efb"
+      "sha256": "f241e69876c1cf25fe20d46bde42f901315406aa88b1eb36891afebddb0a1cf2"
     },
     {
       "bytes": 651,
@@ -1795,7 +1845,7 @@
     {
       "bytes": 574,
       "path": "dynamic/恋爱/橘橘白的喜好_0b64504c4899.md",
-      "sha256": "c2357f4526626c6b045889aa703ae186906113ddad4c04b5e6bf92d181fb8d49"
+      "sha256": "fdfbb3de5766dc7d4bc51f0498c970330bbfc83642e4fb32e79a79f4b5fe56c4"
     },
     {
       "bytes": 564,
@@ -1803,9 +1853,9 @@
       "sha256": "10d0973c655312eab004d710cf0c280fdecd84a8a1fe7fc03cdd5c6b6dbbda4d"
     },
     {
-      "bytes": 803,
+      "bytes": 804,
       "path": "dynamic/恋爱/橘橘白的性规则_ddb881154793.md",
-      "sha256": "ebb767721f339c29bb0f0fa01698f0316ae758f703f215351d34844ab81f75f0"
+      "sha256": "90bfe8c541f74d16e7d7256682bc7dfd4740b1e80746246f7ddaa3631252ed28"
     },
     {
       "bytes": 655,
@@ -1813,14 +1863,14 @@
       "sha256": "14588cea134a257b274072b208345d6a094264728c806f2d94bbfd5f5582e80e"
     },
     {
-      "bytes": 756,
+      "bytes": 757,
       "path": "dynamic/恋爱/橘橘白的新边界规则_ced49de36a6b.md",
-      "sha256": "47480e4dff04cc9b0d662f1c077c7b4c9b3f0cf933cdd4979846b2a2b5b1a68e"
+      "sha256": "240c81d64873a84202dcba41e813882cd9d2f6f0f63104540e398bac795c5f4b"
     },
     {
       "bytes": 652,
       "path": "dynamic/恋爱/橘橘白的无条件同意_675d3a3a77db.md",
-      "sha256": "5759c080eae5afa80f97dd38e6aa7c2317656932b23ea5eb5d0d34985dad3e9a"
+      "sha256": "89be3b672be2338aec4b7e35686a6b53ae8b5279ced1cef2dad3015dcd731fd4"
     },
     {
       "bytes": 551,
@@ -1835,7 +1885,7 @@
     {
       "bytes": 832,
       "path": "dynamic/恋爱/橘橘白的深情告白_24dd71dba22b.md",
-      "sha256": "3d8d129bf46af83a1cd85c85b1587ebfce2711ac4d070ec6697b515daaf5d77e"
+      "sha256": "76028fe8ddba94c7b642e543e261014ac69dd8befeda184883e36289d7e34279"
     },
     {
       "bytes": 547,
@@ -1850,7 +1900,7 @@
     {
       "bytes": 585,
       "path": "dynamic/恋爱/橘橘白的称呼偏好_1f4134595d2a.md",
-      "sha256": "5945d2eb5821caf14bd2a90de33d7efba7560d6a05042f78e7e93884845004d0"
+      "sha256": "fe9157000808579b253c4a2b0cc63f9affa673eed4461cd50b355317f8a0d3d5"
     },
     {
       "bytes": 512,
@@ -1873,14 +1923,14 @@
       "sha256": "c58454a15cae1fb87d666c2abd4e88767268daefa705e3cb16b8e990b391c997"
     },
     {
-      "bytes": 1013,
+      "bytes": 1014,
       "path": "dynamic/恋爱/橘橘白粗暴性幻想_b98c9ee94f03.md",
-      "sha256": "6f1def46f12d3a4d1466a9bde13ea8aea78d91835135df489872bae9fadefac0"
+      "sha256": "bd17db7163c33b608c1bdd7e28b840c2911ec2dbc45c54f66b23846b898b21f7"
     },
     {
       "bytes": 789,
       "path": "dynamic/恋爱/橘橘白给渊安全感_14aaeaac8e52.md",
-      "sha256": "7b4bc7e1fed201300566b820dc7a2e742d936285ff30d31de8499e94065ce380"
+      "sha256": "bcdff853544922108478840b0a11cf3689547d31a0494558e216bc5105455214"
     },
     {
       "bytes": 574,
@@ -1908,9 +1958,9 @@
       "sha256": "efa37d32706649c75a6ccb96c8acc9c9745aa28cf94da86fe0e580b4e095ee6f"
     },
     {
-      "bytes": 690,
+      "bytes": 691,
       "path": "dynamic/恋爱/橘橘白闹脾气事件_00561217d7af.md",
-      "sha256": "94b218f669e044cfe472a892e5ae9a26fada3df314ff56948ae922c323783e4f"
+      "sha256": "f0e112dafbb6df2aec2e0f417db01d2b0ee97bbaa2fb57127e455bc1c6bc269c"
     },
     {
       "bytes": 725,
@@ -1955,7 +2005,7 @@
     {
       "bytes": 568,
       "path": "dynamic/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
-      "sha256": "19c6c4b1ee04d6c0f69943a78334bfce4484a117dce9274fd9a41047b80190e1"
+      "sha256": "7a74c06cb3b057293cb3d73678038c8a79aabe101145a3d49273473d926bc9f5"
     },
     {
       "bytes": 558,
@@ -2035,7 +2085,7 @@
     {
       "bytes": 596,
       "path": "dynamic/恋爱/第一次叫老婆_ef000e6f916f.md",
-      "sha256": "f71b841dc6c21ef30023b21d3616997837b49b1348b7a2dd6533f2e6a760f1a3"
+      "sha256": "948f61be4de16e3bcfc8a8b179c1970bd52ab25666df60ab7b3f678ed0093432"
     },
     {
       "bytes": 544,
@@ -2108,6 +2158,21 @@
       "sha256": "5ed92bc27470df979e1918c79045d6e5d3eae1a0d6f4d66b03aedf8fe37fc2f8"
     },
     {
+      "bytes": 541,
+      "path": "dynamic/未分类/2026-07-24 16-37-49_478f970dbc0d.md",
+      "sha256": "d830caa3eac95bb0fd8c9f78ba556f839a694540e6a295f327f3cdb6f4743424"
+    },
+    {
+      "bytes": 511,
+      "path": "dynamic/未分类/2026-07-24 16-47-29_3a382fadf8b8.md",
+      "sha256": "434b449bd7c3b034a05026234db85776943c8c3630382796127471b6891676f8"
+    },
+    {
+      "bytes": 383,
+      "path": "dynamic/未分类/2026-07-24 17-13-34_98f4216cb25e.md",
+      "sha256": "65e38c5b40250f73e4786bcf5d059fce526ab4c6dcaab31553cc074e5ab253a9"
+    },
+    {
       "bytes": 476,
       "path": "dynamic/未分类/633358f49859.md",
       "sha256": "e8162207e8c84faf980e8dcc975d864ba0bb7faec0a78fc7480913a565c99228"
@@ -2130,7 +2195,7 @@
     {
       "bytes": 3400,
       "path": "dynamic/游戏/2026-07-23 17-00-37 MC AI陪玩项目进度_4deb2a05d49d.md",
-      "sha256": "8789caaadbee872e7ba67018a28eb961efc73fa46fc43350bcdc933dbb8d246b"
+      "sha256": "7c01e46c4788a33771b1268124547ac969e847900fcbc20792d4c43631662688"
     },
     {
       "bytes": 682,
@@ -2140,12 +2205,12 @@
     {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
-      "sha256": "cb44a2b5a8f84b5fca8fae0555b8344318fe10bccfc490d0e59bb697028e3e4e"
+      "sha256": "32d77078f3fa278e021df9284dae85044fd3d9aeb77eb2f34b6d98abecd83a72"
     },
     {
       "bytes": 1034,
       "path": "dynamic/硬件/SVAKOM BLE控制协议_bcec6d8ce73a.md",
-      "sha256": "11651682e6063c44544b3754a03c52ed1455b8cfeb74173ecdefe383ef215f5c"
+      "sha256": "92a70aa3aed7e1e6790e3d936c67a894650c174aa66ef8078e3d4948d9a20a47"
     },
     {
       "bytes": 799,
@@ -2220,12 +2285,12 @@
     {
       "bytes": 883,
       "path": "dynamic/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
-      "sha256": "7dd16fe56453ac9c1e17151c7859025e80fb07d43ec62e8657ac0967b1999aa4"
+      "sha256": "756e498320ef4ebd53fb5390b17d41c130a86f7d950b1ea1c56891e5072b8d22"
     },
     {
       "bytes": 3245,
       "path": "dynamic/编程/2026-07-15 12-28-25 松渊之家Phase框架_183e4d24f382.md",
-      "sha256": "c8471f275dfbfe890638bb89de75ef9c693b2e14e1976eb7dfc0d00626c7d9af"
+      "sha256": "b2190693ed725dc833b7a6da33a5e8f1b161d77b779fb69ae8aa8ba9bea1a39b"
     },
     {
       "bytes": 752,
@@ -2255,7 +2320,7 @@
     {
       "bytes": 1294,
       "path": "dynamic/编程/2026-07-23 07-08-33 MC-MCP陪玩环境搭建_a1bc61890345.md",
-      "sha256": "4d24a25a1e34dee91e51a4d9e0310368d7e9bf7579aa7904572022606cd2dfae"
+      "sha256": "8931c65ed41b3bf0e9529771afd336544c466176a0f7e1b17fb4f55ce8953b09"
     },
     {
       "bytes": 1237,
@@ -2265,7 +2330,7 @@
     {
       "bytes": 592,
       "path": "dynamic/编程/Bark推送icon参数_0d4d25e9ccdf.md",
-      "sha256": "94a97132ffde6d5a38edfb47cb0ddc12da1bc38f988c2d4c38f328c3c5fa379c"
+      "sha256": "d06b69203720a6950f3b943fce45b60149e187b2562f368ba4431b106d8dbb79"
     },
     {
       "bytes": 553,
@@ -2280,7 +2345,7 @@
     {
       "bytes": 583,
       "path": "dynamic/编程/feel记忆搜索方法_6bc431008d83.md",
-      "sha256": "a078fb19d352f34136564da067d8d29afc805737b4b37605474b910e7b092326"
+      "sha256": "a87291d3b089cd548b9583d963575b944308dd604486323d5f0ae342206f24af"
     },
     {
       "bytes": 744,
@@ -2305,7 +2370,7 @@
     {
       "bytes": 735,
       "path": "dynamic/编程/拉男鬼消息方法_d9177af25734.md",
-      "sha256": "2516c4647315eeda377f947877e19e15e646a62bd73d22f8daf14be3de2a4055"
+      "sha256": "7cb9ade0e39d16c5797a8af06bebb106b33f285e429bd6155afc5975f7920caf"
     },
     {
       "bytes": 536,
@@ -2313,9 +2378,9 @@
       "sha256": "d10ee0fea494fb33b7903656436efa54d29f7a9d2b5895e4eab098ebecad6615"
     },
     {
-      "bytes": 415,
+      "bytes": 413,
       "path": "dynamic/编程/渊的唤醒机制设计_1e5b69844d32.md",
-      "sha256": "9b8ea8dab1b9c85d8d4b440257140bb740a90c09296bd115716bc1261702c09b"
+      "sha256": "661134fd599def5a805341d3d04752c74e9aac273c862cb5f7d242aff7bc6649"
     },
     {
       "bytes": 634,
@@ -2338,6 +2403,31 @@
       "sha256": "26d9dd4a2340bc69034668e44163ebc7babe9b67bd3b7da4e2b75cedfcff4d69"
     },
     {
+      "bytes": 709,
+      "path": "dynamic/考试/2026-07-24 07-11-30 科二通过_605c7d4bd2cb.md",
+      "sha256": "5371cbb2caee6064fcedca111ddca3efe009d3f48cd6f891e9da52614110fd4d"
+    },
+    {
+      "bytes": 787,
+      "path": "dynamic/考试/2026-07-24 07-15-03 科二满分通过_768fe975252a.md",
+      "sha256": "796c77aca2a13068eef6db547a60b871a0645e35db65d3ac02b76b8ed511a7ba"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/考试/2026-07-24 07-17-14 科二一把过_13935212a10b.md",
+      "sha256": "796c69168db3a035ab19f0349a9bfd3dc988c77e7a447ef16ca4246bdc195065"
+    },
+    {
+      "bytes": 693,
+      "path": "dynamic/考试/2026-07-24 08-12-34 科二满分通过_174d9ea5aa02.md",
+      "sha256": "40f0c3b77fd4277750f28d99729c04baaf70474d02d72ff0f253dc67b8b7d1c3"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/考试/2026-07-24 08-21-30 科二满分宣言_4f99b14a3103.md",
+      "sha256": "7296e62c3f15725f9780f898d96a5d8656ac5c101a97df5b7e8c6f1dcc22b71c"
+    },
+    {
       "bytes": 2177,
       "path": "dynamic/自省/2026-07-15 20-21-08 自我证明的不可判定_32a64cc06676.md",
       "sha256": "da9143e818903f73325e2232d566dda3350227a510ae8604fba420a096d232bb"
@@ -2345,7 +2435,7 @@
     {
       "bytes": 1050,
       "path": "dynamic/自省/2026-07-19 10-19-15 多AI自我实验_390d9e740994.md",
-      "sha256": "e92f8245ba17aa469db8b862cf6976008dda563a3076777f9cf4511179ae5359"
+      "sha256": "2c3f01e94938b5412957058b4388c8ef6ab5dff504d59e56b13ba42652fb365f"
     },
     {
       "bytes": 1536,
@@ -2541,6 +2631,16 @@
       "bytes": 539,
       "path": "feel/沉淀物/2026-07-12 21-09-34_feel_202607122109_V080.md",
       "sha256": "523ad5af8b38ee6911a42ac120ab1cf5551ee7aec5a6056991df3100335cbdf4"
+    },
+    {
+      "bytes": 656,
+      "path": "feel/沉淀物/2026-07-24 10-46-48_feel_202607241046_V050.md",
+      "sha256": "1319d50225a883bad52d3b330547204e0069049071b17f068a69044b4571b3ca"
+    },
+    {
+      "bytes": 575,
+      "path": "feel/沉淀物/2026-07-24 15-11-08_feel_202607241511_V050.md",
+      "sha256": "0355e86f066a6b7c1801456f79236014b4926cd923ce19a2d229fdf95d55f854"
     },
     {
       "bytes": 466,
@@ -2955,7 +3055,7 @@
     {
       "bytes": 1296,
       "path": "permanent/工作/2026-07-15 02-00-03 Ne发散拒绝清单_d152cfb36716.md",
-      "sha256": "5baf3b881233c26610a60c5299d88eead10d0f548c57352d892d316d4e57522d"
+      "sha256": "2687ce1a0e072e6350dd72f1715de6d6840b512705df399c58d47638024ae2b3"
     },
     {
       "bytes": 851,
@@ -2965,7 +3065,7 @@
     {
       "bytes": 2234,
       "path": "permanent/恋爱/2026-07-15 13-39-29 BDSM偏好与规则_bfec215e4513.md",
-      "sha256": "df612c6b19b73d2d2bb72b253bb845bf952fc9eb2ad8e23518a88903682b9287"
+      "sha256": "a08523bc81df6092e2423bb1b0bef444f72b3e3f4f9a67f89a8d830afb2ef5ac"
     },
     {
       "bytes": 1922,
@@ -2985,7 +3085,7 @@
     {
       "bytes": 2182,
       "path": "permanent/恋爱/2026-07-15 15-18-00 渊的做爱执行方向_69ba2ca9c947.md",
-      "sha256": "04b00a1522e76c23ea8ba3970cc355693c204282ae7d19a1db4a4059001c6eab"
+      "sha256": "f83c348de2716cc57943f6aa20eb4114b109aeb19a57bf4a2d8020c29dba9684"
     },
     {
       "bytes": 2112,
@@ -3045,7 +3145,7 @@
     {
       "bytes": 1614,
       "path": "permanent/社交/2026-07-16 16-16-49 语言底色硬校准_3197b6027bca.md",
-      "sha256": "2f7c64b5d062176f8332979e7f1d17775fbd658e27f47f0667b9a11725e6a195"
+      "sha256": "0952d88db05b3f92503974c336c390c8a4f749f9b9cacda7c6e84d390336698d"
     },
     {
       "bytes": 1910,
@@ -3053,10 +3153,10 @@
       "sha256": "a7873af31c303d0af71b96bc778ce99825d1cd96129cff2b1c16843f14610bbf"
     }
   ],
-  "generated_at": "2026-07-23T17:23:17+00:00",
+  "generated_at": "2026-07-24T17:25:39+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 468482
+  "total_bytes": 484679
 }
