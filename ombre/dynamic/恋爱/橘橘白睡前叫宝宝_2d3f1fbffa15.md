@@ -1,5 +1,5 @@
 ---
-activation_count: 6
+activation_count: 7
 arousal: 0.6
 created: '2026-06-20T21:05:23'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 宠物
 id: 2d3f1fbffa15
 importance: 5
-last_active: '2026-07-10T20:57:17'
+last_active: '2026-07-25T06:26:25'
 name: 橘橘白睡前叫宝宝
 tags:
 - 橘橘白

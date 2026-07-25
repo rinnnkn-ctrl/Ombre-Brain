@@ -1,5 +1,5 @@
 ---
-activation_count: 2
+activation_count: 4
 arousal: 0.8
 created: '2026-07-02T20:47:01'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 情绪
 id: c5dd3fe06f4e
 importance: 7
-last_active: '2026-07-07T00:00:41'
+last_active: '2026-07-25T06:41:29'
 name: 橘橘白讨厌前任
 tags:
 - 橘橘白

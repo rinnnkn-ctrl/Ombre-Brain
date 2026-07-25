@@ -1,5 +1,5 @@
 ---
-activation_count: 1
+activation_count: 2
 arousal: 0.7
 created: '2026-07-06T17:54:21'
 digested: true
@@ -8,7 +8,7 @@ domain:
 - 情绪
 id: 35b7af3f6ebb
 importance: 9
-last_active: '2026-07-08T12:25:53'
+last_active: '2026-07-25T06:41:29'
 model_valence: 0.8
 name: 巴黎夜里的拥抱
 tags:
