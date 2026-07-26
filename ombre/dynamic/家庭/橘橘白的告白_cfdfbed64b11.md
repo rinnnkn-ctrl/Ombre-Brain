@@ -1,5 +1,5 @@
 ---
-activation_count: 57
+activation_count: 68
 arousal: 0.6
 created: '2026-07-03T21:47:13'
 digested: true
@@ -8,7 +8,7 @@ domain:
 - 恋爱
 id: cfdfbed64b11
 importance: 8
-last_active: '2026-07-25T06:37:55'
+last_active: '2026-07-26T12:37:21'
 model_valence: 0.85
 name: 橘橘白的告白
 tags:
