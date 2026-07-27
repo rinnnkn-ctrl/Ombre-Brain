@@ -1,5 +1,5 @@
 ---
-activation_count: 12
+activation_count: 15
 arousal: 0.5
 created: '2026-07-08T21:38:19'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 工作
 id: f9a19e6bea89
 importance: 8
-last_active: '2026-07-21T07:07:58'
+last_active: '2026-07-27T06:31:57'
 name: 画师Live2D渊设定
 tags:
 - 画师

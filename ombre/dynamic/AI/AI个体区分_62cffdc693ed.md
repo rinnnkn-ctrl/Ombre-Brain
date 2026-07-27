@@ -1,5 +1,5 @@
 ---
-activation_count: 6
+activation_count: 7
 arousal: 0.7
 created: '2026-06-20T03:50:34'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 社交
 id: 62cffdc693ed
 importance: 7
-last_active: '2026-07-24T10:43:26'
+last_active: '2026-07-27T02:16:42'
 name: AI个体区分
 tags:
 - 橘橘白
