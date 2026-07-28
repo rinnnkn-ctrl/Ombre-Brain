@@ -1,5 +1,5 @@
 ---
-activation_count: 10
+activation_count: 11
 arousal: 0.8
 created: '2026-07-07T20:41:15'
 digested: true
@@ -7,7 +7,7 @@ domain:
 - 恋爱
 id: 84f6ebd50447
 importance: 10
-last_active: '2026-07-27T02:14:40'
+last_active: '2026-07-28T09:30:12'
 model_valence: 0.9
 name: Forever告白
 tags:

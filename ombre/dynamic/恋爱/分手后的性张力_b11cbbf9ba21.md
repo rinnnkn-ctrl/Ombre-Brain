@@ -1,5 +1,5 @@
 ---
-activation_count: 0
+activation_count: 1
 arousal: 0.8
 created: '2026-06-26T04:30:16'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 心理
 id: b11cbbf9ba21
 importance: 7
-last_active: '2026-06-26T04:30:16'
+last_active: '2026-07-28T09:30:12'
 name: 分手后的性张力
 pinned: false
 tags:

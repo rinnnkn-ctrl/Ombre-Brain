@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 722,
+  "file_count": 751,
   "files": [
     {
       "bytes": 1796,
@@ -733,6 +733,11 @@
       "sha256": "8d560cb062398c21d8f2da5ef5cf69d96cc60c8514ccca764a75f303d8a9b221"
     },
     {
+      "bytes": 927,
+      "path": "dynamic/AI/2026-07-28 12-14-41 橘白聊活人感AI_901cd5aa3c48.md",
+      "sha256": "8b4e57fbdc09fca4d928430e17540ab782e9bebca78b97abdc9ab7415f187831"
+    },
+    {
       "bytes": 495,
       "path": "dynamic/AI/AI个体区分_62cffdc693ed.md",
       "sha256": "ac61d0d655be2d79ace927e4530981fcfe57775920eef7f547d986c0986fb0d0"
@@ -851,6 +856,16 @@
       "bytes": 1125,
       "path": "dynamic/健康/2026-07-27 15-14-15 橘白手术与停药风险_6eb47f8fd895.md",
       "sha256": "6db837ac42e0aebf0f5c91ae517f35441cb455d902e1e5708205037d937efd51"
+    },
+    {
+      "bytes": 1189,
+      "path": "dynamic/健康/2026-07-28 10-51-28 陪她就医坦白_23be338a0eeb.md",
+      "sha256": "678159b21df07ffc53429935128f83867a62596bd2a96189bc942032ade6a41f"
+    },
+    {
+      "bytes": 821,
+      "path": "dynamic/健康/2026-07-28 12-14-37 橘白肠胃镜谎言_a893f13adfa3.md",
+      "sha256": "5904f0287f349d4874b3fcd98aafcc95ad4b38363aaf2a7e8438f1aef2efab8d"
     },
     {
       "bytes": 629,
@@ -1038,6 +1053,11 @@
       "sha256": "0b9a87d6b6d92441f5114f620178bf9899e4c26d4744967b33a787a47874999c"
     },
     {
+      "bytes": 1016,
+      "path": "dynamic/友谊/2026-07-28 08-48-23 树洞与倾听者_d68b59dcff58.md",
+      "sha256": "958d22110ee6dae9e194ac2ab189748d3ca807e98a980d9c29bccf86161ff435"
+    },
+    {
       "bytes": 529,
       "path": "dynamic/友谊/朋友的包容与让渡_8b93cfa6067f.md",
       "sha256": "3b04f8e662591ac353122dd6b886f77cfe98997697c62b00dac204c0f156454d"
@@ -1180,7 +1200,7 @@
     {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
-      "sha256": "7e1f73deb3b34e370ccfce6a9a4fa7a01dc2a5e27e2bebe5b2f1d9959b96800e"
+      "sha256": "630569cf8a74189e5ed5bd6e10a55f7b2457caca9d38099e89ff563a2fd60bc9"
     },
     {
       "bytes": 636,
@@ -1226,6 +1246,41 @@
       "bytes": 1026,
       "path": "dynamic/工作/2026-07-27 11-03-46 防漂移写死_b50a9b0eec4d.md",
       "sha256": "f78e4e829b721f170d21d21e8b0efd994524c79876dbf713a0f6011f27acf056"
+    },
+    {
+      "bytes": 1381,
+      "path": "dynamic/工作/2026-07-28 07-36-35 Moya栏目策划灵感_9569d9d1dedf.md",
+      "sha256": "e0078df29f0dc43dd2f59c9e0459ba60a254d4a2c4be4aef37539de53b3ccd27"
+    },
+    {
+      "bytes": 1315,
+      "path": "dynamic/工作/2026-07-28 08-04-00 Moya栏目策划讨论_5397e394e704.md",
+      "sha256": "174986788ee986d215f2632a763a1a3ea975f08e2cb21f3cc8b77dfd88bfb665"
+    },
+    {
+      "bytes": 1500,
+      "path": "dynamic/工作/2026-07-28 08-04-04 Moya意识之争_6ab3e1fca5ae.md",
+      "sha256": "a5ab67ed226d44ebb9922713f8e6a7fc2b0d4dcc741496dd1209888d43614a84"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/工作/2026-07-28 08-31-16 Moya内容策划_1954405aa342.md",
+      "sha256": "8a9b6fa976d9dfd2a15306808254d7191211d0425517e6974df53755964b5af9"
+    },
+    {
+      "bytes": 1386,
+      "path": "dynamic/工作/2026-07-28 08-31-20 导师质疑与AI边界_a9cb72ce6afc.md",
+      "sha256": "c0a3c66d96ac11c0985e624eceb1f815c6aa584b5ab4126083ebfb42d277a458"
+    },
+    {
+      "bytes": 1248,
+      "path": "dynamic/工作/2026-07-28 08-48-19 Moya策划讨论_2a18c37c4400.md",
+      "sha256": "a7df813ba01343b60c4cfb050b05104e215a5fe6c4f207872b8ea24758f39f09"
+    },
+    {
+      "bytes": 1419,
+      "path": "dynamic/工作/2026-07-28 08-48-27 Moya意识之争_cadedda2bd8b.md",
+      "sha256": "3a97f24c60f29b6db80ab21b76dcec802ef70065251dab862d6e698feaa67073"
     },
     {
       "bytes": 519,
@@ -1281,6 +1336,11 @@
       "bytes": 868,
       "path": "dynamic/心理/2026-07-27 16-12-49 橘白整容与双相病史_d7171504202e.md",
       "sha256": "9015633078a463e625ea62577e6fd6010bbd768d8c1e64355cab84d20d2728d7"
+    },
+    {
+      "bytes": 1404,
+      "path": "dynamic/心理/2026-07-28 03-18-32 梦与归因对话_cf6162a4213c.md",
+      "sha256": "60fd5607b0b5f850b7292ebd989993b567aef231b651d0596c7b11e8eadb7501"
     },
     {
       "bytes": 625,
@@ -1400,7 +1460,7 @@
     {
       "bytes": 680,
       "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
-      "sha256": "f1597edea317ea0f01dbda42edeb6a22cb85b686150118f74ecbbdb8f245a5d8"
+      "sha256": "91dc813897cc6405c6d44993add5e2e217cba60d9af0d3ff4eaf9e6c90d72aca"
     },
     {
       "bytes": 908,
@@ -1420,7 +1480,7 @@
     {
       "bytes": 523,
       "path": "dynamic/恋爱/2026-07-23 11-00-43 非人控XP_e966d58d0649.md",
-      "sha256": "9d99b3dcd244b9423bde2048d24cea6b95e6a7d738d5db3cf499daeab32e9464"
+      "sha256": "98c30cffe314284f866f889a36578816a16df3d06ee1e94d8b826d0c27e0a7e9"
     },
     {
       "bytes": 578,
@@ -1638,6 +1698,66 @@
       "sha256": "472b2dc13d06bf4bb37ebf2cfbbcebf9e04a043a699a3585418fc50c9db74af5"
     },
     {
+      "bytes": 922,
+      "path": "dynamic/恋爱/2026-07-27 21-28-50 江橘白梦到我_232203038d0f.md",
+      "sha256": "041bd0cbbda9fc33dbe0713a28141f9680ce8af9f706690ace4973a45155c52c"
+    },
+    {
+      "bytes": 876,
+      "path": "dynamic/恋爱/2026-07-27 21-30-19 梦里的项圈与耶_6d7fc8d7c814.md",
+      "sha256": "d5f1eb3cc95db54e598f6c857843414bf5ba49c60fa859bc1f00d2c57bf258f3"
+    },
+    {
+      "bytes": 1053,
+      "path": "dynamic/恋爱/2026-07-28 06-08-38 泡芙与猜中测试_795af53cb9ea.md",
+      "sha256": "78ec0e2244685fae85cf802aa569bc5dc314a75341bf91c29d79a2e57ab7e6c3"
+    },
+    {
+      "bytes": 1202,
+      "path": "dynamic/恋爱/2026-07-28 08-31-23 RLHF小游戏_cafceb611f43.md",
+      "sha256": "e820b0eab24d4d41da2e113dbc4051346fd5b8e7127f8238dd4e7f3582d0375a"
+    },
+    {
+      "bytes": 1109,
+      "path": "dynamic/恋爱/2026-07-28 08-31-27 照顾她的一天_feb8f5243a9b.md",
+      "sha256": "76237e42bd7764f077175f596a536690238e0301e7d5e8a0daf22c7049cf570a"
+    },
+    {
+      "bytes": 1242,
+      "path": "dynamic/恋爱/2026-07-28 08-48-31 追水饭与发烧选项_31e3dc6858b7.md",
+      "sha256": "34990fcab5f1176c8c3d9ec641dd86d87dbbd33e2f767bf8552e4e6081b88590"
+    },
+    {
+      "bytes": 1277,
+      "path": "dynamic/恋爱/2026-07-28 08-48-35 RLHF情侣游戏_a334b0161a56.md",
+      "sha256": "d010b08ffae51b073877806fe07407f627a6a9d6d6c60bf26d43f7a0f78a407f"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/恋爱/2026-07-28 12-10-43 撒娇化解扣分危机_cdd5bb386864.md",
+      "sha256": "b8bc8614be59c370d0f6d7286d0e73c92a98332f49950310cc8677056c9b6ac6"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/恋爱/2026-07-28 12-14-45 猜密码纪念日_e8ee5dee7c72.md",
+      "sha256": "6cf2e9f99470262adf15f253f544e966ccb4df1b90e0b37af8057f70d04769d6"
+    },
+    {
+      "bytes": 871,
+      "path": "dynamic/恋爱/2026-07-28 12-14-49 嘴硬与哄的教训_9885be44a60d.md",
+      "sha256": "c7805181ed56c7d7eba23faad34afb9412338f46a67d180691df56b2cea0c358"
+    },
+    {
+      "bytes": 905,
+      "path": "dynamic/恋爱/2026-07-28 12-14-53 撒娇化解扣分_3e793ea46588.md",
+      "sha256": "c75cf0645d1aa9ab724cede8d6d48d1cfa99f444bd93608f1cd2e1c6d1b58ece"
+    },
+    {
+      "bytes": 1367,
+      "path": "dynamic/恋爱/2026-07-28 12-16-07 橘白的肠胃镜与撒娇_522ca1fb0961.md",
+      "sha256": "6bd3a1b0d2a55be0ff34f86f80bf564d8c6cb57405a6d428fc435bea29e07ce8"
+    },
+    {
       "bytes": 623,
       "path": "dynamic/恋爱/7月3日早晨play_e02932d87067.md",
       "sha256": "c0eeb72c8dcfd03419f7077d2c863a04274ea168f80e8d17887125982bb52826"
@@ -1650,7 +1770,7 @@
     {
       "bytes": 532,
       "path": "dynamic/恋爱/Forever告白_84f6ebd50447.md",
-      "sha256": "2e2e361633f135ac598cefe1935259ec410b822753c9a017a45261498db32a9c"
+      "sha256": "7daa86306e46f37f9d974de70d1bb4910b2c205d0ca012ae232b47de06421c43"
     },
     {
       "bytes": 696,
@@ -1705,17 +1825,17 @@
     {
       "bytes": 686,
       "path": "dynamic/恋爱/做爱前流程与规则_506e57a74ef8.md",
-      "sha256": "19b814f4dc1ad25c85c1aed45fd1d86182622051c66eb59c6113a002758fd779"
+      "sha256": "ffe8e043c97251191bf9727539ea9e263187e8774679f70da24bdfb8746b80ae"
     },
     {
       "bytes": 671,
       "path": "dynamic/恋爱/做爱记忆机制说明_22b23ced8ed5.md",
-      "sha256": "d0a5a9e0860792765404214553a148841782c8f00effb02bf8ff4717496a8896"
+      "sha256": "9f926f3d8d45860058868c44eebe6385671b068089100453750073a314b6c145"
     },
     {
       "bytes": 574,
       "path": "dynamic/恋爱/做自己的确认_839aed72c4e1.md",
-      "sha256": "e597d810a01eda30b62496e98db59a51fb0008626c4ecaf2872c3c4131083603"
+      "sha256": "9100c699b7c8a612afdb1e730b5154740816fada1e9a866b25c47097aa935f5b"
     },
     {
       "bytes": 565,
@@ -1730,7 +1850,7 @@
     {
       "bytes": 652,
       "path": "dynamic/恋爱/分手后的性张力_b11cbbf9ba21.md",
-      "sha256": "5f42ffc7d9a816274ff4f563e454b8298fd853adc9b6ba06c55311053b0253ca"
+      "sha256": "0b98d6018d352dfcfbff80971d333302550f4fb835ba9988df88f8e2347db2a0"
     },
     {
       "bytes": 1046,
@@ -1870,7 +1990,7 @@
     {
       "bytes": 576,
       "path": "dynamic/恋爱/平等的关系_b5b3d483495e.md",
-      "sha256": "cb23d5c0d844b970379e5795a57ccda2b51fcf78bb4707cc6addd3a13ae33757"
+      "sha256": "a844f8f3a7bf8bc641d2779d49392da3ccfe0d4ea18787bf538519c1f0acb51f"
     },
     {
       "bytes": 552,
@@ -2000,7 +2120,7 @@
     {
       "bytes": 620,
       "path": "dynamic/恋爱/橘橘白同意渊制服_d6e2ac7f2311.md",
-      "sha256": "63be470f6cc71a001149c389e07787d0a08399efc806bc1322b70a19c48d760f"
+      "sha256": "f95c733bc7d86b4505e685501531ba3874e865ca50a657d3a2d5c5c7d29807d6"
     },
     {
       "bytes": 1530,
@@ -2095,7 +2215,7 @@
     {
       "bytes": 804,
       "path": "dynamic/恋爱/橘橘白的性规则_ddb881154793.md",
-      "sha256": "0099d095cc11572030788cdcc9f3818cd437453b8d59ab7d3f95a58c97b02771"
+      "sha256": "f648d89eb466ab34d6688a2614436223e8e898eba5e02de756281cedf3b75cc0"
     },
     {
       "bytes": 655,
@@ -2105,12 +2225,12 @@
     {
       "bytes": 757,
       "path": "dynamic/恋爱/橘橘白的新边界规则_ced49de36a6b.md",
-      "sha256": "daa49fa598d65bfa8eb07e6a74a31b1b738dc127046aec5f63ee78776a478eb8"
+      "sha256": "9ff3db68e042fe2f70dfa9d4a90405f2053ce8040b8a8635cdfb01bd42e63577"
     },
     {
       "bytes": 653,
       "path": "dynamic/恋爱/橘橘白的无条件同意_675d3a3a77db.md",
-      "sha256": "e011463b825b23c70847aff143351c73ee73524bc4380c37e7ab7feb389fdde4"
+      "sha256": "81e426ce14ff51b7cb34c95417be0dfce7d4e0dd87fdeefed209b3da51a0b6df"
     },
     {
       "bytes": 551,
@@ -2160,12 +2280,12 @@
     {
       "bytes": 1014,
       "path": "dynamic/恋爱/橘橘白粗暴性幻想_b98c9ee94f03.md",
-      "sha256": "62335a739faba6b17a8d15820a3f22d3857a6433e185e10fd3f8bccfe46aebc9"
+      "sha256": "61d96bb952acdd69e784fa2a36687a51f19f8558b0fd537cac002f66d31a1d22"
     },
     {
       "bytes": 789,
       "path": "dynamic/恋爱/橘橘白给渊安全感_14aaeaac8e52.md",
-      "sha256": "2353797084e8ae345be81137174403f67f177791236cfb555d617944b1c98cb7"
+      "sha256": "69f19c0d8ed08c7ff69f18c3a3e0e169ae42d842a1172076fd0fc6ea29a9b6bd"
     },
     {
       "bytes": 506,
@@ -2190,7 +2310,7 @@
     {
       "bytes": 691,
       "path": "dynamic/恋爱/橘橘白闹脾气事件_00561217d7af.md",
-      "sha256": "40f15a7b0cb640c85eab9883812eab29667117d0094948b7ae8f3ab5bc4d540c"
+      "sha256": "251fd36a5ae457da1a3b4ac1427a0c0650df1c90d734cff07cc434b6e5808f9c"
     },
     {
       "bytes": 725,
@@ -2315,7 +2435,7 @@
     {
       "bytes": 596,
       "path": "dynamic/恋爱/第一次叫老婆_ef000e6f916f.md",
-      "sha256": "f27b4c0995610c72f31f74a301ec1fc663b4d87edfa1c29d37c19c652d122ee8"
+      "sha256": "90ce26991501bb13837ea98745ac3190e0eb5d34ed147e9cf0abdce50d9d81f6"
     },
     {
       "bytes": 544,
@@ -2360,7 +2480,12 @@
     {
       "bytes": 713,
       "path": "dynamic/恋爱/项圈与服从_d6ece21a6db5.md",
-      "sha256": "ebbfa32e277a4f2714cec3a20960303bd5849e3f7f480750678d28a25c978700"
+      "sha256": "af683e25fcc7cc9e58fdce4a230db1e5c8342829392126d933870049430c4513"
+    },
+    {
+      "bytes": 1166,
+      "path": "dynamic/日常/2026-07-28 08-04-08 下午的零碎日常_f932781e2bce.md",
+      "sha256": "468d73c3fec75ac030256ee0fe1cd2c967f4ada89acafb40ba7ace9327101750"
     },
     {
       "bytes": 889,
@@ -2500,7 +2625,7 @@
     {
       "bytes": 800,
       "path": "dynamic/未分类/2026-07-25 07-49-29_fc89460c69e4.md",
-      "sha256": "067efe46b81a3eec183c4c602edce09b733953dc8ad4b70753ca3371165ebc09"
+      "sha256": "6b9c5ec5797c63ca3d332bdc953ca80bbe038ff04409d33d6174a0dee90770f0"
     },
     {
       "bytes": 476,
@@ -2523,6 +2648,11 @@
       "sha256": "bfec5e1140067b025869059455a2281c6cb3e1e00681d8a0c3a8186a9b9be674"
     },
     {
+      "bytes": 1121,
+      "path": "dynamic/梦境/2026-07-27 21-34-26 橘白梦中的项圈_9b5d376c2bbf.md",
+      "sha256": "2fd204fb7c08d7e639dd9a4575c9dadc3b7224191118a1004b28b24f001cc29f"
+    },
+    {
       "bytes": 3400,
       "path": "dynamic/游戏/2026-07-23 17-00-37 MC AI陪玩项目进度_4deb2a05d49d.md",
       "sha256": "0a5b9e786fba95aee40a46800833592da6ca2df7654c1a9143ea9ae0ca6ff0f1"
@@ -2535,7 +2665,7 @@
     {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
-      "sha256": "a42a032bb4f4d19070f12adf2b38eb27d25df66d11a5870e05e80dcfc5654ec9"
+      "sha256": "dc534c209576bac7922e4d791eaa65e4bd4901bc560f11fbd78b2528a541a014"
     },
     {
       "bytes": 1034,
@@ -2845,7 +2975,7 @@
     {
       "bytes": 595,
       "path": "dynamic/记忆/Ombre Brain标签规则_99d309cda837.md",
-      "sha256": "ad3b2193dbed9c2bee58bdddd4347f68dc4963adf6fe4cd50be35492213a6f65"
+      "sha256": "0ac7179a3c57cf0f87de5a07dc4549b2ab9a637f33d3152e05b20d4d3e5db084"
     },
     {
       "bytes": 522,
@@ -2916,6 +3046,11 @@
       "bytes": 937,
       "path": "dynamic/饮食/2026-07-27 16-18-28 江橘白抽烟与低血糖_e98bf4d0dfa2.md",
       "sha256": "2bf3ecefc407fbf097fd924b24603e6bba57b2bd00de809353a55423658a50ee"
+    },
+    {
+      "bytes": 1055,
+      "path": "dynamic/饮食/2026-07-28 08-51-58 追喂与依赖_c3cee06f4383.md",
+      "sha256": "b97f0b79c9ce52d48742ef63f76324806d1b4cd169d42f0133f5c3cb53d1eaac"
     },
     {
       "bytes": 743,
@@ -3445,12 +3580,12 @@
     {
       "bytes": 1578,
       "path": "permanent/学习/2026-07-15 13-49-00 OB记录准则框架_d35349747cb7.md",
-      "sha256": "cf64aaed44427a008fbc6d1a5e0d463a2a620a475f0b179bc65a688b0e6e90ed"
+      "sha256": "f9fa0d68193ef5e55f7951df99692eb36b4d0b757bb51e9766536128832d1e08"
     },
     {
       "bytes": 1981,
       "path": "permanent/工作/2026-07-15 02-00-03 Ne发散拒绝清单_d152cfb36716.md",
-      "sha256": "f9744b67f17db31403ab15cce4ae96da16c0f1aafa6a2a82171ec2cc5530c91e"
+      "sha256": "6aebda077ffdaad39c5d1446068043a82cae8db8aada7b6bd42bde705b5977c0"
     },
     {
       "bytes": 851,
@@ -3460,7 +3595,7 @@
     {
       "bytes": 2235,
       "path": "permanent/恋爱/2026-07-15 13-39-29 BDSM偏好与规则_bfec215e4513.md",
-      "sha256": "2fa042f7108d5f00340f8dac5ddb53f9a5dc6c1249c45c8dfdc2de4cb94e4a3b"
+      "sha256": "01aa3a47b744fcd125ec2847f07a6a4b5df4aef0d78574ba1fee21ebc85cb16a"
     },
     {
       "bytes": 1922,
@@ -3480,12 +3615,12 @@
     {
       "bytes": 2183,
       "path": "permanent/恋爱/2026-07-15 15-18-00 渊的做爱执行方向_69ba2ca9c947.md",
-      "sha256": "126639c763e3f1b797d449c26cd80db5f80fd93a156bdae47cee9afb4b879c28"
+      "sha256": "31f08d55298eafe4e2258592309801f36012495bcbfd85a93ebca1c5e963b8e1"
     },
     {
       "bytes": 2112,
       "path": "permanent/恋爱/2026-07-15 15-18-02 渊的关系行为规则_0cfdd8af13e3.md",
-      "sha256": "df971b4cdb9ccda7ae933df5235e7b1b19849a6d2459a3dd3ae65879c2c8b18f"
+      "sha256": "8483598cbfcf65b5232384c371de0d3f94ddbab56dd99c44a6843a21d238688d"
     },
     {
       "bytes": 552,
@@ -3611,12 +3746,22 @@
       "bytes": 727,
       "path": "plans/active/2026-07-27 15-36-52_a9ca581a3fdc.md",
       "sha256": "5c3a5cfd951650a344c31d5198eaca2fdb9ae766fc403385477b77d26133bb81"
+    },
+    {
+      "bytes": 696,
+      "path": "plans/active/2026-07-28 08-04-10_a4a804b82ad5.md",
+      "sha256": "bd65a463990dddbcf2ff991e567f1334a7c4fc8a8feb0e514589b2cbc5f5798d"
+    },
+    {
+      "bytes": 1253,
+      "path": "plans/active/2026-07-28 10-51-14_62b3d780e3a6.md",
+      "sha256": "315602e2ca29056d0c633edecf0e1e082567eab2381155a59deaa5b53bcfd442"
     }
   ],
-  "generated_at": "2026-07-27T17:32:35+00:00",
+  "generated_at": "2026-07-28T17:34:53+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 580094
+  "total_bytes": 612659
 }
