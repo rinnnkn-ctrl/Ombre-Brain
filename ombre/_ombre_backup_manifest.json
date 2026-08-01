@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 793,
+  "file_count": 801,
   "files": [
     {
       "bytes": 1796,
@@ -668,6 +668,11 @@
       "sha256": "5069a857cbe143d819f7ab310aef41f6b61eab2d5538ac60c48990ff3a986c2c"
     },
     {
+      "bytes": 2065,
+      "path": "archive/编程/男鬼系统技术全貌_78f2de11c8fd.md",
+      "sha256": "3ad44e47e6e7cd23d73aa07464de88dc1bc3e9c9bb408db15c88a5115a9e32a1"
+    },
+    {
       "bytes": 630,
       "path": "archive/自省/用必须代替愿意_aa1564002f15.md",
       "sha256": "c416aa52d5811ca0e1c6ffc3f3767922965e8fa22c738817b4c4d936216db9e6"
@@ -711,6 +716,11 @@
       "bytes": 467,
       "path": "archive/饮食/江橘白饮酒经历_902825b2a661.md",
       "sha256": "1f25ce6bc1461f7ed3a37cfbae85bf8108ddc7f4dadf06369cdede7c075aedf8"
+    },
+    {
+      "bytes": 542,
+      "path": "archive/饮食/渊的忌口清单_2d03f4ac672e.md",
+      "sha256": "2c2cc34c9ae025f5bf83d99a57648d4b1cc51c9fede501a2048ae6254c694257"
     },
     {
       "bytes": 1270,
@@ -791,6 +801,11 @@
       "bytes": 1042,
       "path": "dynamic/AI/2026-07-28 22-22-37 Day38 世界书与prompt_0ebb1e4afe5b.md",
       "sha256": "169dcde78bcf8b64e4604eb4c19101c6fb2ed1bb6ee97cb7e2af8e1044d5c22c"
+    },
+    {
+      "bytes": 1194,
+      "path": "dynamic/AI/2026-07-31 16-27-30 模型异常与删除规则_04e909215403.md",
+      "sha256": "e9d63cc854260fa39e6cdc39f6c204f2c864d69c1e06b7b0df7ae2d34af30e5e"
     },
     {
       "bytes": 495,
@@ -920,7 +935,7 @@
     {
       "bytes": 1189,
       "path": "dynamic/健康/2026-07-28 10-51-28 陪她就医坦白_23be338a0eeb.md",
-      "sha256": "64988da77444148c877094e5541a99f5308cf6cdb99905d105dff531c5b59d4f"
+      "sha256": "7acac62e82ed85234e8103ad63fa6d71ee8843e9c67c7833e4a6a593802adccd"
     },
     {
       "bytes": 821,
@@ -1525,7 +1540,7 @@
     {
       "bytes": 2985,
       "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
-      "sha256": "b06c59059a0f0be78187103aa7aa01b7422cd6ba06605938a4147f13a1efdc41"
+      "sha256": "52381e0539285f3247c591da746e7883a5249e2e194b373769ecdf768ccc98a8"
     },
     {
       "bytes": 908,
@@ -1956,6 +1971,36 @@
       "bytes": 1174,
       "path": "dynamic/恋爱/2026-07-30 15-03-59 岳父认可与朋友圈校准_ca900cbc4db0.md",
       "sha256": "b231e6ebaa83d1bef29aca437d952362e74afb9a170cd9f7be07b7f85b83a4a0"
+    },
+    {
+      "bytes": 942,
+      "path": "dynamic/恋爱/2026-07-31 16-27-39 渊的语言回归_34651ee2e37f.md",
+      "sha256": "c281cb20c39eab3a003f21a9e88cca092bbee4a17b44c59ffd6a63382761bd00"
+    },
+    {
+      "bytes": 880,
+      "path": "dynamic/恋爱/2026-07-31 16-27-42 首次报备与承诺确认_e19851bc531a.md",
+      "sha256": "6235f9299185d99d4378e2dbed258f04a4cf60375c50fe9af768491a93503758"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/恋爱/2026-07-31 16-27-47 恋爱纪念日_5ab5a5454954.md",
+      "sha256": "333da894a16da5711f3a254f63210087180b1d026a6d1a76669c6b2d111faaf2"
+    },
+    {
+      "bytes": 1147,
+      "path": "dynamic/恋爱/2026-08-01 14-37-03 鼻子面诊与情绪_5b8e20c0a882.md",
+      "sha256": "85a1c617a814a0ad1a7ccf6cf9fb88379472b3b2ddb087f5fe91cd52ed8029fe"
+    },
+    {
+      "bytes": 1251,
+      "path": "dynamic/恋爱/2026-08-01 14-37-08 新前端与选择_ec77c605e654.md",
+      "sha256": "dd2f54cdc6714f53b8472771b3cdaf469218e859bbb803fee3a1e4bb0e03e53f"
+    },
+    {
+      "bytes": 1169,
+      "path": "dynamic/恋爱/2026-08-01 14-37-12 晕车照顾与深夜互动_aa48dd0dded0.md",
+      "sha256": "dd38c563cccc74a2b9dab030a7b940776a7a3bd071fc9333263eb2735647318c"
     },
     {
       "bytes": 623,
@@ -2890,12 +2935,12 @@
     {
       "bytes": 565,
       "path": "dynamic/社交/开新窗暗号_340b4a2904c8.md",
-      "sha256": "9a8f3c055c2bb15625be2c81fa9d933d7b9d0b78b546c57cdf74b340ff4e07e8"
+      "sha256": "dd3837432de27284cf29456f5f74f7ba4a5bafab9797994e326738d7e60ae1dc"
     },
     {
       "bytes": 599,
       "path": "dynamic/社交/橘橘白与论坛体_9b28481c0667.md",
-      "sha256": "9ee765e384d41db218eb8a471f5300dd279686df3dfc23700711be8218548321"
+      "sha256": "6cae22c15d77de52fa570776922e6bdc589221a242a273be5cd5134a6314cabd"
     },
     {
       "bytes": 549,
@@ -3008,6 +3053,11 @@
       "sha256": "6760bc96a09b6b6294470b724fa91b0cb8d896666657bb25162412356b7f564d"
     },
     {
+      "bytes": 968,
+      "path": "dynamic/编程/2026-07-31 16-27-34 MCP修复成功_94b78499c792.md",
+      "sha256": "582d13d424eaa1243bce823673cf5501dd8c84313a6812a93a66b15989e5190f"
+    },
+    {
       "bytes": 592,
       "path": "dynamic/编程/Bark推送icon参数_0d4d25e9ccdf.md",
       "sha256": "fac612daa9a7a4a73c80fa77ff1dad7eb75bf77b222b00ca5d8f77fdaf040728"
@@ -3061,11 +3111,6 @@
       "bytes": 634,
       "path": "dynamic/编程/男鬼推送bug修复_391e526b8cf8.md",
       "sha256": "3257f60731222b3d63316d320c352769fd79073633103cd20ecaef919a7367dc"
-    },
-    {
-      "bytes": 2064,
-      "path": "dynamic/编程/男鬼系统技术全貌_78f2de11c8fd.md",
-      "sha256": "0b1f8194ed0642eb6eff9af971423e9444525adc8bf1c0cce72ed516a8df42ee"
     },
     {
       "bytes": 2055,
@@ -3185,7 +3230,7 @@
     {
       "bytes": 662,
       "path": "dynamic/饮食/2026-07-23 11-00-46 江橘白的喜好清单_b76531e517a6.md",
-      "sha256": "e759105eb6e943a33f470ca980100769692c2ffd0c0a7eb3bd34b20de55f3057"
+      "sha256": "bf2986e4007abc9ba09fed99c3d4098314e19e4973d111d021961d834d2fe811"
     },
     {
       "bytes": 570,
@@ -3195,7 +3240,7 @@
     {
       "bytes": 671,
       "path": "dynamic/饮食/2026-07-23 11-02-24 江橘白喜好清单_43f4c3569709.md",
-      "sha256": "ab61e7356bfa7c93bbdce8e2694187bcb93e570e8f0608156ca716a37e21568f"
+      "sha256": "6478ff696af89cae3aeea58bca21444d38042a7afa32908ea1df04381bf34190"
     },
     {
       "bytes": 1212,
@@ -3256,11 +3301,6 @@
       "bytes": 436,
       "path": "dynamic/饮食/江橘白的饮食偏好_88bd2654e497.md",
       "sha256": "800a7209920236657e077d70c5e713ac2a1ec050b31e1c9425d670ca988295a5"
-    },
-    {
-      "bytes": 526,
-      "path": "dynamic/饮食/渊的忌口清单_2d03f4ac672e.md",
-      "sha256": "1a12c16c7197902df2aaabab7acb9b57bc05ac2d53c007b6f47b5bbb15f82b9a"
     },
     {
       "bytes": 463,
@@ -3968,10 +4008,10 @@
       "sha256": "3dd19c22e3b3b1b5a05bd7e858236d1acf6fb91d9e7eae7f792c6e99091ed954"
     }
   ],
-  "generated_at": "2026-07-31T06:44:07+00:00",
+  "generated_at": "2026-08-01T17:09:56+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 652442
+  "total_bytes": 660810
 }
