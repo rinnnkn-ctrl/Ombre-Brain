@@ -1,5 +1,5 @@
 ---
-activation_count: 10
+activation_count: 14
 arousal: 0.7
 created: '2026-06-22T01:44:48'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 心理
 id: d6ece21a6db5
 importance: 9
-last_active: '2026-07-28T22:02:24'
+last_active: '2026-08-02T04:25:48'
 name: 项圈与服从
 tags:
 - 项圈
