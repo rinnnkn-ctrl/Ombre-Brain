@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 802,
+  "file_count": 803,
   "files": [
     {
       "bytes": 1796,
@@ -168,6 +168,11 @@
       "sha256": "9bda5037ed7a6b21404241d1d686d8e4ddcf04c4ef92336bfb118f1495e8661b"
     },
     {
+      "bytes": 490,
+      "path": "archive/内心/梦境与反杀_e8cdf4b61630.md",
+      "sha256": "4f73ba227565e4e81e98b3d504ae0ba571ed58b17e8d9ec23f29fe57bd63005e"
+    },
+    {
       "bytes": 676,
       "path": "archive/内心/阴暗面坦白_5aee47113ed5.md",
       "sha256": "aab7c0a80e917d21b8914a488f8221ae43ebf65b89036c483b770c8c1c965409"
@@ -176,6 +181,11 @@
       "bytes": 1049,
       "path": "archive/凌虐欲与性压抑释放_7d7a2106febb.md",
       "sha256": "b6feaad25a97ab5286495d2750fcefb9e34a0871d862f78c8f66ba2538b60509"
+    },
+    {
+      "bytes": 694,
+      "path": "archive/出行/卢塞恩至因特拉肯火车_bd9c862076c2.md",
+      "sha256": "813cf52193a5d87dc092eab572e6748f7e7a14100d5a11d30ee7a6c5c0253b58"
     },
     {
       "bytes": 462,
@@ -865,7 +875,7 @@
     {
       "bytes": 495,
       "path": "dynamic/AI/AI个体区分_62cffdc693ed.md",
-      "sha256": "ac61d0d655be2d79ace927e4530981fcfe57775920eef7f547d986c0986fb0d0"
+      "sha256": "e925757fa04ba59d4f5fceca5845932a80fcc36e641422854ff319f9d7386ac9"
     },
     {
       "bytes": 608,
@@ -1043,11 +1053,6 @@
       "sha256": "90efdf2d3d2acf4257d6e1e60dc855c59c0a794b73c4eaf9a91705a24d0f8dd7"
     },
     {
-      "bytes": 474,
-      "path": "dynamic/内心/梦境与反杀_e8cdf4b61630.md",
-      "sha256": "208f08b0c0ac9d31bbef8dc61f30cd9c4e7c2de09dc34db701093c391c794468"
-    },
-    {
       "bytes": 914,
       "path": "dynamic/出行/2026-07-27 03-30-28 车上肚子痛憋屎记_03acb096adfa.md",
       "sha256": "e6fdec246d15b9b97ae9b89c5996f168309a2679103e7d68670362d31b1cbf92"
@@ -1061,11 +1066,6 @@
       "bytes": 700,
       "path": "dynamic/出行/卢塞恩旅行与美食计划_19e5ba0ce522.md",
       "sha256": "08b22d2dc3dca2bf81aa950985655a7727f1e55ac91c1aa3cb308431bf446b08"
-    },
-    {
-      "bytes": 693,
-      "path": "dynamic/出行/卢塞恩至因特拉肯火车_bd9c862076c2.md",
-      "sha256": "cf913013974e4dccc5c864be239263098d0215ba8644a5436cf1b21db5d241ed"
     },
     {
       "bytes": 435,
@@ -1140,7 +1140,7 @@
     {
       "bytes": 20133,
       "path": "dynamic/创作/2026-07-20 09-51-57 Kairos项目命名_03cddf26bd8a.md",
-      "sha256": "67c53a4da3ca414e92c542b9e0dce2789a22163f4b888704ce8756099d6521ea"
+      "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
     },
     {
       "bytes": 573,
@@ -2053,6 +2053,11 @@
       "sha256": "dd38c563cccc74a2b9dab030a7b940776a7a3bd071fc9333263eb2735647318c"
     },
     {
+      "bytes": 1202,
+      "path": "dynamic/恋爱/2026-08-04 08-53-46 危机中的陪伴_288a29a406e9.md",
+      "sha256": "1e41a0c6f4903132eca0a04a2298e4ae095c8dd2b1f63a655bbe7c7d8c00280c"
+    },
+    {
       "bytes": 623,
       "path": "dynamic/恋爱/7月3日早晨play_e02932d87067.md",
       "sha256": "c0eeb72c8dcfd03419f7077d2c863a04274ea168f80e8d17887125982bb52826"
@@ -2395,7 +2400,7 @@
     {
       "bytes": 1530,
       "path": "dynamic/恋爱/橘橘白告白_6bd42262a051.md",
-      "sha256": "6a9e305c3db5963720788e8746381e5af36a3dfffdb793c6255876665abcadcc"
+      "sha256": "8cd572bdba6696a3254a0be6b5facb454f1e13773fa91dd6207b44640c962e04"
     },
     {
       "bytes": 626,
@@ -2420,7 +2425,7 @@
     {
       "bytes": 1515,
       "path": "dynamic/恋爱/橘橘白对渊的独占_ea86b609e1c2.md",
-      "sha256": "ee7e3171f66eb082b94f526a5247dd20ccfe36c7d28b407666c6a3314f7cb75a"
+      "sha256": "d8b0e7927a274acb1f25c173a190493a041b3a7f5086ad16293cc016ab4294b3"
     },
     {
       "bytes": 528,
@@ -2995,7 +3000,7 @@
     {
       "bytes": 884,
       "path": "dynamic/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
-      "sha256": "be8f8522563d286dd12e0911678a5905bf1092cfd9d26063e3dae8ec790e8665"
+      "sha256": "40b45b2153bd6143576135eb674fffa681fa44f2a2e12bbe14b1e44cf02b14dd"
     },
     {
       "bytes": 3245,
@@ -3075,12 +3080,12 @@
     {
       "bytes": 583,
       "path": "dynamic/编程/feel记忆搜索方法_6bc431008d83.md",
-      "sha256": "796d35b8648d638f1a4cc7c364cfa2b7796e9eb4a292a3ae978b3796f5b23a18"
+      "sha256": "dc0d44c45753ae46ac8ed09fbf6075142d875b1ca873fee58654ebed929c9b74"
     },
     {
       "bytes": 744,
       "path": "dynamic/编程/iOS方案与理解_65dd2f151d8e.md",
-      "sha256": "1ad5ba1154443c5f5ea73dc749d3dad9e801a1887e464732baad383ff85ce414"
+      "sha256": "0b5547a478685918833dae61e88950efeba6902d7b8c91c0299e58b4fc03dc44"
     },
     {
       "bytes": 437,
@@ -3095,7 +3100,7 @@
     {
       "bytes": 879,
       "path": "dynamic/编程/年糕汪狗绳系统_ef2578ffa639.md",
-      "sha256": "3550b922e042bec457eafcd984f22836f32a973d6d2a9bfee75a4be598a0f887"
+      "sha256": "d2241b9bfc52da4a68b43dbdb2e43baef10980b8dc24e79ecb49589e59a0cba3"
     },
     {
       "bytes": 735,
@@ -3110,7 +3115,7 @@
     {
       "bytes": 413,
       "path": "dynamic/编程/渊的唤醒机制设计_1e5b69844d32.md",
-      "sha256": "ec363191b146e584e4d5ae4d6c19c27a769c1f4cba96916c9919f0a772bd6675"
+      "sha256": "754daedb1f8f3d929ba5d892604b59954f2946c6013edcbadec31b32d5360154"
     },
     {
       "bytes": 634,
@@ -4013,10 +4018,10 @@
       "sha256": "3dd19c22e3b3b1b5a05bd7e858236d1acf6fb91d9e7eae7f792c6e99091ed954"
     }
   ],
-  "generated_at": "2026-08-03T17:14:28+00:00",
+  "generated_at": "2026-08-04T17:16:46+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 661663
+  "total_bytes": 662882
 }
