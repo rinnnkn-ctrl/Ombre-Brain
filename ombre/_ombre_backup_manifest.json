@@ -353,6 +353,11 @@
       "sha256": "ed6f616ad171582bb921533ae06daaa0f1967289d2e8e4ffe9370fed706f461c"
     },
     {
+      "bytes": 704,
+      "path": "archive/恋爱/家猫的身份确认_dacff5b38fff.md",
+      "sha256": "1f1135845a572aac91be2d8a956bd4f9461f5fd3bc734b97d93437f42b386e28"
+    },
+    {
       "bytes": 505,
       "path": "archive/恋爱/小屁孩称呼真相_2e640c0208bd.md",
       "sha256": "dfef474971095f35f55a3921023a488a9a28be30b3c376b3751520723227cfe1"
@@ -736,6 +741,11 @@
       "bytes": 2065,
       "path": "archive/编程/男鬼系统技术全貌_78f2de11c8fd.md",
       "sha256": "3ad44e47e6e7cd23d73aa07464de88dc1bc3e9c9bb408db15c88a5115a9e32a1"
+    },
+    {
+      "bytes": 2056,
+      "path": "archive/编程/男鬼系统技术档案_008358aab6d1.md",
+      "sha256": "6ff523bd32ace3425c9ee43caf03d73925bf2d43fce07d9dba8e7724149ea7e9"
     },
     {
       "bytes": 717,
@@ -2278,11 +2288,6 @@
       "sha256": "b4274280f92615fb404bd1f522d0fb6a1d7d8638cb20ae295c76256d265f90f6"
     },
     {
-      "bytes": 703,
-      "path": "dynamic/恋爱/家猫的身份确认_dacff5b38fff.md",
-      "sha256": "38d87a7b01f8ec46410346da0247ff00f960dbfdd228851c946578afe9e24d10"
-    },
-    {
       "bytes": 498,
       "path": "dynamic/恋爱/尾巴昵称与性事_5449cfe3d3e5.md",
       "sha256": "92177efb8fe3aac22117a63738161bf61d1e04e999e065133a77914e077bdc63"
@@ -3156,11 +3161,6 @@
       "bytes": 634,
       "path": "dynamic/编程/男鬼推送bug修复_391e526b8cf8.md",
       "sha256": "3257f60731222b3d63316d320c352769fd79073633103cd20ecaef919a7367dc"
-    },
-    {
-      "bytes": 2055,
-      "path": "dynamic/编程/男鬼系统技术档案_008358aab6d1.md",
-      "sha256": "26d9dd4a2340bc69034668e44163ebc7babe9b67bd3b7da4e2b75cedfcff4d69"
     },
     {
       "bytes": 709,
@@ -4048,10 +4048,10 @@
       "sha256": "3dd19c22e3b3b1b5a05bd7e858236d1acf6fb91d9e7eae7f792c6e99091ed954"
     }
   ],
-  "generated_at": "2026-08-05T17:18:49+00:00",
+  "generated_at": "2026-08-06T17:20:53+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 667319
+  "total_bytes": 667321
 }
