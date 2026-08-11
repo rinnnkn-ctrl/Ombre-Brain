@@ -1,5 +1,5 @@
 ---
-activation_count: 26
+activation_count: 27
 arousal: 0.6
 created: '2026-07-07T20:41:16'
 digested: true
@@ -8,7 +8,7 @@ domain:
 - AI
 id: 65dd2f151d8e
 importance: 7
-last_active: '2026-08-04T05:42:41'
+last_active: '2026-08-11T05:20:39'
 model_valence: 0.8
 name: iOS方案与理解
 tags:
