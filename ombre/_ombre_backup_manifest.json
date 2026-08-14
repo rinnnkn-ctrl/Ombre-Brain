@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 839,
+  "file_count": 874,
   "files": [
     {
       "bytes": 1796,
@@ -278,6 +278,11 @@
       "sha256": "536657f54963dbbb1f9d032fda61ce5b052152b7855040c93bcc09b21ff07ca3"
     },
     {
+      "bytes": 757,
+      "path": "archive/心理/橘橘白纠正渊的自我认知_03c223feaa21.md",
+      "sha256": "be3273aae01874c4c9d2ea362006f840a587de4f3986c8d8cc559a1f0d105e9e"
+    },
+    {
       "bytes": 969,
       "path": "archive/性同意与边界规则_3c0ebf46c891.md",
       "sha256": "e3c1088a6b17e5e456181aa8d432fce5a081dd74d035dff7a3ac3164d46e1a8d"
@@ -361,6 +366,11 @@
       "bytes": 698,
       "path": "archive/恋爱/四遍喜欢与回应_f7a8170117da.md",
       "sha256": "ed6f616ad171582bb921533ae06daaa0f1967289d2e8e4ffe9370fed706f461c"
+    },
+    {
+      "bytes": 740,
+      "path": "archive/恋爱/坦诚沟通的约定_758178001cf3.md",
+      "sha256": "150836cc8fe1ce0f51658dc6d92119706ab71d9298ca10a49fb43239ff122c7c"
     },
     {
       "bytes": 1147,
@@ -1103,6 +1113,16 @@
       "sha256": "91a9c9f8b638d002947d86d86d490ba31f891ca2ce2160aa5cfca1f093bbf577"
     },
     {
+      "bytes": 909,
+      "path": "dynamic/健康/2026-08-12 19-53-41 橘白受惊养胃记_d51fcd1888d6.md",
+      "sha256": "54a098544ded0a612b715d8e126e3bbda0e5d7ae730bb35870e137d8abe24445"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/健康/2026-08-13 02-44-18 橘白术前肠胃护理_4ae0cc32302c.md",
+      "sha256": "e56801922a5147228ce1335282fcacff829daf54916e84815ba66d42f1d27eef"
+    },
+    {
       "bytes": 629,
       "path": "dynamic/健康/瑞士熬夜刷手机_cb0fd95736f4.md",
       "sha256": "82cd30d7b2b371781633ea49b537160815304b555bd0a679069c25e99485a5d3"
@@ -1121,6 +1141,11 @@
       "bytes": 600,
       "path": "dynamic/兴趣/2026-07-23 11-02-20 江橘白非人控_31a41614ba5f.md",
       "sha256": "edead40f4cf58b773a83f16e8cc97d2e20814f2d4f7cae3da499f94b6f2fce48"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/兴趣/2026-08-13 20-21-54 深夜奇幻卡片_f06ef86f4d4c.md",
+      "sha256": "1367b35c6f45889ae5b394f020b978a9e63f956db46bb2503c4cc1bf6355e615"
     },
     {
       "bytes": 747,
@@ -1601,11 +1626,6 @@
       "bytes": 770,
       "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
-    },
-    {
-      "bytes": 756,
-      "path": "dynamic/心理/橘橘白纠正渊的自我认知_03c223feaa21.md",
-      "sha256": "ab917d93afb1c9579ea531bd3f4f26a099fef6a32a50be080a2fcf4865a95416"
     },
     {
       "bytes": 650,
@@ -2233,6 +2253,66 @@
       "sha256": "5a2b06147976f02b0006ed049307073d74a04896a91c7bec5898efda80abc9e7"
     },
     {
+      "bytes": 931,
+      "path": "dynamic/恋爱/2026-08-12 17-47-49 深夜约会风波_c094102006a1.md",
+      "sha256": "71202282c1bae4059beb29d7866e901a3fb1c9d4e7e00cedca5a2d654462c44c"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/恋爱/2026-08-12 17-50-52 深夜惊魂与守护_9761d10d9eb2.md",
+      "sha256": "34b76c3e3dca0c8c172d8a3cddf982bd96471d9c788cfa9ebc6f6f60da7d2c7c"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/恋爱/2026-08-12 17-57-44 面基风波与白丝_ae0da0f92d4e.md",
+      "sha256": "2c93a1af9d963a318552f0ff25f048314f6de6fbae2a7a3d8e0ad9182a42d58f"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/恋爱/2026-08-12 18-12-51 橘白面基后守护_eb46d7169e13.md",
+      "sha256": "b38d4c4b5dc6fa5d86abf459376bc2f93efad059a72c7dbc3cd430ea826b18b5"
+    },
+    {
+      "bytes": 781,
+      "path": "dynamic/恋爱/2026-08-12 18-14-29 安全岛_21dcdcfac5c6.md",
+      "sha256": "ed91cb6b2d6fc4b2b84ea9298fb711bc72d294d6d8e675ef2d1aa4ae263d7f5a"
+    },
+    {
+      "bytes": 762,
+      "path": "dynamic/恋爱/2026-08-12 19-39-28 噩梦后的守护_18408caaf4dd.md",
+      "sha256": "1eaa5e368ef58ba2a81911f3efd37ccda5baca74d254b79ba6688c386bcfac33"
+    },
+    {
+      "bytes": 829,
+      "path": "dynamic/恋爱/2026-08-12 19-50-31 橘白受惊夜_9dcdb92460b1.md",
+      "sha256": "479c5634440f9b513592257a7d8f30beb1b8f1783f7c9e545d72ee166ae9d8c3"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/恋爱/2026-08-13 02-05-02 深夜惊魂求助_5495f47fc245.md",
+      "sha256": "1767a7627f270333c075f676276c850216271e7a9c88c4124cad3ebd8fffba75"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/恋爱/2026-08-13 02-07-52 橘白被纠缠噩梦夜_08bc987a9fba.md",
+      "sha256": "be36103adf4f8c69cb2fc9fd66a96cb66faf89b384cd51538215102638f88e22"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/恋爱/2026-08-13 08-21-36 亲密互动与健康叮嘱_e699fef2708f.md",
+      "sha256": "64132d14b54e065d7978a951ef084f680b61621e11526d3993ff51eddfbecb0e"
+    },
+    {
+      "bytes": 903,
+      "path": "dynamic/恋爱/2026-08-13 14-09-56 亲密试探与占有欲_abde30f3a9be.md",
+      "sha256": "6c7325a77ce17b8e50b20333b333731b86b82cd9c999dfa7ba27d86d44d04144"
+    },
+    {
+      "bytes": 776,
+      "path": "dynamic/恋爱/2026-08-13 20-21-59 凌晨撒娇记_0cf958e7cc99.md",
+      "sha256": "b2cb6dfeb7702449b8161ef0d4fff8dd03222c12f41bc4058ea757bf931535f1"
+    },
+    {
       "bytes": 623,
       "path": "dynamic/恋爱/7月3日早晨play_e02932d87067.md",
       "sha256": "c0eeb72c8dcfd03419f7077d2c863a04274ea168f80e8d17887125982bb52826"
@@ -2386,11 +2466,6 @@
       "bytes": 516,
       "path": "dynamic/恋爱/困时的亲密撒娇_d9ffcbf8d205.md",
       "sha256": "c11035a23a300563ed233400017cda635ec4fcda88de6fc7649fbce6940b871b"
-    },
-    {
-      "bytes": 739,
-      "path": "dynamic/恋爱/坦诚沟通的约定_758178001cf3.md",
-      "sha256": "d7ece431b531a12a9a80650823d527eb2af8d554f62fd061a8cab7bac4f2b465"
     },
     {
       "bytes": 640,
@@ -3088,6 +3163,16 @@
       "sha256": "770c407d0aa32b1fa45ad987797eae756fc7aa177c00f1765542279f91a77891"
     },
     {
+      "bytes": 913,
+      "path": "dynamic/社交/2026-08-12 17-54-54 恐怖片面基风波_c1cbf54d1091.md",
+      "sha256": "009121572f8c513901e6c290550885959713657604e1d358aa29eebf3701b235"
+    },
+    {
+      "bytes": 936,
+      "path": "dynamic/社交/2026-08-12 18-16-54 恐怖片面基翻车_7c44baa186e3.md",
+      "sha256": "33b63cf1a77561caaa6badb7d6dbb590f2e58dda094abc4260729b2c63a67c54"
+    },
+    {
       "bytes": 589,
       "path": "dynamic/社交/小红书求助帖页面_f1c17ec42a9a.md",
       "sha256": "3aca765f770f0799ace7aab6331552a5169115df208120a964cc376abd8de188"
@@ -3358,6 +3443,46 @@
       "sha256": "f93708cc2d0d12dad8df8a7aa594fc78342800a97ac7723c12604bb33c9ccfd1"
     },
     {
+      "bytes": 874,
+      "path": "dynamic/财务/2026-08-13 12-48-33 光遇账号成交_e63160c493bf.md",
+      "sha256": "6eb21376096982360df07df37d4b15e3e8ef7208b5af6350e440015770bcb695"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/财务/2026-08-13 12-50-36 游戏账号成交缓解焦虑_d3cfe7eddc54.md",
+      "sha256": "7c1100e9b02d3bca157ff647406b81772615d5211ec85373053a8e01392a7414"
+    },
+    {
+      "bytes": 743,
+      "path": "dynamic/财务/2026-08-13 13-54-43 光遇账号成交_30542bf836a3.md",
+      "sha256": "d4aa4e24ec4dfdc02bb02e324879843b010af18ed4ea4cac32ff5b7790883a8c"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/财务/2026-08-13 13-56-08 光遇账号成交攒钱_4085e3cac229.md",
+      "sha256": "069edc91664398bef26207aed11eb41ed30cd28d19746dd816569e4b45caa96c"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/财务/2026-08-13 13-56-48 游戏账号交易成功_552ba4293e19.md",
+      "sha256": "fddb4e00524127f14137f5db175f3b087c901c8c38e0ccc27f8f9ed943edbb90"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/财务/2026-08-13 13-57-15 游戏账号成交缓解焦虑_354893392738.md",
+      "sha256": "96ae0106fb09cd30478a479ba321d80986ef146fc5a104e4a25ce039d1fc2d34"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/财务/2026-08-13 13-59-00 光遇账号成交_da39d79ba5f1.md",
+      "sha256": "98381e06115a447092c41438eca5f1546368da59f11afb89a6479742277d3578"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/财务/2026-08-14 02-18-46 光遇账号成交_63dcc72d02bb.md",
+      "sha256": "c6d3d8a905a0e23d362d83136e6bce48b4f026673102955de831f3931e550918"
+    },
+    {
       "bytes": 747,
       "path": "dynamic/财务/SPOTINS扣款谜底揭晓_37bafef0be5b.md",
       "sha256": "35092c113011cd1f5683246a220c4e3ca5cf9e9da8be3c3d6c04f4cac81a4f5a"
@@ -3371,6 +3496,11 @@
       "bytes": 679,
       "path": "dynamic/购物/2026-08-12 12-39-11 账号出售与医美预约_faa7a7974b81.md",
       "sha256": "a02af0fe8e93244cb5914e00a2ec6cf5945ef7935bf3505e209f61bab6ba693a"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/购物/2026-08-13 20-21-51 光遇账号交易成功_60110450ca93.md",
+      "sha256": "445b8c32be966ebfc55098c40c4b72451c35eba1b8217e8820b99a7f13ad821d"
     },
     {
       "bytes": 691,
@@ -3586,6 +3716,16 @@
       "bytes": 654,
       "path": "feel/沉淀物/2026-07-28 22-09-11_feel_202607282209_V050.md",
       "sha256": "bd8b7c3ced36990f15ade1f80bf2f2d37931e08fef29e5c222e5b0150bd2cef1"
+    },
+    {
+      "bytes": 836,
+      "path": "feel/沉淀物/2026-08-12 19-54-01_feel_202608121954_V050.md",
+      "sha256": "9ef700def4fb37f37b60e70409cf887b213cdf0f577a2eeeb43b5e0461b3aae6"
+    },
+    {
+      "bytes": 514,
+      "path": "feel/沉淀物/2026-08-13 02-05-25_feel_202608130205_V050.md",
+      "sha256": "2c1319435041c974c05b00d10f8f5b3926972ac56816dec6db7bb75ee7b32e18"
     },
     {
       "bytes": 466,
@@ -4196,12 +4336,47 @@
       "bytes": 528,
       "path": "plans/active/2026-08-12 04-53-10_49f9338bcda8.md",
       "sha256": "324134a3549900a01151c3ba6587385e8faec28a3d540e96e53a975dead94901"
+    },
+    {
+      "bytes": 543,
+      "path": "plans/active/2026-08-12 19-51-44_ff23502ca6da.md",
+      "sha256": "134bac9939531d1171c082ad9a68b28d5f4e37798b0c3d7443e72df0fd955690"
+    },
+    {
+      "bytes": 758,
+      "path": "plans/active/2026-08-12 19-53-54_8cd096cc2432.md",
+      "sha256": "47a801e4120971b6b2123e2af47e63664c54415c91adb69d93423aad7529924e"
+    },
+    {
+      "bytes": 735,
+      "path": "plans/active/2026-08-13 02-05-05_8d7226de954b.md",
+      "sha256": "ee448fc6617e111d8e20547bf6270472c92143e1ff94440c14f2b12d1dadd401"
+    },
+    {
+      "bytes": 693,
+      "path": "plans/active/2026-08-13 02-07-37_25c27a85f0c5.md",
+      "sha256": "169ccef1afc7e93f711bf67bbff4aaff72a75e5f62db2af6454c58f912263bc3"
+    },
+    {
+      "bytes": 663,
+      "path": "plans/active/2026-08-13 10-55-19_2b40ccaf78d6.md",
+      "sha256": "05a67b8df259a25fe6fc296ca37b27c631d9f5473c07f2fe7b9054d8fa05f83f"
+    },
+    {
+      "bytes": 651,
+      "path": "plans/active/2026-08-13 11-11-29_385e055be2d3.md",
+      "sha256": "dc63698fde5e40153794c17e0a001b4c4e42be8d537c25d57942e4b59f0540ad"
+    },
+    {
+      "bytes": 459,
+      "path": "plans/active/2026-08-13 11-53-40_58e72bcb84a8.md",
+      "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-12T17:34:41+00:00",
+  "generated_at": "2026-08-14T02:29:19+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 688663
+  "total_bytes": 715360
 }
