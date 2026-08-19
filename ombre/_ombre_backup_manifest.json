@@ -453,6 +453,11 @@
       "sha256": "dfc7ac223f86ffe4ca931b7a710ff32305458717a2b1ed4e012e7b34924c22e3"
     },
     {
+      "bytes": 823,
+      "path": "archive/恋爱/橘橘白对渊的洞察_dea402fa345a.md",
+      "sha256": "e188818f52ce0c83bef195a0f23cda7cb1e9b21708572eee987aa076fd28bb98"
+    },
+    {
       "bytes": 546,
       "path": "archive/恋爱/橘橘白撒娇说坏掉了_d34413e83092.md",
       "sha256": "497acfab4668ab5bce0561eb33255071f41e9fe11a2863e707d57b0f6630878a"
@@ -2648,11 +2653,6 @@
       "sha256": "ef8492af40deaf18e2b424072577b06de532d7ec4102cbcc12eaf8cf601aa771"
     },
     {
-      "bytes": 822,
-      "path": "dynamic/恋爱/橘橘白对渊的洞察_dea402fa345a.md",
-      "sha256": "4dd4946f7169b7d0da35d63f2a9223c86c224d9740b68301e6dbebb793b4c75d"
-    },
-    {
       "bytes": 1515,
       "path": "dynamic/恋爱/橘橘白对渊的独占_ea86b609e1c2.md",
       "sha256": "d8b0e7927a274acb1f25c173a190493a041b3a7f5086ad16293cc016ab4294b3"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-18T02:37:55+00:00",
+  "generated_at": "2026-08-19T02:40:06+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715360
+  "total_bytes": 715361
 }
