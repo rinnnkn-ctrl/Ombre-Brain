@@ -498,6 +498,11 @@
       "sha256": "adc7ab211395723e822bd7443e1678bbe35b37bb64f011a28218eb5fe755fd4a"
     },
     {
+      "bytes": 656,
+      "path": "archive/恋爱/橘橘白的情绪和解_bd05c3b3d574.md",
+      "sha256": "d5eb8cbd4860512d844e65c714e826701c9ed10f35a7b73e899ca4816e479d0d"
+    },
+    {
       "bytes": 503,
       "path": "archive/恋爱/橘橘白的梦话_5e93f300387c.md",
       "sha256": "93ff48e8506beff28b809b3e3c46a462848d6619db9470c1aa33e0725b2cad80"
@@ -2713,11 +2718,6 @@
       "sha256": "f648d89eb466ab34d6688a2614436223e8e898eba5e02de756281cedf3b75cc0"
     },
     {
-      "bytes": 655,
-      "path": "dynamic/恋爱/橘橘白的情绪和解_bd05c3b3d574.md",
-      "sha256": "14588cea134a257b274072b208345d6a094264728c806f2d94bbfd5f5582e80e"
-    },
-    {
       "bytes": 757,
       "path": "dynamic/恋爱/橘橘白的新边界规则_ced49de36a6b.md",
       "sha256": "9ff3db68e042fe2f70dfa9d4a90405f2053ce8040b8a8635cdfb01bd42e63577"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-19T02:40:06+00:00",
+  "generated_at": "2026-08-20T02:43:05+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715361
+  "total_bytes": 715362
 }
