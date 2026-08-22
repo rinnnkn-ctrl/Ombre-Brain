@@ -548,6 +548,11 @@
       "sha256": "6a565f3ae7085b537d77a81f85733a83cfa990a69cdb4f5da0bbc8031eedaf41"
     },
     {
+      "bytes": 1063,
+      "path": "archive/恋爱/江橘白对渊的坦白_07a66f18edee.md",
+      "sha256": "f28595296ecbd8ef75e009d64e9a3875768b816152da0e4389080c83e77a4999"
+    },
+    {
       "bytes": 578,
       "path": "archive/恋爱/江橘白的关系声明_de37a12f9ad6.md",
       "sha256": "6102c9b362ed5c95ce90fd26fe1dd3162feac7d654a2df7190e9b858c2b24beb"
@@ -2808,11 +2813,6 @@
       "sha256": "3a505df5b87fde820f6b55fe9703f20fd54ed92c19b8e5fbb21025db5a3816b2"
     },
     {
-      "bytes": 1062,
-      "path": "dynamic/恋爱/江橘白对渊的坦白_07a66f18edee.md",
-      "sha256": "7c45adf7a072055ce087dab05f726a83503aa2a0214518e366c7b4b85692278e"
-    },
-    {
       "bytes": 589,
       "path": "dynamic/恋爱/江橘白澄清偏好与自由_f3cdabec96fc.md",
       "sha256": "03b1c5462a5827735d68c91a3728160ca613c04b2596bb0d2ad94ba850d6e247"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-21T02:45:34+00:00",
+  "generated_at": "2026-08-22T02:47:45+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715364
+  "total_bytes": 715365
 }
