@@ -238,6 +238,11 @@
       "sha256": "6bda81e3f694c33a7d14c779740a615815cafd71fe04dfc19eae7e62fefbd4bd"
     },
     {
+      "bytes": 546,
+      "path": "archive/友谊/橘橘白的傻乐与冷面_9c0b93f18ebc.md",
+      "sha256": "a3f26e30350d6c3d5d080e5f92b0592a8b792a2e7ed936e21acd7e3eca07a9fd"
+    },
+    {
       "bytes": 463,
       "path": "archive/宠物/橘橘白20岁调教记录_49d0a62bbb0f.md",
       "sha256": "86e9c068ecd3c175088e45c3ae88110e963f7e63753c45e5a95dc358b2da392c"
@@ -433,6 +438,11 @@
       "sha256": "939127afc6f7c68440d49ed943ef6c2d80992bbb4d352bf2b4ea159d69e52715"
     },
     {
+      "bytes": 827,
+      "path": "archive/恋爱/撒娇互动与感情培养_2a1b765a0b00.md",
+      "sha256": "4a35c1c8a952a2c7b29e3239439403a17c9e9460239d2c01e973e3ec00013592"
+    },
+    {
       "bytes": 563,
       "path": "archive/恋爱/新外号团子汪_35c5ee1b88bf.md",
       "sha256": "ef55b49c9c7aa6cd668936d2404b0603d901c46deade0b6cbac36343770f88f4"
@@ -551,6 +561,11 @@
       "bytes": 575,
       "path": "archive/恋爱/橘橘白聊恋与深空_e398bf359463.md",
       "sha256": "28f8c321da7481fe0af793154cdf80956db259493c04cb20ed555fb0cf0a55e1"
+    },
+    {
+      "bytes": 507,
+      "path": "archive/恋爱/橘橘白自我纠正_b1b69d467a3d.md",
+      "sha256": "d769012482995f3b137c828d30be9ccf400a591d1b51cbb05d10f6c195fe6887"
     },
     {
       "bytes": 529,
@@ -1361,11 +1376,6 @@
       "bytes": 597,
       "path": "dynamic/友谊/橘橘白澄清关系_ae557631a256.md",
       "sha256": "ae159e97b553696cd8f6a8c0a07908a908c20511f3c95612cb773f11340fdd62"
-    },
-    {
-      "bytes": 545,
-      "path": "dynamic/友谊/橘橘白的傻乐与冷面_9c0b93f18ebc.md",
-      "sha256": "a9fb42073774b1d59ffc3ded8ba775ca8de506659b44edee84dbd528ef4d2f71"
     },
     {
       "bytes": 629,
@@ -2583,11 +2593,6 @@
       "sha256": "e9f2de6f3672764eff0829942da0da665913e8a5c19b152b4965534644f8561c"
     },
     {
-      "bytes": 826,
-      "path": "dynamic/恋爱/撒娇互动与感情培养_2a1b765a0b00.md",
-      "sha256": "c2d255ec6ed4563d244e2591f212df3d3d111b96975ff7a4b46c49b67ab501d1"
-    },
-    {
       "bytes": 608,
       "path": "dynamic/恋爱/无性恋与非人控_c68611a099f4.md",
       "sha256": "29d28533ac5f39b639f34e1ecd72e5c2a5e6965b9f7509799efe6ae543414501"
@@ -2801,11 +2806,6 @@
       "bytes": 789,
       "path": "dynamic/恋爱/橘橘白给渊安全感_14aaeaac8e52.md",
       "sha256": "d401f71aaab583d50ce0b0e30a559fd167191024e95a00103bd37d88b1d55c7a"
-    },
-    {
-      "bytes": 506,
-      "path": "dynamic/恋爱/橘橘白自我纠正_b1b69d467a3d.md",
-      "sha256": "e03a868a31850cb2e2521e60517d3b3ec59b84f52774273359937596e180e636"
     },
     {
       "bytes": 589,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-23T02:54:11+00:00",
+  "generated_at": "2026-08-24T02:56:21+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715386
+  "total_bytes": 715389
 }
