@@ -158,6 +158,11 @@
       "sha256": "08f382f09f028bd919d95e95dffefbacbac6760d109d9a5e10919a70669619d7"
     },
     {
+      "bytes": 748,
+      "path": "archive/兴趣/BDSM play方向补充_95e624a70c5e.md",
+      "sha256": "788a619b879d881c7d259e88b9b7630df7bdd0cecaff14fe3f3834398124ed95"
+    },
+    {
       "bytes": 452,
       "path": "archive/兴趣/江橘白威海cosplay_ece30e0d8947.md",
       "sha256": "c3fd5c28172d9bfb893c140f73454038b0effdb70eadcc780fc74571f4d8bcae"
@@ -211,6 +216,11 @@
       "bytes": 577,
       "path": "archive/出行/旅途口腔溃疡疼痛_586cbbce938c.md",
       "sha256": "6b15ecb46980e2f3b76dd2287ea0f645ffb043f9658cd1581f8ef325b9010d2a"
+    },
+    {
+      "bytes": 435,
+      "path": "archive/出行/江橘白威海旅行_d68286462dda.md",
+      "sha256": "3eede190d90658eb5cb50b2b8326712afa024adb38ac9acaf75b5d3cdcb5d8fb"
     },
     {
       "bytes": 788,
@@ -296,6 +306,11 @@
       "bytes": 535,
       "path": "archive/工作/瑞士预授权规则震惊_ceca7375a194.md",
       "sha256": "536657f54963dbbb1f9d032fda61ce5b052152b7855040c93bcc09b21ff07ca3"
+    },
+    {
+      "bytes": 665,
+      "path": "archive/影视/冷感审美与道德钝感_3ec427173342.md",
+      "sha256": "3abba62ba4d1a74f82519f04776392dc25a66fbc0bb1c7ebeb3c3f3d435be85e"
     },
     {
       "bytes": 757,
@@ -1263,11 +1278,6 @@
       "sha256": "1367b35c6f45889ae5b394f020b978a9e63f956db46bb2503c4cc1bf6355e615"
     },
     {
-      "bytes": 747,
-      "path": "dynamic/兴趣/BDSM play方向补充_95e624a70c5e.md",
-      "sha256": "6251d3cc2090dbba5c212c3ec4a4c0de2638fe9662f76ac854b95c8f2ead3e55"
-    },
-    {
       "bytes": 951,
       "path": "dynamic/兴趣/橘橘白香水偏好清单_a632837a1958.md",
       "sha256": "95054b924167b2624c1dfaf2be932790f4f2a1e08395deaa307e638536a47dd9"
@@ -1336,11 +1346,6 @@
       "bytes": 483,
       "path": "dynamic/出行/橘橘白赴瑞士_a8a20c75eceb.md",
       "sha256": "673bcf20a73e433bd4bd259c0e051741a8ebfbd3412e1ca7e94624064621e8c9"
-    },
-    {
-      "bytes": 434,
-      "path": "dynamic/出行/江橘白威海旅行_d68286462dda.md",
-      "sha256": "f34d6a18ba85ded9d643895319bf81e4028fa526bf03ddbbad1f08d67d48c36d"
     },
     {
       "bytes": 1139,
@@ -1651,11 +1656,6 @@
       "bytes": 658,
       "path": "dynamic/影视/伊路米揍敌客审美分析_aba600825252.md",
       "sha256": "fe9d3a2e9991db0ab99eb604bb272f3d7f45a9b1663a91f839b680390bcf518f"
-    },
-    {
-      "bytes": 664,
-      "path": "dynamic/影视/冷感审美与道德钝感_3ec427173342.md",
-      "sha256": "cf561beea86a4dce91f4e9225249c0d51193679f3d17527e908b3fc420811ce8"
     },
     {
       "bytes": 694,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-27T03:05:42+00:00",
+  "generated_at": "2026-08-28T03:08:38+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715458
+  "total_bytes": 715461
 }
