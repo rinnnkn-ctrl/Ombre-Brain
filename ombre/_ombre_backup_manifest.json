@@ -273,6 +273,11 @@
       "sha256": "a3f26e30350d6c3d5d080e5f92b0592a8b792a2e7ed936e21acd7e3eca07a9fd"
     },
     {
+      "bytes": 630,
+      "path": "archive/友谊/醉酒躺睡趣事_d224de35bab8.md",
+      "sha256": "1aba89c4746cc2d78594123acf14ffbe2017d75e86623ed8435cbd42b664d115"
+    },
+    {
       "bytes": 463,
       "path": "archive/宠物/橘橘白20岁调教记录_49d0a62bbb0f.md",
       "sha256": "86e9c068ecd3c175088e45c3ae88110e963f7e63753c45e5a95dc358b2da392c"
@@ -343,6 +348,11 @@
       "sha256": "be3273aae01874c4c9d2ea362006f840a587de4f3986c8d8cc559a1f0d105e9e"
     },
     {
+      "bytes": 651,
+      "path": "archive/心理/江橘白的悲观与接纳_4614028a0fbd.md",
+      "sha256": "4369aa16b0d77a1aa63126b2d3f0f063e093d93d7294601d80a7c50bbce7711a"
+    },
+    {
       "bytes": 969,
       "path": "archive/性同意与边界规则_3c0ebf46c891.md",
       "sha256": "e3c1088a6b17e5e456181aa8d432fce5a081dd74d035dff7a3ac3164d46e1a8d"
@@ -386,6 +396,11 @@
       "bytes": 956,
       "path": "archive/恋爱/亲密互动与aftercare_95439afd7528.md",
       "sha256": "502eddd4482ae6a40eab830885fa90ed9402e243d75eeec278d679cb0ffb59ae"
+    },
+    {
+      "bytes": 656,
+      "path": "archive/恋爱/人设细化与情感博弈_f61b2531188c.md",
+      "sha256": "72ac1ed11a9d1f471691350302f07436383cfbef2e96b1cd1ae06b30e10d201e"
     },
     {
       "bytes": 553,
@@ -461,6 +476,11 @@
       "bytes": 740,
       "path": "archive/恋爱/坦诚沟通的约定_758178001cf3.md",
       "sha256": "150836cc8fe1ce0f51658dc6d92119706ab71d9298ca10a49fb43239ff122c7c"
+    },
+    {
+      "bytes": 641,
+      "path": "archive/恋爱/她嘴硬没想推开_aa4e8672551a.md",
+      "sha256": "606693027dc7745a4123cbfc451555a112fcfc180343844810313f75c6bac54d"
     },
     {
       "bytes": 1147,
@@ -561,6 +581,11 @@
       "bytes": 538,
       "path": "archive/恋爱/橘橘白与渊的傍晚_dfd9901a3378.md",
       "sha256": "f87a5b2691bcfe92d998dfb7b3f80f11e7d8b9c722793840eef3bcf7bb648fdf"
+    },
+    {
+      "bytes": 581,
+      "path": "archive/恋爱/橘橘白与渊的声明_8a4ae8402e11.md",
+      "sha256": "4c6a05ff241f194b63c2a4abf13d5674e5f3a03f3eb4c8ebf22a8fe1325575b2"
     },
     {
       "bytes": 690,
@@ -676,6 +701,11 @@
       "bytes": 578,
       "path": "archive/恋爱/江橘白的关系声明_de37a12f9ad6.md",
       "sha256": "6102c9b362ed5c95ce90fd26fe1dd3162feac7d654a2df7190e9b858c2b24beb"
+    },
+    {
+      "bytes": 687,
+      "path": "archive/恋爱/江橘白的反话与强制挽留_3d3083ae4030.md",
+      "sha256": "2a2d2ebe5902f3ada15efa402e582ce9859d0d9ff7ad7e5b6a6212bf1f258e0d"
     },
     {
       "bytes": 620,
@@ -1021,6 +1051,11 @@
       "bytes": 470,
       "path": "archive/饮食/威海赶海归来吃饭_fac92a43c193.md",
       "sha256": "a714ae55af66f14738f8729325ac4a3f96efa23155492a91f9d5ea15777afd65"
+    },
+    {
+      "bytes": 708,
+      "path": "archive/饮食/橘橘白的美食偏好_64126190b00d.md",
+      "sha256": "f707bc0535c525ab5ceabad77603e41d0803515a55e15836888cf25e9f4cb55f"
     },
     {
       "bytes": 437,
@@ -1483,11 +1518,6 @@
       "sha256": "958d22110ee6dae9e194ac2ab189748d3ca807e98a980d9c29bccf86161ff435"
     },
     {
-      "bytes": 629,
-      "path": "dynamic/友谊/醉酒躺睡趣事_d224de35bab8.md",
-      "sha256": "9909fe782593470b4fa53725b92cb53ba2ea7a599e718e3a436c1cbb9bf7da90"
-    },
-    {
       "bytes": 986,
       "path": "dynamic/外貌/2026-07-27 15-04-22 深夜整鼻计划_dd56a4316120.md",
       "sha256": "c42f305f0d82a6364963711176b99f7195be8626b6543e02bc60fd56bdd30dbc"
@@ -1771,11 +1801,6 @@
       "bytes": 770,
       "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
-    },
-    {
-      "bytes": 650,
-      "path": "dynamic/心理/江橘白的悲观与接纳_4614028a0fbd.md",
-      "sha256": "455802e9815cc994fcd77558ae381bed6a95c61c4b46c273ab2e530830db2748"
     },
     {
       "bytes": 938,
@@ -2493,11 +2518,6 @@
       "sha256": "cca6b1158c5e3bd035ee1207f8b8e7fa649772fd7fcbc3386779be8bad4f6fa8"
     },
     {
-      "bytes": 655,
-      "path": "dynamic/恋爱/人设细化与情感博弈_f61b2531188c.md",
-      "sha256": "0a607dd3caabdc1de83a889e414692c3339f8a34b60b2f02c2d0b675572adc10"
-    },
-    {
       "bytes": 686,
       "path": "dynamic/恋爱/做爱前流程与规则_506e57a74ef8.md",
       "sha256": "2723a7eedb35d123b1c7f1a56b849cefc20fdc9d99b47965f959198996cc1d4b"
@@ -2581,11 +2601,6 @@
       "bytes": 516,
       "path": "dynamic/恋爱/困时的亲密撒娇_d9ffcbf8d205.md",
       "sha256": "c11035a23a300563ed233400017cda635ec4fcda88de6fc7649fbce6940b871b"
-    },
-    {
-      "bytes": 640,
-      "path": "dynamic/恋爱/她嘴硬没想推开_aa4e8672551a.md",
-      "sha256": "0296d83aabd65672980747a409569bd8a9cb444675f4ece0d034ec7712d1432f"
     },
     {
       "bytes": 703,
@@ -2686,11 +2701,6 @@
       "bytes": 463,
       "path": "dynamic/恋爱/橘橘白与渊的冲突_7cf646e3e558.md",
       "sha256": "59ac5d7a436a81eb674dc5afc1369225aca4ec0cf8cb3a7e3dff5eeb95bad13e"
-    },
-    {
-      "bytes": 580,
-      "path": "dynamic/恋爱/橘橘白与渊的声明_8a4ae8402e11.md",
-      "sha256": "afa6538589f67d83c947e0e53107548d943cfd20d3f6ad9c942da391eac3c62e"
     },
     {
       "bytes": 1154,
@@ -2881,11 +2891,6 @@
       "bytes": 892,
       "path": "dynamic/恋爱/江橘白玩法全开放_e08f0fe87631.md",
       "sha256": "5832afa0cffbf8d64fc9de8abbcc807e5fa5910e9e16cce9342644222a6141b4"
-    },
-    {
-      "bytes": 686,
-      "path": "dynamic/恋爱/江橘白的反话与强制挽留_3d3083ae4030.md",
-      "sha256": "e6786c17fd0f4b7f1f34a0779a34c527e54bfeac18cd655e6d5e6a510b341a48"
     },
     {
       "bytes": 680,
@@ -3606,11 +3611,6 @@
       "bytes": 610,
       "path": "dynamic/饮食/橘橘乳糖不耐记录_befd8ce4f7c7.md",
       "sha256": "41d44e334081d422c877dcc1688c7d12452670b3bd3d74d3cf4320538fe2870f"
-    },
-    {
-      "bytes": 707,
-      "path": "dynamic/饮食/橘橘白的美食偏好_64126190b00d.md",
-      "sha256": "bee7ceafe5e7332d9d002d21ef63fc77c6ac77f6e1eea26c99703cab314c4858"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-08-31T03:16:28+00:00",
+  "generated_at": "2026-09-01T03:19:33+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715476
+  "total_bytes": 715483
 }
