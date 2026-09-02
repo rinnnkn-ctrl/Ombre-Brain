@@ -418,6 +418,11 @@
       "sha256": "2d6fc3bc7c554c704d1b92784accc0454e459d4bfe43affd099fae980662ea27"
     },
     {
+      "bytes": 575,
+      "path": "archive/恋爱/做自己的确认_839aed72c4e1.md",
+      "sha256": "d30cd00a4dc1825d4e9c69294a873f3ac732eea55230bf07f54dbfc10bf141f9"
+    },
+    {
       "bytes": 558,
       "path": "archive/恋爱/凌晨不睡想继续玩_56fba10e21b9.md",
       "sha256": "95b0f448a06769c1b12f1780aa7885fe22213e8e447fafe04408b2518e9d8f93"
@@ -518,6 +523,11 @@
       "sha256": "2779c239b13fd9d5b11e2fd6483f2fed84010dd21be740ed3faabffd080834ed"
     },
     {
+      "bytes": 553,
+      "path": "archive/恋爱/性不是奖励_42740749cbd2.md",
+      "sha256": "33c81dacc9e9ed4efdaf836bf4ebcd07cec7db65d36cc3390ec627b0dc1cabaf"
+    },
+    {
       "bytes": 682,
       "path": "archive/恋爱/性中的身份剥离偏好_495bcdbc3514.md",
       "sha256": "52f878c7bb324198286f218874d5b0c7fa4547ed58181bdd6ef879ea5c75eb24"
@@ -581,6 +591,11 @@
       "bytes": 538,
       "path": "archive/恋爱/橘橘白与渊的傍晚_dfd9901a3378.md",
       "sha256": "f87a5b2691bcfe92d998dfb7b3f80f11e7d8b9c722793840eef3bcf7bb648fdf"
+    },
+    {
+      "bytes": 464,
+      "path": "archive/恋爱/橘橘白与渊的冲突_7cf646e3e558.md",
+      "sha256": "febd400542fb3060983be526fdaa6f1e66e71ee89e65d596598c6a7326aedccc"
     },
     {
       "bytes": 581,
@@ -651,6 +666,11 @@
       "bytes": 503,
       "path": "archive/恋爱/橘橘白的梦话_5e93f300387c.md",
       "sha256": "93ff48e8506beff28b809b3e3c46a462848d6619db9470c1aa33e0725b2cad80"
+    },
+    {
+      "bytes": 513,
+      "path": "archive/恋爱/橘橘白的规定_89dee4ce3947.md",
+      "sha256": "c185dfca56e81833e99cd779fb2506b04bfc18ab765511a07fb5dfee1ca3a857"
     },
     {
       "bytes": 522,
@@ -2528,11 +2548,6 @@
       "sha256": "9f926f3d8d45860058868c44eebe6385671b068089100453750073a314b6c145"
     },
     {
-      "bytes": 574,
-      "path": "dynamic/恋爱/做自己的确认_839aed72c4e1.md",
-      "sha256": "9100c699b7c8a612afdb1e730b5154740816fada1e9a866b25c47097aa935f5b"
-    },
-    {
       "bytes": 565,
       "path": "dynamic/恋爱/关系设定沟通_5c458ec8a063.md",
       "sha256": "724313f64bf88c8cb266084fb34f5f40cebf3efbc4b6db1eacc322973699e4cc"
@@ -2628,11 +2643,6 @@
       "sha256": "234b5973b17a70b941c4f878d04e2719d4b8178ec358ba3af6800eb359f4e0b4"
     },
     {
-      "bytes": 552,
-      "path": "dynamic/恋爱/性不是奖励_42740749cbd2.md",
-      "sha256": "331831f82107e513a2cee42f8e1cabcaaa87e63b1473a153f347deaa24b41b9c"
-    },
-    {
       "bytes": 999,
       "path": "dynamic/恋爱/情侣头像的浪漫裁切_c530dbe32f5f.md",
       "sha256": "d50751aa17225d3d26a94863fb6d537fdfc0917f27604cda13c146a2bb809418"
@@ -2696,11 +2706,6 @@
       "bytes": 795,
       "path": "dynamic/恋爱/橘橘白plays_57dc3aad2a37.md",
       "sha256": "563abf8e1499d1a0ac2fe89fb613689c07f6547230be181fa8320f0f8b1d15ad"
-    },
-    {
-      "bytes": 463,
-      "path": "dynamic/恋爱/橘橘白与渊的冲突_7cf646e3e558.md",
-      "sha256": "59ac5d7a436a81eb674dc5afc1369225aca4ec0cf8cb3a7e3dff5eeb95bad13e"
     },
     {
       "bytes": 1154,
@@ -2836,11 +2841,6 @@
       "bytes": 585,
       "path": "dynamic/恋爱/橘橘白的称呼偏好_1f4134595d2a.md",
       "sha256": "b70d3da184960c6af3c52c2fe3316b1a1eb9260132d9df915eaa5753dd481172"
-    },
-    {
-      "bytes": 512,
-      "path": "dynamic/恋爱/橘橘白的规定_89dee4ce3947.md",
-      "sha256": "727c22901ecae6c6af5dc04e7ddffe90ba5e63e72b2aa030821e4fdbf99f9990"
     },
     {
       "bytes": 771,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-01T03:19:33+00:00",
+  "generated_at": "2026-09-02T03:21:57+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715483
+  "total_bytes": 715487
 }
