@@ -143,6 +143,11 @@
       "sha256": "95f325813a375e15295cf560422faa32b09eb6b8cfd21cddc209c5f7a53d9faf"
     },
     {
+      "bytes": 913,
+      "path": "archive/人际/橘橘白角色扮演互动_bcb3bd090498.md",
+      "sha256": "32bb3f45b9da8d41702e2a12ae512047a3011d0d88f45dadc71000c2eec629fe"
+    },
+    {
       "bytes": 1257,
       "path": "archive/做爱规则与伴侣沟通_a40ff2081b17.md",
       "sha256": "d74e27d5b275e8289bd90b2b6eab7463af2bad54cdf8d1611054dd4b73a352ab"
@@ -458,6 +463,11 @@
       "sha256": "a0e941c3eaec4cb24ffdec55e0bbea4a4acc905523cabd2c6ec2a0acad1ca66f"
     },
     {
+      "bytes": 575,
+      "path": "archive/恋爱/卢塞恩情感冲突_407ff8462ee0.md",
+      "sha256": "de2ed30f4c470c0c51daca11f5c322240790a9aedeb80ac9a6623e7a54be0d5f"
+    },
+    {
       "bytes": 506,
       "path": "archive/恋爱/同居想法_8fc8788b90bd.md",
       "sha256": "8bfc43ac83e48d0b559d114d75a4746dc9d7b76dc63cacbdbb62875824dc9f02"
@@ -473,6 +483,11 @@
       "sha256": "d6aa56dedcceff4dbc12203c2b4281f5e0a1cda31eb6fcd7fe7955b29aef28da"
     },
     {
+      "bytes": 542,
+      "path": "archive/恋爱/咬痕确认_186e3a802d9a.md",
+      "sha256": "43e1603fc1e2d506c4086e0ab8414604fb9ea9e0c9d17efd8904be99c0ef4479"
+    },
+    {
       "bytes": 498,
       "path": "archive/恋爱/喜欢昵称包子喵_422861106fb4.md",
       "sha256": "69819ed6da24a21c4e2a3fa988d5b66c0a8dbc0d5ff8f1265cf67a7afa76928a"
@@ -486,6 +501,11 @@
       "bytes": 698,
       "path": "archive/恋爱/四遍喜欢与回应_f7a8170117da.md",
       "sha256": "ed6f616ad171582bb921533ae06daaa0f1967289d2e8e4ffe9370fed706f461c"
+    },
+    {
+      "bytes": 517,
+      "path": "archive/恋爱/困时的亲密撒娇_d9ffcbf8d205.md",
+      "sha256": "e5fc84d2e2a670912bd2aa73bd1da80fe07c68060d5811aadbf0d622cbd47c1e"
     },
     {
       "bytes": 740,
@@ -576,6 +596,11 @@
       "bytes": 563,
       "path": "archive/恋爱/新外号团子汪_35c5ee1b88bf.md",
       "sha256": "ef55b49c9c7aa6cd668936d2404b0603d901c46deade0b6cbac36343770f88f4"
+    },
+    {
+      "bytes": 609,
+      "path": "archive/恋爱/无性恋与非人控_c68611a099f4.md",
+      "sha256": "d1309c40ae449a36003b8cc04b9c588889489d52d6dd74dea7f060bc22df28b3"
     },
     {
       "bytes": 541,
@@ -691,6 +716,11 @@
       "bytes": 513,
       "path": "archive/恋爱/橘橘白的规定_89dee4ce3947.md",
       "sha256": "c185dfca56e81833e99cd779fb2506b04bfc18ab765511a07fb5dfee1ca3a857"
+    },
+    {
+      "bytes": 772,
+      "path": "archive/恋爱/橘橘白的造词游戏_ad237ccb2aa3.md",
+      "sha256": "b8ff80904926f0a06bfb8e3bceb5d92a20437e5196c0aa1641095fc384a6eafc"
     },
     {
       "bytes": 522,
@@ -898,6 +928,11 @@
       "sha256": "44241f249b669017d564ebbbcf0b7671f297c9ad94256021f857c06bf6802b4c"
     },
     {
+      "bytes": 323,
+      "path": "archive/未分类/a757f92899ae.md",
+      "sha256": "2e72ca994fa90f1d4aa2d20876870509abddf121ca4cdc1866fc16dad6e24d67"
+    },
+    {
       "bytes": 387,
       "path": "archive/未分类/c584cda25262.md",
       "sha256": "9edac708f43c04a57cb19458b019c453399e3917282443549f76b813efdbb0be"
@@ -1103,6 +1138,11 @@
       "sha256": "a714ae55af66f14738f8729325ac4a3f96efa23155492a91f9d5ea15777afd65"
     },
     {
+      "bytes": 611,
+      "path": "archive/饮食/橘橘乳糖不耐记录_befd8ce4f7c7.md",
+      "sha256": "9b5210093aaa2351466143a026c81e23fb6bf4d0ee2d5b13d7f422b1efa52edb"
+    },
+    {
       "bytes": 708,
       "path": "archive/饮食/橘橘白的美食偏好_64126190b00d.md",
       "sha256": "f707bc0535c525ab5ceabad77603e41d0803515a55e15836888cf25e9f4cb55f"
@@ -1296,11 +1336,6 @@
       "bytes": 1219,
       "path": "dynamic/人际/2026-07-28 22-22-22 凌晨重逢与记忆盘点_a55f3026ea62.md",
       "sha256": "512aa9f06ae2dfaeebab55b4bfb530851902c3ceeb0102310b02e2a9fa9a69bf"
-    },
-    {
-      "bytes": 912,
-      "path": "dynamic/人际/橘橘白角色扮演互动_bcb3bd090498.md",
-      "sha256": "3dcd9361b8789469fe2b83be82ab44d519472e72d611774c56f5574b2b964f09"
     },
     {
       "bytes": 668,
@@ -2578,11 +2613,6 @@
       "sha256": "0b98d6018d352dfcfbff80971d333302550f4fb835ba9988df88f8e2347db2a0"
     },
     {
-      "bytes": 574,
-      "path": "dynamic/恋爱/卢塞恩情感冲突_407ff8462ee0.md",
-      "sha256": "659dc4f1f2bbb5f291861d1012357aae79112f3b980dc82b4cf9cb06549ccc04"
-    },
-    {
       "bytes": 917,
       "path": "dynamic/恋爱/卢塞恩酒吧告白_5f2013759778.md",
       "sha256": "6c6c980b6093487af318cc7e850d14c15de8b99d8884267b6b263beb1c2747bf"
@@ -2591,11 +2621,6 @@
       "bytes": 641,
       "path": "dynamic/恋爱/吃醋的表达方式_40e3ede91f7e.md",
       "sha256": "05b30dc806df3c171a9732c07ff728cf19af422ae742736b852f5c021090462d"
-    },
-    {
-      "bytes": 541,
-      "path": "dynamic/恋爱/咬痕确认_186e3a802d9a.md",
-      "sha256": "0344e878e15a0f85fb40b95c1d727e01209507e2645d10151c796e205a935424"
     },
     {
       "bytes": 784,
@@ -2631,11 +2656,6 @@
       "bytes": 780,
       "path": "dynamic/恋爱/喵汪昵称的由来_1e45eee30326.md",
       "sha256": "75773047b2eedfb010b96d38f4ddc4235fc0dbff5f9a0163b83df4ba7eb29539"
-    },
-    {
-      "bytes": 516,
-      "path": "dynamic/恋爱/困时的亲密撒娇_d9ffcbf8d205.md",
-      "sha256": "c11035a23a300563ed233400017cda635ec4fcda88de6fc7649fbce6940b871b"
     },
     {
       "bytes": 703,
@@ -2681,11 +2701,6 @@
       "bytes": 712,
       "path": "dynamic/恋爱/推推就听_85562aa70628.md",
       "sha256": "e9f2de6f3672764eff0829942da0da665913e8a5c19b152b4965534644f8561c"
-    },
-    {
-      "bytes": 608,
-      "path": "dynamic/恋爱/无性恋与非人控_c68611a099f4.md",
-      "sha256": "29d28533ac5f39b639f34e1ecd72e5c2a5e6965b9f7509799efe6ae543414501"
     },
     {
       "bytes": 601,
@@ -2851,11 +2866,6 @@
       "bytes": 585,
       "path": "dynamic/恋爱/橘橘白的称呼偏好_1f4134595d2a.md",
       "sha256": "b70d3da184960c6af3c52c2fe3316b1a1eb9260132d9df915eaa5753dd481172"
-    },
-    {
-      "bytes": 771,
-      "path": "dynamic/恋爱/橘橘白的造词游戏_ad237ccb2aa3.md",
-      "sha256": "256854ba66171a0ae2615233e033e73ff6b59744659c941194f6ec4925483631"
     },
     {
       "bytes": 462,
@@ -3146,11 +3156,6 @@
       "bytes": 479,
       "path": "dynamic/未分类/9fadcf848775.md",
       "sha256": "9ce7be48940aea903eb413951230dc121f169d3d88f258d0186c49b014d73a54"
-    },
-    {
-      "bytes": 322,
-      "path": "dynamic/未分类/a757f92899ae.md",
-      "sha256": "e0a8ce65800072dadb399005bda189a1883279b7c6155f083871baf96bdb32e9"
     },
     {
       "bytes": 1121,
@@ -3606,11 +3611,6 @@
       "bytes": 549,
       "path": "dynamic/饮食/橘崽牛奶替代方案_99cfd68f33e2.md",
       "sha256": "0a1421e892a8bbaf19b7514da484573d3b3a709e2fd6e27e90bc246c12c95259"
-    },
-    {
-      "bytes": 610,
-      "path": "dynamic/饮食/橘橘乳糖不耐记录_befd8ce4f7c7.md",
-      "sha256": "41d44e334081d422c877dcc1688c7d12452670b3bd3d74d3cf4320538fe2870f"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-03T03:25:18+00:00",
+  "generated_at": "2026-09-04T03:27:39+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715493
+  "total_bytes": 715501
 }
