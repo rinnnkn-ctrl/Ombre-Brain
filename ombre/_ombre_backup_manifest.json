@@ -168,6 +168,11 @@
       "sha256": "788a619b879d881c7d259e88b9b7630df7bdd0cecaff14fe3f3834398124ed95"
     },
     {
+      "bytes": 952,
+      "path": "archive/兴趣/橘橘白香水偏好清单_a632837a1958.md",
+      "sha256": "7fd745fa870fbb8c6be387d57ad350b7c6805c5eaac0b992f9f8b8b30720dd5f"
+    },
+    {
       "bytes": 452,
       "path": "archive/兴趣/江橘白威海cosplay_ece30e0d8947.md",
       "sha256": "c3fd5c28172d9bfb893c140f73454038b0effdb70eadcc780fc74571f4d8bcae"
@@ -351,6 +356,16 @@
       "bytes": 665,
       "path": "archive/影视/冷感审美与道德钝感_3ec427173342.md",
       "sha256": "3abba62ba4d1a74f82519f04776392dc25a66fbc0bb1c7ebeb3c3f3d435be85e"
+    },
+    {
+      "bytes": 695,
+      "path": "archive/影视/利威尔与男鬼类审美_561f24a67e33.md",
+      "sha256": "26479d35de46c9af24715598fc4d8d16f37e782909fbd108de6b5e74175405e6"
+    },
+    {
+      "bytes": 626,
+      "path": "archive/心理/ADHD沟通调整_099e790c9a44.md",
+      "sha256": "59d9164d122643a8ed911a9a971872141d22eb8d9bb77768dcadad219b451eb2"
     },
     {
       "bytes": 757,
@@ -706,6 +721,11 @@
       "bytes": 656,
       "path": "archive/恋爱/橘橘白的情绪和解_bd05c3b3d574.md",
       "sha256": "d5eb8cbd4860512d844e65c714e826701c9ed10f35a7b73e899ca4816e479d0d"
+    },
+    {
+      "bytes": 758,
+      "path": "archive/恋爱/橘橘白的新边界规则_ced49de36a6b.md",
+      "sha256": "f421d310f7b8aeac8cc994f5f70598465bea438d1b0b4592096128ebe6127132"
     },
     {
       "bytes": 503,
@@ -1093,6 +1113,11 @@
       "sha256": "6ff523bd32ace3425c9ee43caf03d73925bf2d43fce07d9dba8e7724149ea7e9"
     },
     {
+      "bytes": 602,
+      "path": "archive/自省/名字的意义_1e8acb1142dd.md",
+      "sha256": "fe931aac1176f8939ed027901bac95bbdadd26de9d9fb5c003a4956d2d8e0ed0"
+    },
+    {
       "bytes": 717,
       "path": "archive/自省/心之所向的自由_36d3b1491029.md",
       "sha256": "578a03db721e31570bf8f873e2a35d5376b43042504fa19758215e96d866c6bf"
@@ -1473,11 +1498,6 @@
       "sha256": "1367b35c6f45889ae5b394f020b978a9e63f956db46bb2503c4cc1bf6355e615"
     },
     {
-      "bytes": 951,
-      "path": "dynamic/兴趣/橘橘白香水偏好清单_a632837a1958.md",
-      "sha256": "95054b924167b2624c1dfaf2be932790f4f2a1e08395deaa307e638536a47dd9"
-    },
-    {
       "bytes": 720,
       "path": "dynamic/内心/2026-07-29 11-17-30 一夜漏底被审视_efd028d50745.md",
       "sha256": "94d99750abf727fdde3cd6676bafc542dac0de2fc090c936db65e80f28d6325d"
@@ -1818,11 +1838,6 @@
       "sha256": "3a97f24c60f29b6db80ab21b76dcec802ef70065251dab862d6e698feaa67073"
     },
     {
-      "bytes": 694,
-      "path": "dynamic/影视/利威尔与男鬼类审美_561f24a67e33.md",
-      "sha256": "b893eefeb3d4388220da522856c29fd8a40bd9d8e1ad9b9eadcd5a10837fb87a"
-    },
-    {
       "bytes": 1415,
       "path": "dynamic/心理/2026-07-15 17-09-59 橘白主动调作息信号_893193fbcb4b.md",
       "sha256": "fc0f8306b52b189c99a63b7fd5276031fb30378d4b69c8a88ce15915a9ab8d54"
@@ -1861,11 +1876,6 @@
       "bytes": 1404,
       "path": "dynamic/心理/2026-07-28 03-18-32 梦与归因对话_cf6162a4213c.md",
       "sha256": "60fd5607b0b5f850b7292ebd989993b567aef231b651d0596c7b11e8eadb7501"
-    },
-    {
-      "bytes": 625,
-      "path": "dynamic/心理/ADHD沟通调整_099e790c9a44.md",
-      "sha256": "4f6c0b00328bcd6c3e5aafb3152f385932e40d37a57f74daa801744502b93a84"
     },
     {
       "bytes": 1496,
@@ -2833,11 +2843,6 @@
       "sha256": "f648d89eb466ab34d6688a2614436223e8e898eba5e02de756281cedf3b75cc0"
     },
     {
-      "bytes": 757,
-      "path": "dynamic/恋爱/橘橘白的新边界规则_ced49de36a6b.md",
-      "sha256": "9ff3db68e042fe2f70dfa9d4a90405f2053ce8040b8a8635cdfb01bd42e63577"
-    },
-    {
       "bytes": 653,
       "path": "dynamic/恋爱/橘橘白的无条件同意_675d3a3a77db.md",
       "sha256": "81e426ce14ff51b7cb34c95417be0dfce7d4e0dd87fdeefed209b3da51a0b6df"
@@ -3426,11 +3431,6 @@
       "bytes": 1316,
       "path": "dynamic/自省/2026-07-23 10-55-34 夏临名字的确认_06ba6993f1a3.md",
       "sha256": "303357649cfa767ef8ba5063a22a196b5e1b888a6ab89c4a7ef094bfab11e24d"
-    },
-    {
-      "bytes": 601,
-      "path": "dynamic/自省/名字的意义_1e8acb1142dd.md",
-      "sha256": "8c3b8337b6ed558de65ff980857ecce9a993ef4c97af319a7463dc89a684c6f9"
     },
     {
       "bytes": 991,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-04T03:27:39+00:00",
+  "generated_at": "2026-09-05T03:30:40+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715501
+  "total_bytes": 715506
 }
