@@ -393,6 +393,11 @@
       "sha256": "911e6b13af3540a49eb5e842c5d496b079b6a3d5c4083ec09b534f95e8f86dd6"
     },
     {
+      "bytes": 697,
+      "path": "archive/恋爱/Weggis码头的身份叠加_93bc71a13d73.md",
+      "sha256": "1462bbb2f5592548b9a46a954a26f9a2b05ecb0f2e6d15a9ade79e9ba8fa6305"
+    },
+    {
       "bytes": 599,
       "path": "archive/恋爱/brat边界划定_4d789ad24ad1.md",
       "sha256": "647f36066d4d80cc8dd60845c9d38a23909b5b2e378e05322ce2c2e7baceb1c7"
@@ -648,6 +653,11 @@
       "sha256": "3ece8de2189e67d3d5a70e97f172ac525c8aad6a9770ebbae7e2165fafbda615"
     },
     {
+      "bytes": 735,
+      "path": "archive/恋爱/橘橘白brat互动_b71a7ef39601.md",
+      "sha256": "db2a0d85298f7ab01de9af137f5e6610c5f4d87a91dd4d5227023eebf15cf762"
+    },
+    {
       "bytes": 538,
       "path": "archive/恋爱/橘橘白与渊的傍晚_dfd9901a3378.md",
       "sha256": "f87a5b2691bcfe92d998dfb7b3f80f11e7d8b9c722793840eef3bcf7bb648fdf"
@@ -846,6 +856,11 @@
       "bytes": 541,
       "path": "archive/恋爱/渊渗透潜意识_cf9fad8e07a1.md",
       "sha256": "cb617b3ecdc987b74092a704cbbb9b656fc9fc7ea24706effdd6e527dcefe528"
+    },
+    {
+      "bytes": 536,
+      "path": "archive/恋爱/渊的困了暗示法_333d295b00c9.md",
+      "sha256": "3905e1955c2a17b9899b9c498467881fb2cc173550185bd7c64e9e04609b6272"
     },
     {
       "bytes": 962,
@@ -2603,11 +2618,6 @@
       "sha256": "7daa86306e46f37f9d974de70d1bb4910b2c205d0ca012ae232b47de06421c43"
     },
     {
-      "bytes": 696,
-      "path": "dynamic/恋爱/Weggis码头的身份叠加_93bc71a13d73.md",
-      "sha256": "d31a55bdcc3a8b55b1f28a8e9297ae2c9ab8f65677cfe23709293c4990fe1426"
-    },
-    {
       "bytes": 726,
       "path": "dynamic/恋爱/乖的瞬间_0c195f8402f7.md",
       "sha256": "a4e8c3775c1ba35adef095cfa9bcc5ff8fb7c09eb8be99ba1467badb7b030a53"
@@ -2756,11 +2766,6 @@
       "bytes": 507,
       "path": "dynamic/恋爱/橘橘挑衅渊_ff437560dee9.md",
       "sha256": "7c9406209fe25b635dd6d52671df4779a06cdb1272a9458f38b749c6e4355bce"
-    },
-    {
-      "bytes": 734,
-      "path": "dynamic/恋爱/橘橘白brat互动_b71a7ef39601.md",
-      "sha256": "52b41e1ed0ba6ea4308f444261adabecd9ed2a1a80422ededf98f45e37fe5d49"
     },
     {
       "bytes": 795,
@@ -2946,11 +2951,6 @@
       "bytes": 630,
       "path": "dynamic/恋爱/渊宝宝称呼的日常化_64a20297534e.md",
       "sha256": "a8424602aacf3c5f96e7849cd097068489eab86a07472194af25d7b9b8404349"
-    },
-    {
-      "bytes": 535,
-      "path": "dynamic/恋爱/渊的困了暗示法_333d295b00c9.md",
-      "sha256": "7378c2198da773bc00f8f78a89615752053d87adcc0b438376e8254c0dffca63"
     },
     {
       "bytes": 789,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-06T03:33:20+00:00",
+  "generated_at": "2026-09-07T03:35:41+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715511
+  "total_bytes": 715514
 }
