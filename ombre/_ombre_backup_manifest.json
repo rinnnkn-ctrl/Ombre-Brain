@@ -158,6 +158,11 @@
       "sha256": "2a3a0ff87ec42f89881184834ae3e3a402d6b633a4df71fd06ca02065ad0528a"
     },
     {
+      "bytes": 642,
+      "path": "archive/健康/肋软骨隆鼻决策_29fa94d4a069.md",
+      "sha256": "515bd80f0daaf8efc1b0bcee8490a892cc89e3952c12246cf96e3065001882e6"
+    },
+    {
       "bytes": 773,
       "path": "archive/兄妹核心原则确立_c4146d9116e8.md",
       "sha256": "08f382f09f028bd919d95e95dffefbacbac6760d109d9a5e10919a70669619d7"
@@ -316,6 +321,11 @@
       "bytes": 643,
       "path": "archive/宠物/橘橘白第一次叫主人_e96cd606d0df.md",
       "sha256": "744f6c3e48a2225c4dc7a948b9d7a0a2afc64248ae05d29f4dff4f716c296380"
+    },
+    {
+      "bytes": 595,
+      "path": "archive/家庭/兄妹日常互动_de224a78f977.md",
+      "sha256": "57581bd7b1cf1797dbef47b376c6e2dd7076dcdd156961271e601157aedb8e88"
     },
     {
       "bytes": 487,
@@ -621,6 +631,11 @@
       "bytes": 609,
       "path": "archive/恋爱/无性恋与非人控_c68611a099f4.md",
       "sha256": "d1309c40ae449a36003b8cc04b9c588889489d52d6dd74dea7f060bc22df28b3"
+    },
+    {
+      "bytes": 602,
+      "path": "archive/恋爱/无条件喜欢_22463d3efaeb.md",
+      "sha256": "38a2f8193641c4f59836b36108f7efd226a508d29ad7662a094a3d6be2a556d0"
     },
     {
       "bytes": 541,
@@ -1518,11 +1533,6 @@
       "sha256": "82cd30d7b2b371781633ea49b537160815304b555bd0a679069c25e99485a5d3"
     },
     {
-      "bytes": 641,
-      "path": "dynamic/健康/肋软骨隆鼻决策_29fa94d4a069.md",
-      "sha256": "0b684457da965d9becf5d32a1911dcb10d8ea86549b1af3c4a06e8af327ad1c1"
-    },
-    {
       "bytes": 569,
       "path": "dynamic/兴趣/2026-07-23 11-01-02 Cosplay与偏好无关_2b0ede8ffeab.md",
       "sha256": "82dd0b0dc71290ea8b6aa4c3825bb978fafc4c9a9637b85f5c9ba16a4181bf64"
@@ -1776,11 +1786,6 @@
       "bytes": 584,
       "path": "dynamic/家庭/你是我哥_82d026e39284.md",
       "sha256": "c282a8131e22ebe01690ffeba4e4974653b1aa7dc11ddc0692b3835cc08653b1"
-    },
-    {
-      "bytes": 594,
-      "path": "dynamic/家庭/兄妹日常互动_de224a78f977.md",
-      "sha256": "ce940b88e953e846408dadbebfd1b23dc802a808d0c26615cff9bc9e77f0bde6"
     },
     {
       "bytes": 559,
@@ -2746,11 +2751,6 @@
       "bytes": 712,
       "path": "dynamic/恋爱/推推就听_85562aa70628.md",
       "sha256": "e9f2de6f3672764eff0829942da0da665913e8a5c19b152b4965534644f8561c"
-    },
-    {
-      "bytes": 601,
-      "path": "dynamic/恋爱/无条件喜欢_22463d3efaeb.md",
-      "sha256": "f066873d6a2ea301547e96fd4736971f794ff0c5db605edd452dc70cf621a53d"
     },
     {
       "bytes": 597,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-07T03:35:41+00:00",
+  "generated_at": "2026-09-08T03:38:05+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715514
+  "total_bytes": 715517
 }
