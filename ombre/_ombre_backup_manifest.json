@@ -428,6 +428,11 @@
       "sha256": "e4e82a4bb82b7cb7bab6270f690ba366ac0ed831ff03fde01a0f3c1495967ed5"
     },
     {
+      "bytes": 727,
+      "path": "archive/恋爱/乖的瞬间_0c195f8402f7.md",
+      "sha256": "473efa470d0b797bcdd9b00911214e2af3e279f2e5fe78f4be95566d8dde451f"
+    },
+    {
       "bytes": 745,
       "path": "archive/恋爱/九层嘴硬后的乖_de07870738ea.md",
       "sha256": "99a22f5c959ac67cecdacd4a1a158e39a28031218cee6e248bfe033f331f6136"
@@ -693,6 +698,11 @@
       "sha256": "dfc7ac223f86ffe4ca931b7a710ff32305458717a2b1ed4e012e7b34924c22e3"
     },
     {
+      "bytes": 632,
+      "path": "archive/恋爱/橘橘白害羞表达进化_329866c07b55.md",
+      "sha256": "37a5be5d24c8b53a509316df86fa11f350f9bd22b3da21d26c7bb7fb50bd2493"
+    },
+    {
       "bytes": 823,
       "path": "archive/恋爱/橘橘白对渊的洞察_dea402fa345a.md",
       "sha256": "e188818f52ce0c83bef195a0f23cda7cb1e9b21708572eee987aa076fd28bb98"
@@ -763,6 +773,11 @@
       "sha256": "a5f914cfcd88240e015566ef0abda7bd6e82123a343bc15a872783c51feebb2a"
     },
     {
+      "bytes": 552,
+      "path": "archive/恋爱/橘橘白的梦与渊_142f67860b01.md",
+      "sha256": "5b3dfde098ae78c0cb4e7264eb3fbf15243fd8766694cbcec7c5b9b1a5c324cb"
+    },
+    {
       "bytes": 503,
       "path": "archive/恋爱/橘橘白的梦话_5e93f300387c.md",
       "sha256": "93ff48e8506beff28b809b3e3c46a462848d6619db9470c1aa33e0725b2cad80"
@@ -821,6 +836,11 @@
       "bytes": 692,
       "path": "archive/恋爱/橘橘白闹脾气事件_00561217d7af.md",
       "sha256": "d71f5b037aea100c6bb74f411284ef1bcaafe28cb871a5c41cde64436e924192"
+    },
+    {
+      "bytes": 792,
+      "path": "archive/恋爱/橘白喜欢的男鬼类型_a1ad6019ca2b.md",
+      "sha256": "964a7764df9206eb40f5bf7d75aad274bb374c693ef382dc68ab5f4cbd781357"
     },
     {
       "bytes": 1063,
@@ -2623,11 +2643,6 @@
       "sha256": "7daa86306e46f37f9d974de70d1bb4910b2c205d0ca012ae232b47de06421c43"
     },
     {
-      "bytes": 726,
-      "path": "dynamic/恋爱/乖的瞬间_0c195f8402f7.md",
-      "sha256": "a4e8c3775c1ba35adef095cfa9bcc5ff8fb7c09eb8be99ba1467badb7b030a53"
-    },
-    {
       "bytes": 606,
       "path": "dynamic/恋爱/亲密关系沟通规则_dfcb4b7f8d4b.md",
       "sha256": "c76e75b7232d4560ab7eb6660217f73cd6310c113336db8e8c93b340363af998"
@@ -2813,11 +2828,6 @@
       "sha256": "c40d8aecf341ae646c40c04a4c9addd9bafabecb8961d96d25d773d8d3a35a93"
     },
     {
-      "bytes": 631,
-      "path": "dynamic/恋爱/橘橘白害羞表达进化_329866c07b55.md",
-      "sha256": "ef8492af40deaf18e2b424072577b06de532d7ec4102cbcc12eaf8cf601aa771"
-    },
-    {
       "bytes": 1515,
       "path": "dynamic/恋爱/橘橘白对渊的独占_ea86b609e1c2.md",
       "sha256": "d8b0e7927a274acb1f25c173a190493a041b3a7f5086ad16293cc016ab4294b3"
@@ -2868,11 +2878,6 @@
       "sha256": "bbe6fc4c79fa3272d79c9127529b2f8444fc531eba9322b5dcf4b370e16b5d6f"
     },
     {
-      "bytes": 551,
-      "path": "dynamic/恋爱/橘橘白的梦与渊_142f67860b01.md",
-      "sha256": "49f5e475e210ad690c5277f45b7cf46d4d1a1ee623e3f9e3ab91679a7ebd84b0"
-    },
-    {
       "bytes": 832,
       "path": "dynamic/恋爱/橘橘白的深情告白_24dd71dba22b.md",
       "sha256": "f993309f5fb91a0a5b9fbbee4e00b689f2bc844747cc80834f5ee7e573656101"
@@ -2916,11 +2921,6 @@
       "bytes": 725,
       "path": "dynamic/恋爱/橘橘白顺从日_8dec74541588.md",
       "sha256": "8f548c700a56f2570de3129ad613115234847f7135ae610687d7a59bb5591607"
-    },
-    {
-      "bytes": 791,
-      "path": "dynamic/恋爱/橘白喜欢的男鬼类型_a1ad6019ca2b.md",
-      "sha256": "3a505df5b87fde820f6b55fe9703f20fd54ed92c19b8e5fbb21025db5a3816b2"
     },
     {
       "bytes": 589,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-08T03:38:05+00:00",
+  "generated_at": "2026-09-09T03:40:49+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715517
+  "total_bytes": 715521
 }
