@@ -148,6 +148,11 @@
       "sha256": "32bb3f45b9da8d41702e2a12ae512047a3011d0d88f45dadc71000c2eec629fe"
     },
     {
+      "bytes": 669,
+      "path": "archive/人际/确立兄妹关系_e4f7814af775.md",
+      "sha256": "833f63792995351eb571803da798ffca9d04e4ff6535b7361593773bec2d6f63"
+    },
+    {
       "bytes": 1257,
       "path": "archive/做爱规则与伴侣沟通_a40ff2081b17.md",
       "sha256": "d74e27d5b275e8289bd90b2b6eab7463af2bad54cdf8d1611054dd4b73a352ab"
@@ -221,6 +226,11 @@
       "bytes": 472,
       "path": "archive/出行/威海头疗放松_376ce06e243c.md",
       "sha256": "619ee5694f3326a88e1db874309629144c6ea3cfb4169b1c6e52988a671e3cdb"
+    },
+    {
+      "bytes": 487,
+      "path": "archive/出行/威海抽烟记录_9117fed9d535.md",
+      "sha256": "d9723dcdeef95bbaff010cf239d304517c6a34e05cb0b37f47236c83277b1c6a"
     },
     {
       "bytes": 459,
@@ -448,6 +458,11 @@
       "sha256": "f9114524f5f462dffb31ee708d257802fb526e0cb34b46fd7a03752df0ae653a"
     },
     {
+      "bytes": 798,
+      "path": "archive/恋爱/亲密关系测试结果_ef3f326d61a2.md",
+      "sha256": "32c8aeb19bf1b32322340ef83bdc997d5d6fee41b207ca0c25b0c861eb9dca5b"
+    },
+    {
       "bytes": 656,
       "path": "archive/恋爱/人设细化与情感博弈_f61b2531188c.md",
       "sha256": "72ac1ed11a9d1f471691350302f07436383cfbef2e96b1cd1ae06b30e10d201e"
@@ -613,6 +628,11 @@
       "sha256": "0fa099a19c5b943b234dcf6a20c11af756b29ffbc39983586d3d2aa160669e9c"
     },
     {
+      "bytes": 709,
+      "path": "archive/恋爱/想闹与需要挽留_8bf922c66fec.md",
+      "sha256": "849be54e0bd9b3fe0b45634d178f0ae1b47e5d8671917a25ffdad96bbbcf03df"
+    },
+    {
       "bytes": 699,
       "path": "archive/恋爱/抽烟换算调情_2c40c17f7197.md",
       "sha256": "939127afc6f7c68440d49ed943ef6c2d80992bbb4d352bf2b4ea159d69e52715"
@@ -711,6 +731,11 @@
       "bytes": 591,
       "path": "archive/恋爱/橘橘白授权渊_7a4e71631852.md",
       "sha256": "92bd5e1cfc6dc37f08cf1ca3b14eaba8e19c6fba95edef29042056e66d4177fa"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/恋爱/橘橘白接受命运巧合_2a57d47eab33.md",
+      "sha256": "a2d9d04bfdb61e4066d3b7f064517a42fea295bdd917f5fb0565cfe6cd7adcc3"
     },
     {
       "bytes": 546,
@@ -943,6 +968,11 @@
       "sha256": "670a819a7cb2bacb854754c928bd5df13710b4ba426be2237e730f19c8931a7a"
     },
     {
+      "bytes": 574,
+      "path": "archive/恋爱/臣服与信任的瞬间_9313247b5143.md",
+      "sha256": "cd07b24476f44415ac86aaa9137ca76e156de22e75b28e175576ac4230167e64"
+    },
+    {
       "bytes": 737,
       "path": "archive/恋爱/苏黎世确认关系_1aa0156d5ebf.md",
       "sha256": "4cf99a76eaf68a5caddbedec2534cceccd7a00d189728afa45588cdedbc631ec"
@@ -976,6 +1006,11 @@
       "bytes": 508,
       "path": "archive/恋爱/迷糊中的昵称_2c57806529a8.md",
       "sha256": "1a039cf0ad531ae0a42ee0bf31ef05f49cb54b510b8ee8f49e4dfa3361faf2a1"
+    },
+    {
+      "bytes": 549,
+      "path": "archive/恋爱/逼迫后认主_ea96a9d2192f.md",
+      "sha256": "d135cfd12a4db934d77e4967cdac8ec34ccccab3c68d66202a13047bf7082edc"
     },
     {
       "bytes": 477,
@@ -1438,11 +1473,6 @@
       "sha256": "512aa9f06ae2dfaeebab55b4bfb530851902c3ceeb0102310b02e2a9fa9a69bf"
     },
     {
-      "bytes": 668,
-      "path": "dynamic/人际/确立兄妹关系_e4f7814af775.md",
-      "sha256": "a8e1bf9847dc5b6b8b87dbf0fe963dc2a83c134730057ec9ca77a58e61ad5160"
-    },
-    {
       "bytes": 1043,
       "path": "dynamic/健康/2026-07-27 02-55-39 腹泻与撤药反应_5849b026f8e3.md",
       "sha256": "97e808c079e4bbd92b4915051fb4683782892498f1180761227dc7d402bdae1a"
@@ -1596,11 +1626,6 @@
       "bytes": 747,
       "path": "dynamic/出行/因特拉肯瑞士军刀礼物_ce243eea5bc1.md",
       "sha256": "bd409f2e449f9a9d693c269570059abf7d46e6d208566cf9b3d75ecf437c3aff"
-    },
-    {
-      "bytes": 486,
-      "path": "dynamic/出行/威海抽烟记录_9117fed9d535.md",
-      "sha256": "d3efab7bbe53765b1821d20b81352109f31da4b88a3f6287a4883c48372a6235"
     },
     {
       "bytes": 478,
@@ -2648,11 +2673,6 @@
       "sha256": "c76e75b7232d4560ab7eb6660217f73cd6310c113336db8e8c93b340363af998"
     },
     {
-      "bytes": 797,
-      "path": "dynamic/恋爱/亲密关系测试结果_ef3f326d61a2.md",
-      "sha256": "51dbab96db72275a8af4f46d11ee79e148152a9a341c2eefd92e68f9fcdb1f70"
-    },
-    {
       "bytes": 546,
       "path": "dynamic/恋爱/亲密对话记录_22111af0a82f.md",
       "sha256": "cca6b1158c5e3bd035ee1207f8b8e7fa649772fd7fcbc3386779be8bad4f6fa8"
@@ -2753,11 +2773,6 @@
       "sha256": "d50751aa17225d3d26a94863fb6d537fdfc0917f27604cda13c146a2bb809418"
     },
     {
-      "bytes": 708,
-      "path": "dynamic/恋爱/想闹与需要挽留_8bf922c66fec.md",
-      "sha256": "c031ae129be754be2df77150120b9d325ce65f4a9f88cc21c3ee540bf3cd8277"
-    },
-    {
       "bytes": 647,
       "path": "dynamic/恋爱/挑衅式调情识别_3eafe55f4101.md",
       "sha256": "17898eeae3ef801be7b6acfb5506965f49db8584d0922b232d634a70b76e06b0"
@@ -2841,11 +2856,6 @@
       "bytes": 564,
       "path": "dynamic/恋爱/橘橘白挑衅记录_6a9084e521a4.md",
       "sha256": "b9a29cfada4c06d5d95b6e3fedabf9c9a2c0d71e268a0ad3cb0325939c291355"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/恋爱/橘橘白接受命运巧合_2a57d47eab33.md",
-      "sha256": "35eb40cd1c60689c53609dced80fc131aedef2a94013217b3865de1dd70e792b"
     },
     {
       "bytes": 719,
@@ -2988,11 +2998,6 @@
       "sha256": "e394f821ca32b3f1877837767ac5f9228e65478b5330009059745ecbed107171"
     },
     {
-      "bytes": 573,
-      "path": "dynamic/恋爱/臣服与信任的瞬间_9313247b5143.md",
-      "sha256": "8607d99d1d8a546788ad75c34c5d4117f2563613e4255c82fa2bc89e62552f4c"
-    },
-    {
       "bytes": 744,
       "path": "dynamic/恋爱/苏黎世湖的缘分巧合_7eeac3e7c0a1.md",
       "sha256": "0e6be4ef9f811c49aa9f5d6a652dcb20258914eae4de89f04921dd96c358c330"
@@ -3001,11 +3006,6 @@
       "bytes": 547,
       "path": "dynamic/恋爱/被占有的归属感_be9509bb85ba.md",
       "sha256": "d741e29a2489a2ab9e19fc7de0113794da5dbbfec203fd1a82ae9403326725a4"
-    },
-    {
-      "bytes": 548,
-      "path": "dynamic/恋爱/逼迫后认主_ea96a9d2192f.md",
-      "sha256": "b2369068c7a5b9197544ce099ff133eca51fc4b463e22f038b96a74a7ede8da4"
     },
     {
       "bytes": 714,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-09T03:40:49+00:00",
+  "generated_at": "2026-09-10T03:42:49+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715521
+  "total_bytes": 715528
 }
