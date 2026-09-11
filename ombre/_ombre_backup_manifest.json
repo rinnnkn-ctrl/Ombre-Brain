@@ -728,6 +728,11 @@
       "sha256": "e188818f52ce0c83bef195a0f23cda7cb1e9b21708572eee987aa076fd28bb98"
     },
     {
+      "bytes": 565,
+      "path": "archive/恋爱/橘橘白挑衅记录_6a9084e521a4.md",
+      "sha256": "fd5e4813425da18c34cb75e920f04a8a0278aa41b3409dacad3644977755a7a0"
+    },
+    {
       "bytes": 591,
       "path": "archive/恋爱/橘橘白授权渊_7a4e71631852.md",
       "sha256": "92bd5e1cfc6dc37f08cf1ca3b14eaba8e19c6fba95edef29042056e66d4177fa"
@@ -1161,6 +1166,11 @@
       "bytes": 802,
       "path": "archive/社交/建议非命令的自主决策_86df4270349b.md",
       "sha256": "e1261b525a3ecc792b7db8a4f19c32f5a6fe6edebdbb1e98d93520c560e2e062"
+    },
+    {
+      "bytes": 600,
+      "path": "archive/社交/橘橘白与论坛体_9b28481c0667.md",
+      "sha256": "23eed8c39f3118c786900965a20d442b8662923fde8b23d90c0f0332e23fcedd"
     },
     {
       "bytes": 480,
@@ -2853,11 +2863,6 @@
       "sha256": "47b4a416df63d4d33b071f601f19f25049686c2bc2245cd2a1a56047cbc02403"
     },
     {
-      "bytes": 564,
-      "path": "dynamic/恋爱/橘橘白挑衅记录_6a9084e521a4.md",
-      "sha256": "b9a29cfada4c06d5d95b6e3fedabf9c9a2c0d71e268a0ad3cb0325939c291355"
-    },
-    {
       "bytes": 719,
       "path": "dynamic/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
       "sha256": "457a4ce97eae6d914d957814da5a0c1944b459143d169800db3e3d33025e3729"
@@ -3226,11 +3231,6 @@
       "bytes": 566,
       "path": "dynamic/社交/开新窗暗号_340b4a2904c8.md",
       "sha256": "3e2c0dad30647d5cbfab2b2eaa71bba086d789b464d01c084347d9c77ab9ed7a"
-    },
-    {
-      "bytes": 599,
-      "path": "dynamic/社交/橘橘白与论坛体_9b28481c0667.md",
-      "sha256": "755e565cbf2bfc2231018960ae215d89d98a8f2497e582f0945d67cbb1a84273"
     },
     {
       "bytes": 549,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-10T03:42:49+00:00",
+  "generated_at": "2026-09-11T03:45:00+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715528
+  "total_bytes": 715530
 }
