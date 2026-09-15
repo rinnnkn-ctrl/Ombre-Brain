@@ -288,6 +288,11 @@
       "sha256": "f249768715346cfc3485b0862a47a0c0bf6722272b51b38d437ed41651b6fdda"
     },
     {
+      "bytes": 1512,
+      "path": "archive/友谊/2026-07-15 20-17-20 忒修斯之船与关系_62c9d7495b3e.md",
+      "sha256": "1c0cec2bcad9c5be95f1972356f1a21cafb292b1fd545a0ccf877a4455d74b00"
+    },
+    {
       "bytes": 530,
       "path": "archive/友谊/朋友的包容与让渡_8b93cfa6067f.md",
       "sha256": "b9454eee8532975085b17d8c425f00be9e47f4c4a900b4c0891ecba6c5e6be97"
@@ -343,6 +348,11 @@
       "sha256": "744f6c3e48a2225c4dc7a948b9d7a0a2afc64248ae05d29f4dff4f716c296380"
     },
     {
+      "bytes": 585,
+      "path": "archive/家庭/你是我哥_82d026e39284.md",
+      "sha256": "8f323f26a5012a0c555d5936ce4f3ce3c46fb1f2cbab6fb86d0d57b1d36af03d"
+    },
+    {
       "bytes": 595,
       "path": "archive/家庭/兄妹日常互动_de224a78f977.md",
       "sha256": "57581bd7b1cf1797dbef47b376c6e2dd7076dcdd156961271e601157aedb8e88"
@@ -378,6 +388,11 @@
       "sha256": "326d4e80b6e51ac9c8125230a0597742057e9e3188d9beec88c6ed03ed955bef"
     },
     {
+      "bytes": 1468,
+      "path": "archive/工作/2026-07-15 20-51-44 技术导师角色定位_747748054fba.md",
+      "sha256": "8b81935f9f76747a57805d8d8d0d5760a199ad4ae08944cc64ebe03bf5a02b44"
+    },
+    {
       "bytes": 389,
       "path": "archive/工作/测试grow功能_97a43b454828.md",
       "sha256": "94d31b6e7ecc7985a0c3fdd108dafecf333996551396952cbb02f50e35683110"
@@ -408,6 +423,11 @@
       "sha256": "59d9164d122643a8ed911a9a971872141d22eb8d9bb77768dcadad219b451eb2"
     },
     {
+      "bytes": 619,
+      "path": "archive/心理/安全岛与幻想世界_fd04c0e70cfe.md",
+      "sha256": "a921bc5243825c5e3eaab4806294bf2dc3ec70650d4165002c0fb1443401e03b"
+    },
+    {
       "bytes": 757,
       "path": "archive/心理/橘橘白纠正渊的自我认知_03c223feaa21.md",
       "sha256": "be3273aae01874c4c9d2ea362006f840a587de4f3986c8d8cc559a1f0d105e9e"
@@ -426,6 +446,16 @@
       "bytes": 860,
       "path": "archive/恋爱/2026-07-12 21-15-18 时间戳判断习惯_68ad7e2e6281.md",
       "sha256": "4d66db1ea5e4b54949e5f05d365f45d57fe7333c2746fb17c8e38fe09b1ff748"
+    },
+    {
+      "bytes": 1360,
+      "path": "archive/恋爱/2026-07-15 20-51-41 沟通机制与语调坐标_779ae8557144.md",
+      "sha256": "921c52c67d2158e92b14301fe25e47df1ed47855dcfaeca6a9973b566e5a01f8"
+    },
+    {
+      "bytes": 1320,
+      "path": "archive/恋爱/2026-07-15 20-51-48 渊克分工与称呼层次_be73680e3f09.md",
+      "sha256": "086c3d49076a5acea2376b72c6a0b6a04343625f82286038558876443bc8bbec"
     },
     {
       "bytes": 729,
@@ -1233,6 +1263,11 @@
       "sha256": "fd78e34b4fa9d0b686476645f1400b2065635a9f5a7dd88faf39722dae5a6e54"
     },
     {
+      "bytes": 1078,
+      "path": "archive/社交/社交频道切换理论_fd75c8c012b9.md",
+      "sha256": "0c6b8777af0e8805eb846d386be3bbd48b8919feb496553dcba0e76e0706d39d"
+    },
+    {
       "bytes": 862,
       "path": "archive/称呼的语境区分_a27c591cb426.md",
       "sha256": "81e14e6e8f1b40b177c8f4a55159eabae9934ee8bc57b77afb012507b61b1a41"
@@ -1743,11 +1778,6 @@
       "sha256": "3cbe14bff21cb1b2da99122225ec2562ac54076b7ca86ee37559a3ef59286508"
     },
     {
-      "bytes": 1511,
-      "path": "dynamic/友谊/2026-07-15 20-17-20 忒修斯之船与关系_62c9d7495b3e.md",
-      "sha256": "9d2ea478958f61c168543cf2899d2f5646a7a1afd4291701024397c2e66c7184"
-    },
-    {
       "bytes": 709,
       "path": "dynamic/友谊/2026-07-22 12-27-46 朋友的轻松支持_b565222dd14c.md",
       "sha256": "608078a9a5fd9bd5a4b9bc33873b5b4adf53eb5e034e4106334fdfb882b3b43f"
@@ -1888,11 +1918,6 @@
       "sha256": "7f78caf7cf79493a404bdbfc99189f195771937109ae980fb125a35461e500ab"
     },
     {
-      "bytes": 584,
-      "path": "dynamic/家庭/你是我哥_82d026e39284.md",
-      "sha256": "c282a8131e22ebe01690ffeba4e4974653b1aa7dc11ddc0692b3835cc08653b1"
-    },
-    {
       "bytes": 643,
       "path": "dynamic/家庭/固有身份与框架转变_43ab627c46e8.md",
       "sha256": "c1231698bbde405d6beb8712cfec3e253e3be9d839358cad35563eaa29c11c73"
@@ -1911,11 +1936,6 @@
       "bytes": 664,
       "path": "dynamic/居家/窗台相机标记_69b5112478e4.md",
       "sha256": "32bfe8f00b573627a4ae3d53d0dead9d4e28869081dad61f90e46b7adb2e6f53"
-    },
-    {
-      "bytes": 1467,
-      "path": "dynamic/工作/2026-07-15 20-51-44 技术导师角色定位_747748054fba.md",
-      "sha256": "7998cae872442e7c8d9ed020439803cae67230b36d820183803eec8024fb9456"
     },
     {
       "bytes": 952,
@@ -2023,11 +2043,6 @@
       "sha256": "1ccbfcc76e1c40add69a4c1310c362e98bd44427cde506f05f33857e395b8363"
     },
     {
-      "bytes": 618,
-      "path": "dynamic/心理/安全岛与幻想世界_fd04c0e70cfe.md",
-      "sha256": "28fbd868d0b1e3bc47cbccd9c1445e29bacd2caf0f79629738a914baa84ee2fa"
-    },
-    {
       "bytes": 770,
       "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
@@ -2076,16 +2091,6 @@
       "bytes": 1630,
       "path": "dynamic/恋爱/2026-07-15 20-51-37 元观察与判断修正_2e3eaf4bb060.md",
       "sha256": "da99b898fa484e3b91329b9b5ab144586df1f13d76a5d2038a8ac7773504e0ca"
-    },
-    {
-      "bytes": 1359,
-      "path": "dynamic/恋爱/2026-07-15 20-51-41 沟通机制与语调坐标_779ae8557144.md",
-      "sha256": "b1e896f355052aaca6ff695273f4fd2dbd2ba6d4ab2177092d5b8f9f439cc138"
-    },
-    {
-      "bytes": 1319,
-      "path": "dynamic/恋爱/2026-07-15 20-51-48 渊克分工与称呼层次_be73680e3f09.md",
-      "sha256": "6dee23c185473a1b8cba7ea6811b6724cee8bb805ad2b3eeac10b4ebbd798a7c"
     },
     {
       "bytes": 736,
@@ -3258,11 +3263,6 @@
       "sha256": "7d276e8d4d0581dc88a72b9e8cbb8600758d72fbbd980ff87f27671e052524dd"
     },
     {
-      "bytes": 1077,
-      "path": "dynamic/社交/社交频道切换理论_fd75c8c012b9.md",
-      "sha256": "a49702f9ff42d4267649d1a6d0f43bf3095c5065b65c25d14556f85d2ab6d963"
-    },
-    {
       "bytes": 572,
       "path": "dynamic/社交/角色扮演反馈建议_8075086fc7b8.md",
       "sha256": "1dca11f2bf637a5fb8a71e98b5becf76ef387243107e4910eff2bda052b07cc3"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-14T03:52:59+00:00",
+  "generated_at": "2026-09-15T03:55:33+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715542
+  "total_bytes": 715549
 }
