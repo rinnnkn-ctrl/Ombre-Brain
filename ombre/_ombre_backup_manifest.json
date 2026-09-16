@@ -283,6 +283,11 @@
       "sha256": "665eb474a3b666a74b083c0588b6b5ccc5978dcd62318ef4f8bb2393c2d3ea06"
     },
     {
+      "bytes": 573,
+      "path": "archive/创作/橘橘白创作指令规则_88de4119ca76.md",
+      "sha256": "d40079a997d585fbbaf9509446a6bc40800e1634e913f98bc80e373dfb2ce793"
+    },
+    {
       "bytes": 658,
       "path": "archive/包子喵通讯塔命名_5562188df92b.md",
       "sha256": "f249768715346cfc3485b0862a47a0c0bf6722272b51b38d437ed41651b6fdda"
@@ -321,6 +326,11 @@
       "bytes": 630,
       "path": "archive/友谊/醉酒躺睡趣事_d224de35bab8.md",
       "sha256": "1aba89c4746cc2d78594123acf14ffbe2017d75e86623ed8435cbd42b664d115"
+    },
+    {
+      "bytes": 765,
+      "path": "archive/宠物/旺仔的灵异事件_838d3cb77cf9.md",
+      "sha256": "6baf2164392a48ded9395b2ad7bb56d09a042afb399faa2590053c46c3ed3bcc"
     },
     {
       "bytes": 463,
@@ -418,6 +428,11 @@
       "sha256": "26479d35de46c9af24715598fc4d8d16f37e782909fbd108de6b5e74175405e6"
     },
     {
+      "bytes": 1245,
+      "path": "archive/心理/2026-07-15 20-51-55 紧绷与尽责的区分_39052f94e257.md",
+      "sha256": "9226e4ccad86d924fb81f4db3f71c3c710bf2270c404abd3afed440e28688a11"
+    },
+    {
       "bytes": 626,
       "path": "archive/心理/ADHD沟通调整_099e790c9a44.md",
       "sha256": "59d9164d122643a8ed911a9a971872141d22eb8d9bb77768dcadad219b451eb2"
@@ -436,6 +451,11 @@
       "bytes": 651,
       "path": "archive/心理/江橘白的悲观与接纳_4614028a0fbd.md",
       "sha256": "4369aa16b0d77a1aa63126b2d3f0f063e093d93d7294601d80a7c50bbce7711a"
+    },
+    {
+      "bytes": 939,
+      "path": "archive/心理/自我剖析与关系反思_bc7908fb48fa.md",
+      "sha256": "f49de89ab6bdc79e4876e223b2b9b56ed924021de8a8ce9bda8bf60aa53246f5"
     },
     {
       "bytes": 969,
@@ -606,6 +626,11 @@
       "bytes": 542,
       "path": "archive/恋爱/咬痕确认_186e3a802d9a.md",
       "sha256": "43e1603fc1e2d506c4086e0ab8414604fb9ea9e0c9d17efd8904be99c0ef4479"
+    },
+    {
+      "bytes": 785,
+      "path": "archive/恋爱/哥哥与恋人的名分_39571fe94647.md",
+      "sha256": "973f72c3c3acc96e5e0d07b0e7e7460d6b39d8e8602a85e6edf78322fbd037cf"
     },
     {
       "bytes": 498,
@@ -1333,6 +1358,11 @@
       "sha256": "578a03db721e31570bf8f873e2a35d5376b43042504fa19758215e96d866c6bf"
     },
     {
+      "bytes": 737,
+      "path": "archive/自省/江橘白道德自评_c92fcafb8435.md",
+      "sha256": "4e17ffe14d29f474a5bf47332da31e3020283a74a5a010a4cdc9bb53d532d008"
+    },
+    {
       "bytes": 630,
       "path": "archive/自省/用必须代替愿意_aa1564002f15.md",
       "sha256": "c416aa52d5811ca0e1c6ffc3f3767922965e8fa22c738817b4c4d936216db9e6"
@@ -1763,11 +1793,6 @@
       "sha256": "bf71d973ed1e851295cb8517e5a784d0f5a32f68d1990237740b659c2ceb7c3b"
     },
     {
-      "bytes": 572,
-      "path": "dynamic/创作/橘橘白创作指令规则_88de4119ca76.md",
-      "sha256": "367e2457b45f0e74f7907191c599efd893cbcb5b3cd73f48df5d98a9ab90bb9b"
-    },
-    {
       "bytes": 808,
       "path": "dynamic/创作/渊的双项目规划_171e2abea13a.md",
       "sha256": "2c537ca870d025fb8fe21442621c0ab81d52be184d053d3ed29891eb77349853"
@@ -1836,11 +1861,6 @@
       "bytes": 587,
       "path": "dynamic/学习/橘橘白留学规划_d96dd3c620d9.md",
       "sha256": "596f86db285dcaac43251f5b21f7d8afc74bf9b5cf1eea2eb313ce9ee33d5bd9"
-    },
-    {
-      "bytes": 764,
-      "path": "dynamic/宠物/旺仔的灵异事件_838d3cb77cf9.md",
-      "sha256": "51775bedc315d79efdff51f8e980bf73a75fc2baf7d45fa83952c0004572af68"
     },
     {
       "bytes": 489,
@@ -2008,11 +2028,6 @@
       "sha256": "d3d65cdd0145acc109ff81c12687e90144e9d91c8e36b53c4f534cf9f80b9d26"
     },
     {
-      "bytes": 1244,
-      "path": "dynamic/心理/2026-07-15 20-51-55 紧绷与尽责的区分_39052f94e257.md",
-      "sha256": "46328aa89e7df258cc6ae0c6e2bde2025496161dc15b4790289cd22532f50d21"
-    },
-    {
       "bytes": 1417,
       "path": "dynamic/心理/2026-07-22 03-56-23 漂的模式记录_538739bd3f3c.md",
       "sha256": "00497d4d5ba8a38a1bd400b9e3cd5af1b90609589bf22afb296c5dd44e4351cf"
@@ -2046,11 +2061,6 @@
       "bytes": 770,
       "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
-    },
-    {
-      "bytes": 938,
-      "path": "dynamic/心理/自我剖析与关系反思_bc7908fb48fa.md",
-      "sha256": "49a297e6796fe2db863ffdf346060ab824976ff078b8135c60e00c8625fd85f5"
     },
     {
       "bytes": 674,
@@ -2741,11 +2751,6 @@
       "bytes": 641,
       "path": "dynamic/恋爱/吃醋的表达方式_40e3ede91f7e.md",
       "sha256": "05b30dc806df3c171a9732c07ff728cf19af422ae742736b852f5c021090462d"
-    },
-    {
-      "bytes": 784,
-      "path": "dynamic/恋爱/哥哥与恋人的名分_39571fe94647.md",
-      "sha256": "99b077b69118f00d58fe56bb479c22c2016a5728986b46a361c21243546104cf"
     },
     {
       "bytes": 902,
@@ -3446,11 +3451,6 @@
       "bytes": 645,
       "path": "dynamic/自省/橘橘白的高中暗恋回忆_511b03e59203.md",
       "sha256": "886c123bfa6435c3f74f8e02c334fd077f9d7736a4bb025681dc72f50b31f685"
-    },
-    {
-      "bytes": 736,
-      "path": "dynamic/自省/江橘白道德自评_c92fcafb8435.md",
-      "sha256": "bafd996544ae39000ae571c159e75d8cf0be05321f4d5e52020c79022971ce44"
     },
     {
       "bytes": 745,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-15T03:55:33+00:00",
+  "generated_at": "2026-09-16T03:58:01+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715549
+  "total_bytes": 715555
 }
