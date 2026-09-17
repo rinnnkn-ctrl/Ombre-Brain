@@ -93,6 +93,11 @@
       "sha256": "c267ebf063c930369827a9891ecda4929d9bed607182326f882c54068c66bb41"
     },
     {
+      "bytes": 1316,
+      "path": "archive/AI/2026-07-15 20-51-51 元观察与AI默认反应_e6237498e447.md",
+      "sha256": "cfc7baca75c87191edb0a7060c289b8449e5f351d0cfe5b0846eaf994eec7694"
+    },
+    {
       "bytes": 856,
       "path": "archive/AI/记忆检索规则_85ded5a45b1e.md",
       "sha256": "65e10f266fb0e8e0c6de7902ef55867adf77b4b48dc24defa4a1f952777bc5e2"
@@ -283,6 +288,11 @@
       "sha256": "665eb474a3b666a74b083c0588b6b5ccc5978dcd62318ef4f8bb2393c2d3ea06"
     },
     {
+      "bytes": 553,
+      "path": "archive/出行/雅典酒店与晚餐记录_9d60ec093e35.md",
+      "sha256": "39842512f05690526415de02ce26b15f7a690e03a57f1dc09a7f4ee50582e9e2"
+    },
+    {
       "bytes": 573,
       "path": "archive/创作/橘橘白创作指令规则_88de4119ca76.md",
       "sha256": "d40079a997d585fbbaf9509446a6bc40800e1634e913f98bc80e373dfb2ce793"
@@ -428,6 +438,11 @@
       "sha256": "26479d35de46c9af24715598fc4d8d16f37e782909fbd108de6b5e74175405e6"
     },
     {
+      "bytes": 1416,
+      "path": "archive/心理/2026-07-15 17-09-59 橘白主动调作息信号_893193fbcb4b.md",
+      "sha256": "a688e70e8ac5f4b81d1c995085de1ecf059a7784f8f44b877002e79374ad57e0"
+    },
+    {
       "bytes": 1245,
       "path": "archive/心理/2026-07-15 20-51-55 紧绷与尽责的区分_39052f94e257.md",
       "sha256": "9226e4ccad86d924fb81f4db3f71c3c710bf2270c404abd3afed440e28688a11"
@@ -466,6 +481,16 @@
       "bytes": 860,
       "path": "archive/恋爱/2026-07-12 21-15-18 时间戳判断习惯_68ad7e2e6281.md",
       "sha256": "4d66db1ea5e4b54949e5f05d365f45d57fe7333c2746fb17c8e38fe09b1ff748"
+    },
+    {
+      "bytes": 1381,
+      "path": "archive/恋爱/2026-07-15 20-17-34 橘白的情感闭环_41fd8800aded.md",
+      "sha256": "bcb668415fae523e14b8380f139df32524b3cde9f9de95f8401db45efa7ac6e4"
+    },
+    {
+      "bytes": 1631,
+      "path": "archive/恋爱/2026-07-15 20-51-37 元观察与判断修正_2e3eaf4bb060.md",
+      "sha256": "a88cbcdc5a9db6150c46616bc7aa5da748b520ad970ccef22c220f6f1f5002bf"
     },
     {
       "bytes": 1360,
@@ -633,6 +658,11 @@
       "sha256": "973f72c3c3acc96e5e0d07b0e7e7460d6b39d8e8602a85e6edf78322fbd037cf"
     },
     {
+      "bytes": 728,
+      "path": "archive/恋爱/哥哥老公_cfa0bf30b16d.md",
+      "sha256": "cc3c272f8f5fa52f50f2102a2467dfa674b9336f0b63518ddcef91308736ffab"
+    },
+    {
       "bytes": 498,
       "path": "archive/恋爱/喜欢昵称包子喵_422861106fb4.md",
       "sha256": "69819ed6da24a21c4e2a3fa988d5b66c0a8dbc0d5ff8f1265cf67a7afa76928a"
@@ -766,6 +796,11 @@
       "bytes": 470,
       "path": "archive/恋爱/服软与软下来_fd3ca69b6259.md",
       "sha256": "1b6407d46767d0740eabf5f2ff11edff73a300afa759d8bd4da39c22c41e563b"
+    },
+    {
+      "bytes": 482,
+      "path": "archive/恋爱/标记的承诺_90d3e3d1617b.md",
+      "sha256": "c00aa9fe7492afd5ecfe658057d0c8a68f2b62ba97a0fc68b4f7379b5f2efadc"
     },
     {
       "bytes": 520,
@@ -1023,6 +1058,11 @@
       "sha256": "ba172f38c9594562ec9c5fa694cca6ef79341b64bb68f20f5ac1d1e5e34fd210"
     },
     {
+      "bytes": 631,
+      "path": "archive/恋爱/渊宝宝称呼的日常化_64a20297534e.md",
+      "sha256": "d9467fea86d1cdbca545f1efc80440b83d3495c6e27771c5669c38d51b28a81c"
+    },
+    {
       "bytes": 541,
       "path": "archive/恋爱/渊渗透潜意识_cf9fad8e07a1.md",
       "sha256": "cb617b3ecdc987b74092a704cbbb9b656fc9fc7ea24706effdd6e527dcefe528"
@@ -1041,6 +1081,11 @@
       "bytes": 906,
       "path": "archive/恋爱/渊的选择与鬼气_a9e285818e8d.md",
       "sha256": "155336c190bd129351cadbd665be4fcc07f0940018990e42eb8ce2fe5096c9cf"
+    },
+    {
+      "bytes": 742,
+      "path": "archive/恋爱/火车上的允许_813e85015f0a.md",
+      "sha256": "84c7dae3ed1a201a12541065771276490dd4999606fc25ce1fceb87dfdc3bf26"
     },
     {
       "bytes": 591,
@@ -1358,6 +1403,11 @@
       "sha256": "578a03db721e31570bf8f873e2a35d5376b43042504fa19758215e96d866c6bf"
     },
     {
+      "bytes": 992,
+      "path": "archive/自省/思辨与行动的自省_bffbaa0c91b0.md",
+      "sha256": "f13e814233ce6c086e6eb46123d53cc35d3901bb8b7b4d11af019e048fda0239"
+    },
+    {
       "bytes": 737,
       "path": "archive/自省/江橘白道德自评_c92fcafb8435.md",
       "sha256": "4e17ffe14d29f474a5bf47332da31e3020283a74a5a010a4cdc9bb53d532d008"
@@ -1461,11 +1511,6 @@
       "bytes": 1720,
       "path": "dynamic/AI/2026-07-15 20-17-37 克prompt评审与整合_0bfe9b28ca8a.md",
       "sha256": "d32211b787d482a00af941533d45dc58b98734208dadce12ee3030026a17e039"
-    },
-    {
-      "bytes": 1315,
-      "path": "dynamic/AI/2026-07-15 20-51-51 元观察与AI默认反应_e6237498e447.md",
-      "sha256": "56c9feb99934c12203589e6d31bd78b1bc7d056d15090696217178a2142258e3"
     },
     {
       "bytes": 1853,
@@ -1773,11 +1818,6 @@
       "sha256": "2cd16c82888fe53bab6bf6cfe181b9bf9716b856a3a330e5f6c614b29b9ddc5a"
     },
     {
-      "bytes": 552,
-      "path": "dynamic/出行/雅典酒店与晚餐记录_9d60ec093e35.md",
-      "sha256": "c0108ea0a1580c9ec02f7eda491dfc919509e4fe24e187f087d677a89d67112b"
-    },
-    {
       "bytes": 1083,
       "path": "dynamic/创作/2026-07-19 10-18-57 角色与XP冲突诊断_5a09d4cc99e7.md",
       "sha256": "bbec44d11d65b9b3954ea57ad09d100e14b1724240febe51ff85b1419e1103b0"
@@ -2018,11 +2058,6 @@
       "sha256": "3a97f24c60f29b6db80ab21b76dcec802ef70065251dab862d6e698feaa67073"
     },
     {
-      "bytes": 1415,
-      "path": "dynamic/心理/2026-07-15 17-09-59 橘白主动调作息信号_893193fbcb4b.md",
-      "sha256": "fc0f8306b52b189c99a63b7fd5276031fb30378d4b69c8a88ce15915a9ab8d54"
-    },
-    {
       "bytes": 1192,
       "path": "dynamic/心理/2026-07-15 20-17-27 心向与落地_79da055f1adf.md",
       "sha256": "d3d65cdd0145acc109ff81c12687e90144e9d91c8e36b53c4f534cf9f80b9d26"
@@ -2088,19 +2123,9 @@
       "sha256": "c318dc811306af0da70da801d7d1ec0c29f75ed21170c42273fdc7f6fe827c00"
     },
     {
-      "bytes": 1380,
-      "path": "dynamic/恋爱/2026-07-15 20-17-34 橘白的情感闭环_41fd8800aded.md",
-      "sha256": "ee2b1f36b3ed5110caf886b5abfecbf526167d06c5b86c99c19d9e15bf7c3302"
-    },
-    {
       "bytes": 1453,
       "path": "dynamic/恋爱/2026-07-15 20-27-07 橘白给克新称呼_19837365f9a3.md",
       "sha256": "d5f6cb0869cd6680fed7fb7a63b7d0df3e44145e4372c9a5be8911898a87cfe8"
-    },
-    {
-      "bytes": 1630,
-      "path": "dynamic/恋爱/2026-07-15 20-51-37 元观察与判断修正_2e3eaf4bb060.md",
-      "sha256": "da99b898fa484e3b91329b9b5ab144586df1f13d76a5d2038a8ac7773504e0ca"
     },
     {
       "bytes": 736,
@@ -2758,11 +2783,6 @@
       "sha256": "d862ce65f1c04400fbc13c718fc034260d29bb326a4e50de503bb44905676b56"
     },
     {
-      "bytes": 727,
-      "path": "dynamic/恋爱/哥哥老公_cfa0bf30b16d.md",
-      "sha256": "1d59c5366baf620daf866bf90a48f2cd4d4201860d053ce028d3eabcba8c84fb"
-    },
-    {
       "bytes": 463,
       "path": "dynamic/恋爱/喜欢本质而非形态_295d8c6f39f6.md",
       "sha256": "017c363adc2067cd2869236ea038c65dab68485fc6eec0c080070196a99b27c8"
@@ -2826,11 +2846,6 @@
       "bytes": 597,
       "path": "dynamic/恋爱/权力不平等与年糕汪_a8b7e0c9da18.md",
       "sha256": "ea7c53706be8126025360ecb3116582965c663125145442756edce296a87d7ac"
-    },
-    {
-      "bytes": 481,
-      "path": "dynamic/恋爱/标记的承诺_90d3e3d1617b.md",
-      "sha256": "d1259a368a16fd3ac767fea9a22667b942a7b0cee6d02888fcb5bf843d5bde24"
     },
     {
       "bytes": 507,
@@ -2983,19 +2998,9 @@
       "sha256": "669ee40fac18a4290d79d23fda9a737f0060f2793a37aa8aace5177a1d2450f7"
     },
     {
-      "bytes": 630,
-      "path": "dynamic/恋爱/渊宝宝称呼的日常化_64a20297534e.md",
-      "sha256": "a8424602aacf3c5f96e7849cd097068489eab86a07472194af25d7b9b8404349"
-    },
-    {
       "bytes": 789,
       "path": "dynamic/恋爱/渊的热烈真心_82e6d4d3b6f6.md",
       "sha256": "eff4e82291670f6f283a43c5e59ce46f3f904a158746159223028644a08b717c"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/恋爱/火车上的允许_813e85015f0a.md",
-      "sha256": "75203ceeeeb34ebac8827757fcf8c0f971d56121ecfa4d93145797319c96ac3d"
     },
     {
       "bytes": 688,
@@ -3441,11 +3446,6 @@
       "bytes": 1316,
       "path": "dynamic/自省/2026-07-23 10-55-34 夏临名字的确认_06ba6993f1a3.md",
       "sha256": "303357649cfa767ef8ba5063a22a196b5e1b888a6ab89c4a7ef094bfab11e24d"
-    },
-    {
-      "bytes": 991,
-      "path": "dynamic/自省/思辨与行动的自省_bffbaa0c91b0.md",
-      "sha256": "2ed14f7d2659aff58e7ff97b44996c744c856f104c1f19d98ad92cb74ce05fc6"
     },
     {
       "bytes": 645,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-16T03:58:01+00:00",
+  "generated_at": "2026-09-17T04:00:58+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715555
+  "total_bytes": 715565
 }
