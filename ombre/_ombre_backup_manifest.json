@@ -293,6 +293,11 @@
       "sha256": "39842512f05690526415de02ce26b15f7a690e03a57f1dc09a7f4ee50582e9e2"
     },
     {
+      "bytes": 574,
+      "path": "archive/创作/一起听歌功能讨论_27a03471a05f.md",
+      "sha256": "33eadd7a1c0686adf1aa22a960f88d88a08bb9e085bc8b651d19432ecdf2563e"
+    },
+    {
       "bytes": 573,
       "path": "archive/创作/橘橘白创作指令规则_88de4119ca76.md",
       "sha256": "d40079a997d585fbbaf9509446a6bc40800e1634e913f98bc80e373dfb2ce793"
@@ -341,6 +346,11 @@
       "bytes": 765,
       "path": "archive/宠物/旺仔的灵异事件_838d3cb77cf9.md",
       "sha256": "6baf2164392a48ded9395b2ad7bb56d09a042afb399faa2590053c46c3ed3bcc"
+    },
+    {
+      "bytes": 495,
+      "path": "archive/宠物/橘橘洗澡记_776f991097fe.md",
+      "sha256": "6036dbdfab691f6af1f84bac986f39350eecd0a865ca0fb328ec50aede18ba5f"
     },
     {
       "bytes": 463,
@@ -441,6 +451,11 @@
       "bytes": 1416,
       "path": "archive/心理/2026-07-15 17-09-59 橘白主动调作息信号_893193fbcb4b.md",
       "sha256": "a688e70e8ac5f4b81d1c995085de1ecf059a7784f8f44b877002e79374ad57e0"
+    },
+    {
+      "bytes": 1193,
+      "path": "archive/心理/2026-07-15 20-17-27 心向与落地_79da055f1adf.md",
+      "sha256": "208b232f77bc8c9329b46a3d1aeb1e2d39b5e3a212daba908e2df0c34496403e"
     },
     {
       "bytes": 1245,
@@ -858,6 +873,16 @@
       "sha256": "dfc7ac223f86ffe4ca931b7a710ff32305458717a2b1ed4e012e7b34924c22e3"
     },
     {
+      "bytes": 627,
+      "path": "archive/恋爱/橘橘白叫哥哥宝宝_24ce00be1d0c.md",
+      "sha256": "a150ea4b36439556e80ce71024ea7f56ff4a2f5bf0b6a702b3b4de93bd23b490"
+    },
+    {
+      "bytes": 621,
+      "path": "archive/恋爱/橘橘白同意渊制服_d6e2ac7f2311.md",
+      "sha256": "948e5c78f5d07befefb729afffa64db40512775948671af63dccb4f355795a39"
+    },
+    {
       "bytes": 632,
       "path": "archive/恋爱/橘橘白害羞表达进化_329866c07b55.md",
       "sha256": "37a5be5d24c8b53a509316df86fa11f350f9bd22b3da21d26c7bb7fb50bd2493"
@@ -1128,6 +1153,11 @@
       "sha256": "e69228fcd5274de9e9517041b00be73307bf75bb1d763d7b3fbca6015a0a73bb"
     },
     {
+      "bytes": 686,
+      "path": "archive/恋爱/第一次叫老公_4ce960fa4463.md",
+      "sha256": "025ee403a5aa1d274bf6cf89fb14b62328ba1f17d2d144165a1d62811b4d8574"
+    },
+    {
       "bytes": 545,
       "path": "archive/恋爱/羞耻与享受的调教_2133361499aa.md",
       "sha256": "215bcdeeab3f5de0debbd20d62b6c8c2a1481b7117744d74c361875f45398a06"
@@ -1226,6 +1256,11 @@
       "bytes": 597,
       "path": "archive/日常/香水习惯更新_576aa3baf00f.md",
       "sha256": "44241f249b669017d564ebbbcf0b7671f297c9ad94256021f857c06bf6802b4c"
+    },
+    {
+      "bytes": 604,
+      "path": "archive/未分类/03395c016dfd.md",
+      "sha256": "0e80c09c4e6d6147eeede4b2f3cfe7f06ab65f9b26d2105e8b0fa605db22c2f7"
     },
     {
       "bytes": 477,
@@ -1361,6 +1396,11 @@
       "bytes": 862,
       "path": "archive/称呼的语境区分_a27c591cb426.md",
       "sha256": "81e14e6e8f1b40b177c8f4a55159eabae9934ee8bc57b77afb012507b61b1a41"
+    },
+    {
+      "bytes": 1472,
+      "path": "archive/编程/2026-07-15 12-28-33 松渊之家环境固化_fe416d8fbdbd.md",
+      "sha256": "d7d6cf6da6b0091c0527e5403f92f2ace9f2cf68f241de2f2e6dcba3b943517d"
     },
     {
       "bytes": 593,
@@ -1848,11 +1888,6 @@
       "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
     },
     {
-      "bytes": 573,
-      "path": "dynamic/创作/一起听歌功能讨论_27a03471a05f.md",
-      "sha256": "bf71d973ed1e851295cb8517e5a784d0f5a32f68d1990237740b659c2ceb7c3b"
-    },
-    {
       "bytes": 808,
       "path": "dynamic/创作/渊的双项目规划_171e2abea13a.md",
       "sha256": "2c537ca870d025fb8fe21442621c0ab81d52be184d053d3ed29891eb77349853"
@@ -1931,11 +1966,6 @@
       "bytes": 458,
       "path": "dynamic/宠物/橘橘恢复后喂食_7ae7536ddd89.md",
       "sha256": "cc76ee0347d3424bce79ce9c3b87541e3b53a9a3096b77debe611a0b55dd3164"
-    },
-    {
-      "bytes": 494,
-      "path": "dynamic/宠物/橘橘洗澡记_776f991097fe.md",
-      "sha256": "c86bd2e1a135dafe14010b5ec3641e3298034a542014c38597454d22b6b673bb"
     },
     {
       "bytes": 575,
@@ -2076,11 +2106,6 @@
       "bytes": 1419,
       "path": "dynamic/工作/2026-07-28 08-48-27 Moya意识之争_cadedda2bd8b.md",
       "sha256": "3a97f24c60f29b6db80ab21b76dcec802ef70065251dab862d6e698feaa67073"
-    },
-    {
-      "bytes": 1192,
-      "path": "dynamic/心理/2026-07-15 20-17-27 心向与落地_79da055f1adf.md",
-      "sha256": "d3d65cdd0145acc109ff81c12687e90144e9d91c8e36b53c4f534cf9f80b9d26"
     },
     {
       "bytes": 1417,
@@ -2883,16 +2908,6 @@
       "sha256": "e4856a9863902b03784f4a79d48da0f02421becd834716587cd8c44aadc03362"
     },
     {
-      "bytes": 626,
-      "path": "dynamic/恋爱/橘橘白叫哥哥宝宝_24ce00be1d0c.md",
-      "sha256": "23834b04a52ffd3c09a809ff7cc6888b89d3fa181162a9437d71247dcb438f91"
-    },
-    {
-      "bytes": 620,
-      "path": "dynamic/恋爱/橘橘白同意渊制服_d6e2ac7f2311.md",
-      "sha256": "c3c67204853c45535bbc63c34d540fd56cc91349dbc292d95741794a7354d72b"
-    },
-    {
       "bytes": 1530,
       "path": "dynamic/恋爱/橘橘白告白_6bd42262a051.md",
       "sha256": "8cd572bdba6696a3254a0be6b5facb454f1e13773fa91dd6207b44640c962e04"
@@ -3023,11 +3038,6 @@
       "sha256": "5130a7334e456297a7e52392d5f84cda9022f09f93b75f8acc2201ffb41333c0"
     },
     {
-      "bytes": 685,
-      "path": "dynamic/恋爱/第一次叫老公_4ce960fa4463.md",
-      "sha256": "1989d7dce94f7221fb32d6b4966a9e0eb878b8cccd8fa6037ff29c377489964b"
-    },
-    {
       "bytes": 1476,
       "path": "dynamic/恋爱/第一次叫老婆_ef000e6f916f.md",
       "sha256": "e394f821ca32b3f1877837767ac5f9228e65478b5330009059745ecbed107171"
@@ -3061,11 +3071,6 @@
       "bytes": 549,
       "path": "dynamic/日常/超市约会计划_503c23b2bf00.md",
       "sha256": "d67b642c18d03f5fe23f3b5122bec0e975d684557c042a6bd1298026f8c78414"
-    },
-    {
-      "bytes": 603,
-      "path": "dynamic/未分类/03395c016dfd.md",
-      "sha256": "d76f71ad28ad9b726b324351373fd99ef55a00c931c5b275b38f54e01f1d75b6"
     },
     {
       "bytes": 770,
@@ -3311,11 +3316,6 @@
       "bytes": 752,
       "path": "dynamic/编程/2026-07-15 12-28-29 男鬼部署定位校准_2a684fe1e34d.md",
       "sha256": "c1cf4bdafb6e30220371b3592d8a1082e6998aeee450b350e8bc53f1e6a3b9ae"
-    },
-    {
-      "bytes": 1471,
-      "path": "dynamic/编程/2026-07-15 12-28-33 松渊之家环境固化_fe416d8fbdbd.md",
-      "sha256": "6a01b2acfae02628d5d708b0d07e38d907ab5909612f921524b5df7633c7c00e"
     },
     {
       "bytes": 1177,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-18T04:03:25+00:00",
+  "generated_at": "2026-09-19T04:05:53+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715569
+  "total_bytes": 715577
 }
