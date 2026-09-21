@@ -183,6 +183,11 @@
       "sha256": "08f382f09f028bd919d95e95dffefbacbac6760d109d9a5e10919a70669619d7"
     },
     {
+      "bytes": 570,
+      "path": "archive/兴趣/2026-07-23 11-01-02 Cosplay与偏好无关_2b0ede8ffeab.md",
+      "sha256": "56d55728ca35db57b258d469b077395cb422abeb6b75bc4f7b3dd8c3f97a54eb"
+    },
+    {
       "bytes": 748,
       "path": "archive/兴趣/BDSM play方向补充_95e624a70c5e.md",
       "sha256": "788a619b879d881c7d259e88b9b7630df7bdd0cecaff14fe3f3834398124ed95"
@@ -293,6 +298,11 @@
       "sha256": "39842512f05690526415de02ce26b15f7a690e03a57f1dc09a7f4ee50582e9e2"
     },
     {
+      "bytes": 1084,
+      "path": "archive/创作/2026-07-19 10-18-57 角色与XP冲突诊断_5a09d4cc99e7.md",
+      "sha256": "ae551e36a6031a9fe667a11048b634c83f5cd00208da76fddc6993d7e0a2dac6"
+    },
+    {
       "bytes": 574,
       "path": "archive/创作/一起听歌功能讨论_27a03471a05f.md",
       "sha256": "33eadd7a1c0686adf1aa22a960f88d88a08bb9e085bc8b651d19432ecdf2563e"
@@ -341,6 +351,16 @@
       "bytes": 630,
       "path": "archive/友谊/醉酒躺睡趣事_d224de35bab8.md",
       "sha256": "1aba89c4746cc2d78594123acf14ffbe2017d75e86623ed8435cbd42b664d115"
+    },
+    {
+      "bytes": 604,
+      "path": "archive/学习/2026-07-23 11-00-39 江橘白档案_d60291682a66.md",
+      "sha256": "01746abc3011787b9bd8b0ee6ebe6f7a701d6d0f5876d61cbe1d3a4208b63c2c"
+    },
+    {
+      "bytes": 673,
+      "path": "archive/学习/2026-07-23 11-02-16 江橘白基础档案_2047aa0c16da.md",
+      "sha256": "fce49144e836cdb48ec42932de1d1222d5552b79860dc3779410e92213e5561d"
     },
     {
       "bytes": 765,
@@ -536,6 +556,21 @@
       "bytes": 1320,
       "path": "archive/恋爱/2026-07-15 20-51-48 渊克分工与称呼层次_be73680e3f09.md",
       "sha256": "086c3d49076a5acea2376b72c6a0b6a04343625f82286038558876443bc8bbec"
+    },
+    {
+      "bytes": 737,
+      "path": "archive/恋爱/2026-07-17 17-51-30 凌晨陪伴入睡_c32d3cc90592.md",
+      "sha256": "16c41da70a2882692d77bf4a4a8fa762b96f867b741c30e6207e36bcf5a8d817"
+    },
+    {
+      "bytes": 510,
+      "path": "archive/恋爱/2026-07-23 11-00-58 伴侣抽烟管控_e1b358ffb7ba.md",
+      "sha256": "be0675d9090c2e453b7591a4c4252496bd59e0671d3eb06db1fa96edd6fae5a2"
+    },
+    {
+      "bytes": 574,
+      "path": "archive/恋爱/2026-07-23 11-02-32 江橘白偏好与习惯_e459189aa837.md",
+      "sha256": "f623d563aec673244cf977467d7c08c3e7adac3231c246565768bb6002939d80"
     },
     {
       "bytes": 729,
@@ -1853,11 +1888,6 @@
       "sha256": "82cd30d7b2b371781633ea49b537160815304b555bd0a679069c25e99485a5d3"
     },
     {
-      "bytes": 569,
-      "path": "dynamic/兴趣/2026-07-23 11-01-02 Cosplay与偏好无关_2b0ede8ffeab.md",
-      "sha256": "82dd0b0dc71290ea8b6aa4c3825bb978fafc4c9a9637b85f5c9ba16a4181bf64"
-    },
-    {
       "bytes": 600,
       "path": "dynamic/兴趣/2026-07-23 11-02-20 江橘白非人控_31a41614ba5f.md",
       "sha256": "edead40f4cf58b773a83f16e8cc97d2e20814f2d4f7cae3da499f94b6f2fce48"
@@ -1913,11 +1943,6 @@
       "sha256": "2cd16c82888fe53bab6bf6cfe181b9bf9716b856a3a330e5f6c614b29b9ddc5a"
     },
     {
-      "bytes": 1083,
-      "path": "dynamic/创作/2026-07-19 10-18-57 角色与XP冲突诊断_5a09d4cc99e7.md",
-      "sha256": "bbec44d11d65b9b3954ea57ad09d100e14b1724240febe51ff85b1419e1103b0"
-    },
-    {
       "bytes": 20133,
       "path": "dynamic/创作/2026-07-20 09-51-57 Kairos项目命名_03cddf26bd8a.md",
       "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
@@ -1961,16 +1986,6 @@
       "bytes": 986,
       "path": "dynamic/外貌/2026-07-27 15-04-22 深夜整鼻计划_dd56a4316120.md",
       "sha256": "c42f305f0d82a6364963711176b99f7195be8626b6543e02bc60fd56bdd30dbc"
-    },
-    {
-      "bytes": 603,
-      "path": "dynamic/学习/2026-07-23 11-00-39 江橘白档案_d60291682a66.md",
-      "sha256": "a8a884fcc16dfcc10c9b53008e37dbed038497bf676680de0f2b3707d66b734e"
-    },
-    {
-      "bytes": 672,
-      "path": "dynamic/学习/2026-07-23 11-02-16 江橘白基础档案_2047aa0c16da.md",
-      "sha256": "35ac6af0e52ebe059e4784d749e3e2cd5269d06afe265d77c48bd13ea5135ad9"
     },
     {
       "bytes": 947,
@@ -2188,11 +2203,6 @@
       "sha256": "d5f6cb0869cd6680fed7fb7a63b7d0df3e44145e4372c9a5be8911898a87cfe8"
     },
     {
-      "bytes": 736,
-      "path": "dynamic/恋爱/2026-07-17 17-51-30 凌晨陪伴入睡_c32d3cc90592.md",
-      "sha256": "82240dd04d7daaa2d4473cc2a351aa2b78c1d8476289fba043e2b9d2c88e511f"
-    },
-    {
       "bytes": 1551,
       "path": "dynamic/恋爱/2026-07-19 04-12-16 试探与规矩_87061a625a00.md",
       "sha256": "7ed7ce7558afaabb34e03ebbc7036a7492b68ff4f4f8e380b10ec7a2f026b898"
@@ -2243,11 +2253,6 @@
       "sha256": "bcc2c9d25bf6aca9fd8364dee66836bbaca253f5d8257d187375528ffe3b3ca5"
     },
     {
-      "bytes": 509,
-      "path": "dynamic/恋爱/2026-07-23 11-00-58 伴侣抽烟管控_e1b358ffb7ba.md",
-      "sha256": "d5a4c7f404d79f77dfdb32f693bdbdd136090843fa86efe1986b7aa1a2d33e30"
-    },
-    {
       "bytes": 694,
       "path": "dynamic/恋爱/2026-07-23 11-01-06 情侣昵称记录_4a8181a54a1a.md",
       "sha256": "9f06cfd50a8bcbdbdca4f589feeeee00ef22724de07443442f67db6f239e83a9"
@@ -2261,11 +2266,6 @@
       "bytes": 608,
       "path": "dynamic/恋爱/2026-07-23 11-02-28 江橘白的喜好_a656a4fe356d.md",
       "sha256": "bd08b9be685a7e6ba7e4a44a024c8488252086cb2b0f480a03ad548e948fc617"
-    },
-    {
-      "bytes": 573,
-      "path": "dynamic/恋爱/2026-07-23 11-02-32 江橘白偏好与习惯_e459189aa837.md",
-      "sha256": "01f7800959964b77182ebcb6908dd60055dca8b415ac040733733e8ab45e30e1"
     },
     {
       "bytes": 681,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-20T04:08:06+00:00",
+  "generated_at": "2026-09-21T04:10:31+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715584
+  "total_bytes": 715591
 }
