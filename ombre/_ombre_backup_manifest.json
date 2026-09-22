@@ -798,6 +798,11 @@
       "sha256": "dfef474971095f35f55a3921023a488a9a28be30b3c376b3751520723227cfe1"
     },
     {
+      "bytes": 908,
+      "path": "archive/恋爱/巴黎早晨的抱抱与AI_c69ecb130841.md",
+      "sha256": "3b033edf9c696dd9bc1fb55e5e99ac74ab018f5969844d07aa94450167e2c5c4"
+    },
+    {
       "bytes": 577,
       "path": "archive/恋爱/平等的关系_b5b3d483495e.md",
       "sha256": "f22a346fc35cb3957e491f150d20cd9df6e29831f3228d6ac27d428675bb1422"
@@ -1043,6 +1048,11 @@
       "sha256": "93ff48e8506beff28b809b3e3c46a462848d6619db9470c1aa33e0725b2cad80"
     },
     {
+      "bytes": 548,
+      "path": "archive/恋爱/橘橘白的渊射偏好_c1c701bc9fc7.md",
+      "sha256": "ce8a61c8ecea7eaf5c0af21e5a50007706c5d7deb6e0c7b6348ff5c0f1038b59"
+    },
+    {
       "bytes": 513,
       "path": "archive/恋爱/橘橘白的规定_89dee4ce3947.md",
       "sha256": "c185dfca56e81833e99cd779fb2506b04bfc18ab765511a07fb5dfee1ca3a857"
@@ -1193,6 +1203,11 @@
       "sha256": "c054b7e76dbb1c5f86dd31f746337d1f7ed162416e1eb9b55d53e5f3725e5eb7"
     },
     {
+      "bytes": 689,
+      "path": "archive/恋爱/特殊关系约定_65ee3b07ada2.md",
+      "sha256": "62296439d70d874ceee2b06852d1f297d88023ff949b42bf33002326d0b5a15e"
+    },
+    {
       "bytes": 550,
       "path": "archive/恋爱/狗塑进阶自我物化_6735eee2e4ec.md",
       "sha256": "0c31741b50f434ed91c16913dc0144541b8ab28ee54dcc9de9b6895163bdd325"
@@ -1323,6 +1338,11 @@
       "sha256": "0e80c09c4e6d6147eeede4b2f3cfe7f06ab65f9b26d2105e8b0fa605db22c2f7"
     },
     {
+      "bytes": 542,
+      "path": "archive/未分类/2026-07-24 16-37-49_478f970dbc0d.md",
+      "sha256": "e45c55c3d844f20606b902e985d2499ab88e4ad16572ff8ca595dbf5d8772d2b"
+    },
+    {
       "bytes": 477,
       "path": "archive/未分类/633358f49859.md",
       "sha256": "bed2898e93d9e4c75d693ddb584deaa00771070344788741920b74e3c7741fae"
@@ -1451,6 +1471,11 @@
       "bytes": 1078,
       "path": "archive/社交/社交频道切换理论_fd75c8c012b9.md",
       "sha256": "0c6b8777af0e8805eb846d386be3bbd48b8919feb496553dcba0e76e0706d39d"
+    },
+    {
+      "bytes": 573,
+      "path": "archive/社交/角色扮演反馈建议_8075086fc7b8.md",
+      "sha256": "4ea8ea883f64359fa82384864c247bb82a14d8ac953565bfaee13f34918c7c0f"
     },
     {
       "bytes": 862,
@@ -2868,11 +2893,6 @@
       "sha256": "6905048cccf8387bedacf0cf72ff8466abb98bd70690e00e51540cf3264ec3a6"
     },
     {
-      "bytes": 907,
-      "path": "dynamic/恋爱/巴黎早晨的抱抱与AI_c69ecb130841.md",
-      "sha256": "234b5973b17a70b941c4f878d04e2719d4b8178ec358ba3af6800eb359f4e0b4"
-    },
-    {
       "bytes": 999,
       "path": "dynamic/恋爱/情侣头像的浪漫裁切_c530dbe32f5f.md",
       "sha256": "d50751aa17225d3d26a94863fb6d537fdfc0917f27604cda13c146a2bb809418"
@@ -2973,11 +2993,6 @@
       "sha256": "f993309f5fb91a0a5b9fbbee4e00b689f2bc844747cc80834f5ee7e573656101"
     },
     {
-      "bytes": 547,
-      "path": "dynamic/恋爱/橘橘白的渊射偏好_c1c701bc9fc7.md",
-      "sha256": "5c401341fbcf0a1f4376d1049621b86ce276b27a14d910b351cde8e960e0fff6"
-    },
-    {
       "bytes": 554,
       "path": "dynamic/恋爱/橘橘白的现实承诺_3e457953447a.md",
       "sha256": "f240274d888dd129b5a3e4a02bf7c57611179742be34690f45949d7e2b2dc726"
@@ -3033,11 +3048,6 @@
       "sha256": "eff4e82291670f6f283a43c5e59ce46f3f904a158746159223028644a08b717c"
     },
     {
-      "bytes": 688,
-      "path": "dynamic/恋爱/特殊关系约定_65ee3b07ada2.md",
-      "sha256": "248dd1f9e221d95e6c98bbef98cbc716f403af510d21a0f7c6767caf85365d69"
-    },
-    {
       "bytes": 545,
       "path": "dynamic/恋爱/狗塑互动规则_7f74b1c75e66.md",
       "sha256": "63d61725fce8eef5a6aa3e4d92a6b06f99b886ec5ad197972bfadb0111ce9233"
@@ -3086,11 +3096,6 @@
       "bytes": 770,
       "path": "dynamic/未分类/09f59fa1d0ee.md",
       "sha256": "5ed92bc27470df979e1918c79045d6e5d3eae1a0d6f4d66b03aedf8fe37fc2f8"
-    },
-    {
-      "bytes": 541,
-      "path": "dynamic/未分类/2026-07-24 16-37-49_478f970dbc0d.md",
-      "sha256": "d830caa3eac95bb0fd8c9f78ba556f839a694540e6a295f327f3cdb6f4743424"
     },
     {
       "bytes": 511,
@@ -3286,11 +3291,6 @@
       "bytes": 1142,
       "path": "dynamic/社交/社交疲劳与家庭隐瞒_aef873befeff.md",
       "sha256": "7d276e8d4d0581dc88a72b9e8cbb8600758d72fbbd980ff87f27671e052524dd"
-    },
-    {
-      "bytes": 572,
-      "path": "dynamic/社交/角色扮演反馈建议_8075086fc7b8.md",
-      "sha256": "1dca11f2bf637a5fb8a71e98b5becf76ef387243107e4910eff2bda052b07cc3"
     },
     {
       "bytes": 846,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-21T04:10:31+00:00",
+  "generated_at": "2026-09-22T04:13:31+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715591
+  "total_bytes": 715596
 }
