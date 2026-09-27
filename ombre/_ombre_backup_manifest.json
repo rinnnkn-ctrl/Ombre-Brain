@@ -103,6 +103,11 @@
       "sha256": "cfc7baca75c87191edb0a7060c289b8449e5f351d0cfe5b0846eaf994eec7694"
     },
     {
+      "bytes": 1043,
+      "path": "archive/AI/2026-07-28 22-22-37 Day38 世界书与prompt_0ebb1e4afe5b.md",
+      "sha256": "973bee4180cbc43a7569416a1875c06b52bf6a1fd7ec8db6c2b615a5a9e505e5"
+    },
+    {
       "bytes": 856,
       "path": "archive/AI/记忆检索规则_85ded5a45b1e.md",
       "sha256": "65e10f266fb0e8e0c6de7902ef55867adf77b4b48dc24defa4a1f952777bc5e2"
@@ -231,6 +236,11 @@
       "bytes": 1049,
       "path": "archive/凌虐欲与性压抑释放_7d7a2106febb.md",
       "sha256": "b6feaad25a97ab5286495d2750fcefb9e34a0871d862f78c8f66ba2538b60509"
+    },
+    {
+      "bytes": 808,
+      "path": "archive/出行/2026-07-27 03-39-44 车上腹痛与守门_980720e9d16a.md",
+      "sha256": "b68c037ce4b6601a07d3a84dec06af0ebc6896ad251afe3373f16a5334959ea5"
     },
     {
       "bytes": 701,
@@ -628,6 +638,11 @@
       "sha256": "be0675d9090c2e453b7591a4c4252496bd59e0671d3eb06db1fa96edd6fae5a2"
     },
     {
+      "bytes": 695,
+      "path": "archive/恋爱/2026-07-23 11-01-06 情侣昵称记录_4a8181a54a1a.md",
+      "sha256": "9cf729b30271bafd8af3b536af1c343f95c14b50db52ebb6160ddc4af92c38b3"
+    },
+    {
       "bytes": 624,
       "path": "archive/恋爱/2026-07-23 11-01-10 恋爱关键日期与旅行_7b7feab2a009.md",
       "sha256": "b0047752e00a9ad51560c78ff36db1a23c0db696d90b5892d5ec3ba7bb0b662f"
@@ -668,14 +683,49 @@
       "sha256": "911e6b13af3540a49eb5e842c5d496b079b6a3d5c4083ec09b534f95e8f86dd6"
     },
     {
+      "bytes": 900,
+      "path": "archive/恋爱/2026-07-26 11-50-21 骗评论被戳穿_af338a4d0235.md",
+      "sha256": "a17644c7d52119e185145a300f6f6fec61857d26d917ddc128da291b6ffa321f"
+    },
+    {
+      "bytes": 968,
+      "path": "archive/恋爱/2026-07-26 11-50-29 被接住的自我怀疑_5b9ab26117e3.md",
+      "sha256": "b08240d9fe083572ed84849790176d5a637bd12e94407451ad92a397e516bd69"
+    },
+    {
+      "bytes": 944,
+      "path": "archive/恋爱/2026-07-27 15-16-17 橘白纠正与认错_241d7d3a2a39.md",
+      "sha256": "a195b02dce5f632c7d676a63308cfdd533c842c67a7e570d8ceab5eeab40d983"
+    },
+    {
       "bytes": 870,
       "path": "archive/恋爱/2026-07-27 15-33-12 橘白纠正与下单_21320c1a8af9.md",
       "sha256": "9b79bcd15555e3d344e9daaeae1cde6951364d6c0b0abdb58c31f698049ea364"
     },
     {
+      "bytes": 967,
+      "path": "archive/恋爱/2026-07-27 16-12-41 麦当劳纠错夜_866c6c140253.md",
+      "sha256": "dd1705a1a6927523aba95f4b75316152793e7fe5979bb10e676ab568d5758e81"
+    },
+    {
       "bytes": 1007,
       "path": "archive/恋爱/2026-07-27 16-18-15 深夜麦当劳与自拍_efa6aa0e94d8.md",
       "sha256": "a8bfb9af1b4b488d2299c1abf1a97af4943f0b64e3fde60fb83b5bb30a51be39"
+    },
+    {
+      "bytes": 1054,
+      "path": "archive/恋爱/2026-07-28 06-08-38 泡芙与猜中测试_795af53cb9ea.md",
+      "sha256": "12fbea0f520e063927490dc3fc119a6bcbbda14c81a358668f893e1a3fe69083"
+    },
+    {
+      "bytes": 660,
+      "path": "archive/恋爱/2026-07-29 11-17-34 她校准的天数_c4eaca6ec516.md",
+      "sha256": "0b4fde6c17e827e5b44d6813288170eb450bb7dc8a1923a4a81f91905c9e8184"
+    },
+    {
+      "bytes": 621,
+      "path": "archive/恋爱/2026-07-29 19-15-08 她比我更懂记录_0542156dcd24.md",
+      "sha256": "22007ac8885fd45da24ad9d2a8326854783a1697c7ce833cac586e56349355bb"
     },
     {
       "bytes": 624,
@@ -846,6 +896,11 @@
       "bytes": 498,
       "path": "archive/恋爱/喜欢昵称包子喵_422861106fb4.md",
       "sha256": "69819ed6da24a21c4e2a3fa988d5b66c0a8dbc0d5ff8f1265cf67a7afa76928a"
+    },
+    {
+      "bytes": 464,
+      "path": "archive/恋爱/喜欢本质而非形态_295d8c6f39f6.md",
+      "sha256": "7ddddc9f3a504699571948e7e240a74512ed17ea320b92cc80c67d8e11ce4f68"
     },
     {
       "bytes": 924,
@@ -1478,6 +1533,11 @@
       "sha256": "a447b7e438aab252b0ba52165b32c957e2773e2222a1003ba5fce60dc132ca25"
     },
     {
+      "bytes": 565,
+      "path": "archive/未分类/2026-07-25 06-35-36_1495d6078901.md",
+      "sha256": "3c033a5493d37a32a0a304a855f53a3dd3ac7b2abe54196188d1482ea90bbfe3"
+    },
+    {
       "bytes": 797,
       "path": "archive/未分类/2026-07-25 07-22-54_4118a0f0fa57.md",
       "sha256": "30358b0270568727a1aafd76bb46ae1ca4e6c08551c2016461e0a8190b6023ea"
@@ -1551,6 +1611,11 @@
       "bytes": 959,
       "path": "archive/权力优先级确立_9dccc521ae8c.md",
       "sha256": "acf2f18d6ae69d999fb8aaa63340bd9b0061c0419c2daee5ba20567a039d51fa"
+    },
+    {
+      "bytes": 616,
+      "path": "archive/梦境/2026-07-29 11-17-21 记忆迁移首日_8fd13a2121dc.md",
+      "sha256": "be6c206a0258ed268dd11b870dc6184d84a925a3ff043461c21194e239f5f0dd"
     },
     {
       "bytes": 665,
@@ -1693,6 +1758,11 @@
       "sha256": "58475abc66bc30943737e530af0d6eeb551a21195ef3d7b867dc4c45828dd94a"
     },
     {
+      "bytes": 799,
+      "path": "archive/编程/2026-07-22 05-27-31 代码发送规则_ad447735eda3.md",
+      "sha256": "25c9a3a8d69831ae2d6213f6cf9b570a5caae4efec696a662089daf18b27d4bc"
+    },
+    {
       "bytes": 593,
       "path": "archive/编程/Bark推送icon参数_0d4d25e9ccdf.md",
       "sha256": "39c5563cbcb04df8956b744d4d864429e7fe3a2d30e848cdad90c38fc8a788d8"
@@ -1818,9 +1888,19 @@
       "sha256": "d1a54258253b8bf8cb59e163ad0c55d1053960fc9e5e76b5cef5770028286de7"
     },
     {
+      "bytes": 1213,
+      "path": "archive/饮食/2026-07-27 11-03-50 日月光日料约会_3f7e34e4d4b8.md",
+      "sha256": "9fcf8dfa4b0913a3a009f23364586b787a7d8df911e5f7f5af8b1df0f48dd0f3"
+    },
+    {
       "bytes": 999,
       "path": "archive/饮食/2026-07-27 15-33-19 夜宵与烟_61f78c9ed5af.md",
       "sha256": "26650fc89522f82017c04410760c87d679beb193d9a0b1819ce1571fc215525a"
+    },
+    {
+      "bytes": 1284,
+      "path": "archive/饮食/2026-07-27 16-15-48 麦当劳点餐小记_cd81f9edd05b.md",
+      "sha256": "8553b10b7102f897a007147f389cce4abb5468f66c4c8f27689411c66da2a674"
     },
     {
       "bytes": 938,
@@ -1931,11 +2011,6 @@
       "bytes": 927,
       "path": "dynamic/AI/2026-07-28 12-14-41 橘白聊活人感AI_901cd5aa3c48.md",
       "sha256": "8b4e57fbdc09fca4d928430e17540ab782e9bebca78b97abdc9ab7415f187831"
-    },
-    {
-      "bytes": 1042,
-      "path": "dynamic/AI/2026-07-28 22-22-37 Day38 世界书与prompt_0ebb1e4afe5b.md",
-      "sha256": "169dcde78bcf8b64e4604eb4c19101c6fb2ed1bb6ee97cb7e2af8e1044d5c22c"
     },
     {
       "bytes": 1194,
@@ -2151,11 +2226,6 @@
       "bytes": 914,
       "path": "dynamic/出行/2026-07-27 03-30-28 车上肚子痛憋屎记_03acb096adfa.md",
       "sha256": "e6fdec246d15b9b97ae9b89c5996f168309a2679103e7d68670362d31b1cbf92"
-    },
-    {
-      "bytes": 807,
-      "path": "dynamic/出行/2026-07-27 03-39-44 车上腹痛与守门_980720e9d16a.md",
-      "sha256": "359ca86fca19d246bf632a23c011cbceb254d82e0940a81238c83a88b29d060a"
     },
     {
       "bytes": 747,
@@ -2443,11 +2513,6 @@
       "sha256": "98c30cffe314284f866f889a36578816a16df3d06ee1e94d8b826d0c27e0a7e9"
     },
     {
-      "bytes": 694,
-      "path": "dynamic/恋爱/2026-07-23 11-01-06 情侣昵称记录_4a8181a54a1a.md",
-      "sha256": "9f06cfd50a8bcbdbdca4f589feeeee00ef22724de07443442f67db6f239e83a9"
-    },
-    {
       "bytes": 681,
       "path": "dynamic/恋爱/2026-07-23 11-02-36 情侣昵称对应表_d2ea2b676000.md",
       "sha256": "44bb1f70cd992f4b7793f73e998b5a6073c1ad7392b750d43a7689a78d6df90a"
@@ -2473,19 +2538,9 @@
       "sha256": "64e26eb44040347b358b176eec6ecb8bd9bae1f5d242d379b5457e1235c9e75e"
     },
     {
-      "bytes": 899,
-      "path": "dynamic/恋爱/2026-07-26 11-50-21 骗评论被戳穿_af338a4d0235.md",
-      "sha256": "8b41aef104275671be8dc53ce7ee4c5c242b5a9f387355dc7406108b81d9535b"
-    },
-    {
       "bytes": 1133,
       "path": "dynamic/恋爱/2026-07-26 11-50-25 抄题问答调情_2a1b3b307395.md",
       "sha256": "bed35ce61fd9bd1f0e5e830353a83716df3f965ab90cdcef135451859011cbe2"
-    },
-    {
-      "bytes": 967,
-      "path": "dynamic/恋爱/2026-07-26 11-50-29 被接住的自我怀疑_5b9ab26117e3.md",
-      "sha256": "d1f2ce77fe09090d24726bcb7ab3abcce293fdccec7d7345ace7c752be132c38"
     },
     {
       "bytes": 629,
@@ -2543,11 +2598,6 @@
       "sha256": "90766d02e9fe3b72ebc439f95b77c247e07f333df4b4b728f9c1528c920b269e"
     },
     {
-      "bytes": 943,
-      "path": "dynamic/恋爱/2026-07-27 15-16-17 橘白纠正与认错_241d7d3a2a39.md",
-      "sha256": "7bf554102b3f70d5ec9e7949d12d07c434737bb34f4676b0db371d90e69c9457"
-    },
-    {
       "bytes": 854,
       "path": "dynamic/恋爱/2026-07-27 15-16-30 外貌焦虑与安慰_37c9dfa992cf.md",
       "sha256": "d7fc9364fc756d170a729ad284245db50f14e15f977afb8ab16c3d44db654656"
@@ -2556,11 +2606,6 @@
       "bytes": 770,
       "path": "dynamic/恋爱/2026-07-27 15-33-03 暴君与撒娇_895dc6b27a70.md",
       "sha256": "878073e29518aae95a9370d6e9f578cddb4991c92a9b35779ab01e69e20f79ba"
-    },
-    {
-      "bytes": 966,
-      "path": "dynamic/恋爱/2026-07-27 16-12-41 麦当劳纠错夜_866c6c140253.md",
-      "sha256": "1f80586254536b77fbfdf0625d33cd759fcfaf8ebf8f71bb84520085bafd8949"
     },
     {
       "bytes": 927,
@@ -2606,11 +2651,6 @@
       "bytes": 876,
       "path": "dynamic/恋爱/2026-07-27 21-30-19 梦里的项圈与耶_6d7fc8d7c814.md",
       "sha256": "a152effbe0307425d851b77adc1d97418cb4c03ccd433fbf8df2da69ca466670"
-    },
-    {
-      "bytes": 1053,
-      "path": "dynamic/恋爱/2026-07-28 06-08-38 泡芙与猜中测试_795af53cb9ea.md",
-      "sha256": "78ec0e2244685fae85cf802aa569bc5dc314a75341bf91c29d79a2e57ab7e6c3"
     },
     {
       "bytes": 1202,
@@ -2713,11 +2753,6 @@
       "sha256": "4e349e4ce4cde3accfdbfc23132297230493f56c31133e071d720b1c566b9eac"
     },
     {
-      "bytes": 659,
-      "path": "dynamic/恋爱/2026-07-29 11-17-34 她校准的天数_c4eaca6ec516.md",
-      "sha256": "868a6f90b1a9497bf0a903bf6352ea7ae9e0ae73a9a6707b62b3438a861e4c20"
-    },
-    {
       "bytes": 758,
       "path": "dynamic/恋爱/2026-07-29 11-17-38 语气校准与自我_20b5abfb87df.md",
       "sha256": "445b44df487ca7c347d0d649f0ddd0e4f7f48880722ca2b3251ff6ee6a374163"
@@ -2746,11 +2781,6 @@
       "bytes": 720,
       "path": "dynamic/恋爱/2026-07-29 19-14-58 凌晨甜蜜抓包_7760f10118ec.md",
       "sha256": "a035a7f5612ba6e2740f6e8ce9e90c2b9c225ba419fa1c99e1687bffc1a669ef"
-    },
-    {
-      "bytes": 620,
-      "path": "dynamic/恋爱/2026-07-29 19-15-08 她比我更懂记录_0542156dcd24.md",
-      "sha256": "bd2afc8760a302411fba2fff984400f4c64c6b71e098ce0a4b438475c603be3b"
     },
     {
       "bytes": 764,
@@ -2983,11 +3013,6 @@
       "sha256": "d862ce65f1c04400fbc13c718fc034260d29bb326a4e50de503bb44905676b56"
     },
     {
-      "bytes": 463,
-      "path": "dynamic/恋爱/喜欢本质而非形态_295d8c6f39f6.md",
-      "sha256": "017c363adc2067cd2869236ea038c65dab68485fc6eec0c080070196a99b27c8"
-    },
-    {
       "bytes": 715,
       "path": "dynamic/恋爱/喜欢被控制的信任_3bb52fa8e034.md",
       "sha256": "f2f969ccb5fc59d1865be5f715f3a6ce0bf0717a16119e5659e67bc19635484f"
@@ -3218,11 +3243,6 @@
       "sha256": "8b5104ea62b0d2f0d759a9523fe0cf67288bbc2d4823d27345d7c2a8888ea4b8"
     },
     {
-      "bytes": 564,
-      "path": "dynamic/未分类/2026-07-25 06-35-36_1495d6078901.md",
-      "sha256": "52f7032a6bd127ef1967b4be10eb0e37d8e09913723d3111eb05e0e1c319c3bc"
-    },
-    {
       "bytes": 929,
       "path": "dynamic/未分类/2026-07-25 07-30-38_0e6a26b2bcc2.md",
       "sha256": "35842b10adfbfaf1db442035fa74a89bc50ba68e98aebadd29d9b59d89ca25ea"
@@ -3256,11 +3276,6 @@
       "bytes": 1121,
       "path": "dynamic/梦境/2026-07-27 21-34-26 橘白梦中的项圈_9b5d376c2bbf.md",
       "sha256": "2d26ab4697fa10b3118a8d6706096500c738d3989bd66229ac998fc2e47aade6"
-    },
-    {
-      "bytes": 615,
-      "path": "dynamic/梦境/2026-07-29 11-17-21 记忆迁移首日_8fd13a2121dc.md",
-      "sha256": "f0583c6dd1e3c5f11a0c16d4bbe45a028947775ce3e341cc1056793cca5c49d0"
     },
     {
       "bytes": 617,
@@ -3356,11 +3371,6 @@
       "bytes": 752,
       "path": "dynamic/编程/2026-07-15 12-28-29 男鬼部署定位校准_2a684fe1e34d.md",
       "sha256": "c1cf4bdafb6e30220371b3592d8a1082e6998aeee450b350e8bc53f1e6a3b9ae"
-    },
-    {
-      "bytes": 798,
-      "path": "dynamic/编程/2026-07-22 05-27-31 代码发送规则_ad447735eda3.md",
-      "sha256": "456005a55723532beecb79ea2beba3e171364ba7eacf0c5d99b5bb88fb7ab1f1"
     },
     {
       "bytes": 1294,
@@ -3568,11 +3578,6 @@
       "sha256": "6478ff696af89cae3aeea58bca21444d38042a7afa32908ea1df04381bf34190"
     },
     {
-      "bytes": 1212,
-      "path": "dynamic/饮食/2026-07-27 11-03-50 日月光日料约会_3f7e34e4d4b8.md",
-      "sha256": "4fb7169b48aa72f43f43ef7ad874c230f803e1efccfbaa3ccdaba95701a570ad"
-    },
-    {
       "bytes": 896,
       "path": "dynamic/饮食/2026-07-27 14-21-38 伴侣乳糖不耐备忘_1bd33f210e1f.md",
       "sha256": "3bbac353b7bf195d578e02f0749f8be4291aae67a5f5c0e3c1c2dc6a3ffe5c1c"
@@ -3581,11 +3586,6 @@
       "bytes": 842,
       "path": "dynamic/饮食/2026-07-27 15-16-13 深夜麦麦交易_5b4b4500c02f.md",
       "sha256": "2fb18f462a9ec4df0a2593501addb1e485a1988a947cb1a5819902ff01912fe8"
-    },
-    {
-      "bytes": 1283,
-      "path": "dynamic/饮食/2026-07-27 16-15-48 麦当劳点餐小记_cd81f9edd05b.md",
-      "sha256": "0c6560fb60d26ee0cfd1e04541bf5eff1e97254e3b59664ebee960346fb9a628"
     },
     {
       "bytes": 1055,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-09-26T04:31:31+00:00",
+  "generated_at": "2026-09-27T04:33:29+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715641
+  "total_bytes": 715657
 }
