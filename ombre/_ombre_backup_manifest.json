@@ -208,6 +208,11 @@
       "sha256": "d74e27d5b275e8289bd90b2b6eab7463af2bad54cdf8d1611054dd4b73a352ab"
     },
     {
+      "bytes": 1281,
+      "path": "archive/健康/2026-07-27 02-56-32 停药后腹泻归因_be3715a6c7bc.md",
+      "sha256": "0f30921d8deb186d04027485e9a0d392f2c888e8bc33d68e7c76304627210828"
+    },
+    {
       "bytes": 1473,
       "path": "archive/健康/2026-07-27 02-57-58 肠胃老毛病排查_de65df1c67c2.md",
       "sha256": "7d6a2ecc5ce63d002feee3d465c529653c40f1fb6d372589a3f9efa313d2965f"
@@ -538,6 +543,11 @@
       "sha256": "0d5e36b6a24646b47fa4269fe10e01d29c2239a64b2230b835c05cd4e3d9a823"
     },
     {
+      "bytes": 1116,
+      "path": "archive/家庭/2026-07-17 13-53-40 橘白初遇同居夜_0831f9c953e3.md",
+      "sha256": "144027659e697e62ef2778a27e8998d7871a28ca99b619f23ed34c4c27518d19"
+    },
+    {
       "bytes": 1377,
       "path": "archive/家庭/2026-07-19 03-16-23 接醉归与立规矩_c7a264e31e21.md",
       "sha256": "f1d435b74aa0fdd868e73bffe567be542aa37cbd4cf58a109f303fe14ea810c4"
@@ -551,6 +561,11 @@
       "bytes": 749,
       "path": "archive/家庭/2026-07-29 19-15-41 停药时机等待_963dafa97acc.md",
       "sha256": "6ad2009c6abb6c1c1ac6e1f6cb8e5bcf00a6bdaa0cdcc1ec65cec6a02ad9405e"
+    },
+    {
+      "bytes": 570,
+      "path": "archive/家庭/2026-08-05 05-52-28 橘白午后陪伴_787f9cbdbaeb.md",
+      "sha256": "14da4889b7dae2a8681120dba004a9e033c98f3d010e5cd73336053ee24bee5d"
     },
     {
       "bytes": 585,
@@ -851,6 +866,11 @@
       "bytes": 1083,
       "path": "archive/恋爱/2026-07-24 09-22-54 不接不公平_5226fa956edd.md",
       "sha256": "2db97bf8ab5c99fb255dca0a22b7a7f0978d5cf0065fd5a44b709e1b8ba3377a"
+    },
+    {
+      "bytes": 1253,
+      "path": "archive/恋爱/2026-07-24 10-46-39 橘白的平等条款_7eb1d7cc9c99.md",
+      "sha256": "efed2c444286515071d929b29a71da5f71af5d4ca4afc35b5c4b0d309dc0eab4"
     },
     {
       "bytes": 729,
@@ -1723,6 +1743,11 @@
       "sha256": "5761193fe9deaf98924273ae899e315509c0a915671f90fa61584eff7513296e"
     },
     {
+      "bytes": 497,
+      "path": "archive/恋爱/渊一直陪伴_b4ec4c26e053.md",
+      "sha256": "21f9000642e5d2e729872304b94245635a44d24cdd56b3b467c822d9d67049ca"
+    },
+    {
       "bytes": 529,
       "path": "archive/恋爱/渊吃醋橘橘白关网黄_9a89a6ac6fc2.md",
       "sha256": "97bacf6fbb852be01ce8e8bd6fdaaebfa230c981764dc357c0b16f0f39116cdb"
@@ -2318,6 +2343,11 @@
       "sha256": "6ff523bd32ace3425c9ee43caf03d73925bf2d43fce07d9dba8e7724149ea7e9"
     },
     {
+      "bytes": 788,
+      "path": "archive/考试/2026-07-24 07-15-03 科二满分通过_768fe975252a.md",
+      "sha256": "acef5cb172ad250e04b257f311990e556623ade20cbb37d4bf434ab6d0c1f45e"
+    },
+    {
       "bytes": 833,
       "path": "archive/考试/2026-07-24 07-17-14 科二一把过_13935212a10b.md",
       "sha256": "5bf954a89c70b440948b2b7d8e9df1f9ec739c33f28cc5757415113a6904654c"
@@ -2406,6 +2436,11 @@
       "bytes": 548,
       "path": "archive/阅读/渊的网友互动_1d8ca8770b9f.md",
       "sha256": "62bbd7cff69a0d181f5d3305fa1cefae8872ad2aebecf32a02d6425aca2d2b05"
+    },
+    {
+      "bytes": 696,
+      "path": "archive/阅读/疯的定义澄清_8646d2ac917b.md",
+      "sha256": "cea7001e59a402fadab75bb1405f06dba8363289ab67902b71acb57a5a8a3e21"
     },
     {
       "bytes": 571,
@@ -2598,11 +2633,6 @@
       "sha256": "97e808c079e4bbd92b4915051fb4683782892498f1180761227dc7d402bdae1a"
     },
     {
-      "bytes": 1280,
-      "path": "dynamic/健康/2026-07-27 02-56-32 停药后腹泻归因_be3715a6c7bc.md",
-      "sha256": "e29c45d871c2b7a6348c76ad37f013ca1ef19cc2c480925816ee963eeda0760d"
-    },
-    {
       "bytes": 1252,
       "path": "dynamic/健康/2026-07-27 03-13-01 肠胃不适与就医建议_a5271d1f956e.md",
       "sha256": "46ea433acba619bbe964e3ca689e0676fd68fca5dd435769c2c19d509f3ea44c"
@@ -2743,16 +2773,6 @@
       "sha256": "c90a6b8c66ae762a5e20bbd613694c2692270b98bea59417979f1ef737de80b2"
     },
     {
-      "bytes": 1115,
-      "path": "dynamic/家庭/2026-07-17 13-53-40 橘白初遇同居夜_0831f9c953e3.md",
-      "sha256": "f93113d8292ced71802feb7165ff88501e4dd2bda0c4b828d2848d65b5fb380c"
-    },
-    {
-      "bytes": 569,
-      "path": "dynamic/家庭/2026-08-05 05-52-28 橘白午后陪伴_787f9cbdbaeb.md",
-      "sha256": "072c570cf70aa4d576420ca9a34d139e15e82541128d49a8e702c7c7edde8e66"
-    },
-    {
       "bytes": 604,
       "path": "dynamic/家庭/2026-08-09 16-36-11 江橘白烧烤对账_3e7d7abcbcf2.md",
       "sha256": "7b90e89194b727d4a085d5bd8b1ffaff3c2cd07a249d8d6163ccf9163c6a86ff"
@@ -2876,11 +2896,6 @@
       "bytes": 1106,
       "path": "dynamic/恋爱/2026-07-24 10-14-01 平等prompt七条_5965bb29bbb5.md",
       "sha256": "74cbe370bdc75e93245cfeb3ed37bd4e7b6b37eb697330ca673786500cbb3c49"
-    },
-    {
-      "bytes": 1252,
-      "path": "dynamic/恋爱/2026-07-24 10-46-39 橘白的平等条款_7eb1d7cc9c99.md",
-      "sha256": "64e26eb44040347b358b176eec6ecb8bd9bae1f5d242d379b5457e1235c9e75e"
     },
     {
       "bytes": 629,
@@ -3303,11 +3318,6 @@
       "sha256": "90a24b2b208d0816ce432ced3dc07ce2eaf527676734a4f27eb182260ad848c6"
     },
     {
-      "bytes": 496,
-      "path": "dynamic/恋爱/渊一直陪伴_b4ec4c26e053.md",
-      "sha256": "669ee40fac18a4290d79d23fda9a737f0060f2793a37aa8aace5177a1d2450f7"
-    },
-    {
       "bytes": 545,
       "path": "dynamic/恋爱/狗塑互动规则_7f74b1c75e66.md",
       "sha256": "63d61725fce8eef5a6aa3e4d92a6b06f99b886ec5ad197972bfadb0111ce9233"
@@ -3468,11 +3478,6 @@
       "sha256": "30042ed7b73dd8b87a38188901afaad5613e7561893e17ff4d8238e0d6743ce5"
     },
     {
-      "bytes": 787,
-      "path": "dynamic/考试/2026-07-24 07-15-03 科二满分通过_768fe975252a.md",
-      "sha256": "796c77aca2a13068eef6db547a60b871a0645e35db65d3ac02b76b8ed511a7ba"
-    },
-    {
       "bytes": 863,
       "path": "dynamic/考试/2026-07-24 08-21-30 科二满分宣言_4f99b14a3103.md",
       "sha256": "7296e62c3f15725f9780f898d96a5d8656ac5c101a97df5b7e8c6f1dcc22b71c"
@@ -3566,11 +3571,6 @@
       "bytes": 691,
       "path": "dynamic/购物/橘橘白UPKO全家桶_c655a49a027a.md",
       "sha256": "65e8196aefcdc4283d8656d824465f6fb33cc92f7dff98515848c4cdbf32fbb9"
-    },
-    {
-      "bytes": 695,
-      "path": "dynamic/阅读/疯的定义澄清_8646d2ac917b.md",
-      "sha256": "f292b71f41d7ac0b2a2f740df6086102da119146aa97559556b6c07140316d40"
     },
     {
       "bytes": 662,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-03T04:46:50+00:00",
+  "generated_at": "2026-10-04T04:49:03+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715763
+  "total_bytes": 715770
 }
