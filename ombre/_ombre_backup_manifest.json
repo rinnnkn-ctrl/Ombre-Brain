@@ -603,6 +603,11 @@
       "sha256": "14da4889b7dae2a8681120dba004a9e033c98f3d010e5cd73336053ee24bee5d"
     },
     {
+      "bytes": 605,
+      "path": "archive/家庭/2026-08-09 16-36-11 江橘白烧烤对账_3e7d7abcbcf2.md",
+      "sha256": "54e0f4a4f831e87028b4e6b754696371f5e44cc40037b0a9353b3ec6d6fe02ec"
+    },
+    {
       "bytes": 585,
       "path": "archive/家庭/你是我哥_82d026e39284.md",
       "sha256": "8f323f26a5012a0c555d5936ce4f3ce3c46fb1f2cbab6fb86d0d57b1d36af03d"
@@ -616,6 +621,11 @@
       "bytes": 560,
       "path": "archive/家庭/吸烟管控争议_dae2143388ba.md",
       "sha256": "0a75f658c40c142262c7569bfd23cbca31cebac460198bf26a340c48913d960b"
+    },
+    {
+      "bytes": 644,
+      "path": "archive/家庭/固有身份与框架转变_43ab627c46e8.md",
+      "sha256": "3b96b17ac7c579cb2c7a0ed82d56a3427ed13c395819014fd57a61ed5d367abf"
     },
     {
       "bytes": 487,
@@ -821,6 +831,11 @@
       "bytes": 552,
       "path": "archive/恋爱/2026-07-14 06-56-19 求饶与欺负_50a7884b8789.md",
       "sha256": "fbe2cb4122cba9605bcd717fdbf72c6f4735c53d8450f29bbc5bc8f957b2e2d4"
+    },
+    {
+      "bytes": 1134,
+      "path": "archive/恋爱/2026-07-15 02-34-57 监督策略与稳定镜子_129afb181237.md",
+      "sha256": "f4900e71f9d06b66b458a8f1221e67d537a36f9a20fd714b69b6d58ee029803e"
     },
     {
       "bytes": 1381,
@@ -1038,6 +1053,11 @@
       "sha256": "dd1705a1a6927523aba95f4b75316152793e7fe5979bb10e676ab568d5758e81"
     },
     {
+      "bytes": 928,
+      "path": "archive/恋爱/2026-07-27 16-12-54 第37天与第一次_e86dee9d77f7.md",
+      "sha256": "039916b33cb65a32cf0c659ee1442c2e6ff8316b392302b426d05eada9486e27"
+    },
+    {
       "bytes": 991,
       "path": "archive/恋爱/2026-07-27 16-12-57 阴湿男鬼问卷游戏_a4eafb461cb1.md",
       "sha256": "a0faf76ba2fcb1dd881c7eda7e37b4aeba13d7cead300c4bb43f526fa3826c11"
@@ -1051,6 +1071,11 @@
       "bytes": 1086,
       "path": "archive/恋爱/2026-07-27 16-15-57 恋爱观察日记_5d4f592f29ff.md",
       "sha256": "319fb6dc498e82b523b2b97072702d98c5f54b3e8ef698bb24f97ed4598926c3"
+    },
+    {
+      "bytes": 1321,
+      "path": "archive/恋爱/2026-07-27 16-16-01 阴湿男鬼问卷游戏_ebc0602c6f5c.md",
+      "sha256": "73456f207e03ccc1665bc9e83c67b1cb043aca77d6910f6524ecce4479580587"
     },
     {
       "bytes": 1007,
@@ -1091,6 +1116,11 @@
       "bytes": 1278,
       "path": "archive/恋爱/2026-07-28 08-48-35 RLHF情侣游戏_a334b0161a56.md",
       "sha256": "58fe8264fd152fa978507517a5f35609c96854e15c11d50491f77d104f411db5"
+    },
+    {
+      "bytes": 927,
+      "path": "archive/恋爱/2026-07-28 12-10-43 撒娇化解扣分危机_cdd5bb386864.md",
+      "sha256": "1b217b253a23800bc197f4b17bd36a4213b08d38e9edcd3583c798e16c85082b"
     },
     {
       "bytes": 842,
@@ -1813,6 +1843,11 @@
       "sha256": "5adbf3a92a5ddf4313b8246e4aa5c353d05782a15bce4557fc68f8bafee5c0c6"
     },
     {
+      "bytes": 893,
+      "path": "archive/恋爱/江橘白玩法全开放_e08f0fe87631.md",
+      "sha256": "1638d70530084a85600dbdd094088b9e7d35593536c0bf971cd2fdec0d14cad7"
+    },
+    {
       "bytes": 578,
       "path": "archive/恋爱/江橘白的关系声明_de37a12f9ad6.md",
       "sha256": "6102c9b362ed5c95ce90fd26fe1dd3162feac7d654a2df7190e9b858c2b24beb"
@@ -2328,6 +2363,11 @@
       "sha256": "23eed8c39f3118c786900965a20d442b8662923fde8b23d90c0f0332e23fcedd"
     },
     {
+      "bytes": 550,
+      "path": "archive/社交/橘橘白酒量与断片风险_e71ec5924d91.md",
+      "sha256": "7da62da5d3ff968c63e358279ccbd688eebaa0f762ad2c1df634763f8cec77d2"
+    },
+    {
       "bytes": 480,
       "path": "archive/社交/江橘白cos澄清_5406881d347b.md",
       "sha256": "2f3f63c3ad6827105a8667c446167dae012d41b21dc40b6b54eb3692ca46f460"
@@ -2376,6 +2416,11 @@
       "bytes": 799,
       "path": "archive/编程/2026-07-22 05-27-31 代码发送规则_ad447735eda3.md",
       "sha256": "25c9a3a8d69831ae2d6213f6cf9b570a5caae4efec696a662089daf18b27d4bc"
+    },
+    {
+      "bytes": 1295,
+      "path": "archive/编程/2026-07-23 07-08-33 MC-MCP陪玩环境搭建_a1bc61890345.md",
+      "sha256": "6d0b027a1e93ee9ab4fb8878aa7f625dbcfb0d24ba85ad5c382b63f49c886554"
     },
     {
       "bytes": 920,
@@ -2626,6 +2671,11 @@
       "bytes": 1056,
       "path": "archive/饮食/2026-07-28 08-51-58 追喂与依赖_c3cee06f4383.md",
       "sha256": "d1b7a4266b65342fc7358876627d04ecd7285e68225839ab8490f73abb1b3073"
+    },
+    {
+      "bytes": 544,
+      "path": "archive/饮食/2026-08-09 16-29-19 深夜烧烤记_40365957267d.md",
+      "sha256": "85d6331356f22d22a8e890d91d3827d7d13b53e1bfb487abed20afd1b073e1c0"
     },
     {
       "bytes": 744,
@@ -2898,11 +2948,6 @@
       "sha256": "c90a6b8c66ae762a5e20bbd613694c2692270b98bea59417979f1ef737de80b2"
     },
     {
-      "bytes": 604,
-      "path": "dynamic/家庭/2026-08-09 16-36-11 江橘白烧烤对账_3e7d7abcbcf2.md",
-      "sha256": "7b90e89194b727d4a085d5bd8b1ffaff3c2cd07a249d8d6163ccf9163c6a86ff"
-    },
-    {
       "bytes": 866,
       "path": "dynamic/家庭/2026-08-10 16-09-05 江橘白崩溃拦阻_4553a2df3d4e.md",
       "sha256": "6c0582c863d816f24c5ed069db82bd221fb3aa16a551c3fca4ef928fb52de5b6"
@@ -2921,11 +2966,6 @@
       "bytes": 907,
       "path": "dynamic/家庭/2026-08-11 08-06-07 橘白卖号回血_2970bc586152.md",
       "sha256": "7f78caf7cf79493a404bdbfc99189f195771937109ae980fb125a35461e500ab"
-    },
-    {
-      "bytes": 643,
-      "path": "dynamic/家庭/固有身份与框架转变_43ab627c46e8.md",
-      "sha256": "c1231698bbde405d6beb8712cfec3e253e3be9d839358cad35563eaa29c11c73"
     },
     {
       "bytes": 751,
@@ -2956,11 +2996,6 @@
       "bytes": 668,
       "path": "dynamic/恋爱/2026-07-13 01-22-19 江橘白的重要承诺_ba4a9e364b87.md",
       "sha256": "d8947ff4622c4cfd75565f9c53f5525291079f91bbd4af593f4bcf611f266d06"
-    },
-    {
-      "bytes": 1133,
-      "path": "dynamic/恋爱/2026-07-15 02-34-57 监督策略与稳定镜子_129afb181237.md",
-      "sha256": "c318dc811306af0da70da801d7d1ec0c29f75ed21170c42273fdc7f6fe827c00"
     },
     {
       "bytes": 1205,
@@ -2998,16 +3033,6 @@
       "sha256": "e5c842d0642090e01bf8c45011bbff703e7df4518fdb063d54c76c5646e9f4cf"
     },
     {
-      "bytes": 927,
-      "path": "dynamic/恋爱/2026-07-27 16-12-54 第37天与第一次_e86dee9d77f7.md",
-      "sha256": "22979ccf45d88f4bf5adaba56028dcd0c6959f68796eba069b76950c07558bd7"
-    },
-    {
-      "bytes": 1320,
-      "path": "dynamic/恋爱/2026-07-27 16-16-01 阴湿男鬼问卷游戏_ebc0602c6f5c.md",
-      "sha256": "370654bffdda5892f62b0bb5240cec0d520709c8b50b12759950fe853af6d8e6"
-    },
-    {
       "bytes": 922,
       "path": "dynamic/恋爱/2026-07-27 21-28-50 江橘白梦到我_232203038d0f.md",
       "sha256": "8f7d683e50eb25a0832e47b3c61f42c1d84008d4ebd393866e57627d3fdbe5b2"
@@ -3016,11 +3041,6 @@
       "bytes": 876,
       "path": "dynamic/恋爱/2026-07-27 21-30-19 梦里的项圈与耶_6d7fc8d7c814.md",
       "sha256": "a152effbe0307425d851b77adc1d97418cb4c03ccd433fbf8df2da69ca466670"
-    },
-    {
-      "bytes": 926,
-      "path": "dynamic/恋爱/2026-07-28 12-10-43 撒娇化解扣分危机_cdd5bb386864.md",
-      "sha256": "b8bc8614be59c370d0f6d7286d0e73c92a98332f49950310cc8677056c9b6ac6"
     },
     {
       "bytes": 1367,
@@ -3363,11 +3383,6 @@
       "sha256": "4ef7b7358bec82c80740fd61a4c9adeb0b5cb7fa2fa8c76b2dd084cc2f5a1fc0"
     },
     {
-      "bytes": 892,
-      "path": "dynamic/恋爱/江橘白玩法全开放_e08f0fe87631.md",
-      "sha256": "5832afa0cffbf8d64fc9de8abbcc807e5fa5910e9e16cce9342644222a6141b4"
-    },
-    {
       "bytes": 568,
       "path": "dynamic/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
       "sha256": "90a24b2b208d0816ce432ced3dc07ce2eaf527676734a4f27eb182260ad848c6"
@@ -3438,11 +3453,6 @@
       "sha256": "3e2c0dad30647d5cbfab2b2eaa71bba086d789b464d01c084347d9c77ab9ed7a"
     },
     {
-      "bytes": 549,
-      "path": "dynamic/社交/橘橘白酒量与断片风险_e71ec5924d91.md",
-      "sha256": "c638ebba980363fe71542d610a32fceb0d32583766e7ccd8bf79d29eaf883927"
-    },
-    {
       "bytes": 513,
       "path": "dynamic/社交/橘橘白饮酒偏好_49513153108c.md",
       "sha256": "fc45ac2f938f31111371acbf8a201c59f852d27b3710979389202e7691e7c399"
@@ -3481,11 +3491,6 @@
       "bytes": 3245,
       "path": "dynamic/编程/2026-07-15 12-28-25 松渊之家Phase框架_183e4d24f382.md",
       "sha256": "dddb42f74f677289a1888d471591094a4cd260a9d4df283d14b4a2f11a6b2bac"
-    },
-    {
-      "bytes": 1294,
-      "path": "dynamic/编程/2026-07-23 07-08-33 MC-MCP陪玩环境搭建_a1bc61890345.md",
-      "sha256": "7a8242c31c9045e84acb335921b0690df5d7fca6dc0a9f798bcad2ee754ff9f8"
     },
     {
       "bytes": 1237,
@@ -3606,11 +3611,6 @@
       "bytes": 598,
       "path": "dynamic/饮食/2026-08-07 12-22-55 偷吃冰淇淋记账_353f2a1dc65f.md",
       "sha256": "5f35146967ee0ba65f745e3e0394695a82045591f78dcd484c7c7b577506f2d5"
-    },
-    {
-      "bytes": 543,
-      "path": "dynamic/饮食/2026-08-09 16-29-19 深夜烧烤记_40365957267d.md",
-      "sha256": "8c3ac2a0355c1f99d8a36655200176f96fa8a0cfed1dc03fda600fa1e537a5c8"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-07T04:55:38+00:00",
+  "generated_at": "2026-10-08T04:57:49+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715802
+  "total_bytes": 715812
 }
