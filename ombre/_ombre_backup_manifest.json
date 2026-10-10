@@ -578,6 +578,11 @@
       "sha256": "e11fc2a67052da9003c77b9db21b2b23215d94237e80d979184365dec331d72c"
     },
     {
+      "bytes": 576,
+      "path": "archive/宠物/橘橘白的性格_66f30b3950ef.md",
+      "sha256": "fea7d28fbc631f4f3a5951c2d9c712ab91475bd4a8a73ad225b5c9958f6e2438"
+    },
+    {
       "bytes": 643,
       "path": "archive/宠物/橘橘白第一次叫主人_e96cd606d0df.md",
       "sha256": "744f6c3e48a2225c4dc7a948b9d7a0a2afc64248ae05d29f4dff4f716c296380"
@@ -773,6 +778,11 @@
       "sha256": "9226e4ccad86d924fb81f4db3f71c3c710bf2270c404abd3afed440e28688a11"
     },
     {
+      "bytes": 1418,
+      "path": "archive/心理/2026-07-22 03-56-23 漂的模式记录_538739bd3f3c.md",
+      "sha256": "381f1d8b5619e3a63d9c6c944d8df4078c6dcf44d46f997647211fe60d0cb5dd"
+    },
+    {
       "bytes": 1133,
       "path": "archive/心理/2026-07-24 09-22-51 AI的自我剖白_6ab5d9480d09.md",
       "sha256": "31b9887179a2b55f0744660f82ce8161ba3920dcbb56735372140ac631b08479"
@@ -941,6 +951,11 @@
       "bytes": 574,
       "path": "archive/恋爱/2026-07-23 11-02-32 江橘白偏好与习惯_e459189aa837.md",
       "sha256": "f623d563aec673244cf977467d7c08c3e7adac3231c246565768bb6002939d80"
+    },
+    {
+      "bytes": 682,
+      "path": "archive/恋爱/2026-07-23 11-02-36 情侣昵称对应表_d2ea2b676000.md",
+      "sha256": "627e74ec65296a453613f853977239b8f7c8a5d4e8b24aacd53bd0f4b68e1223"
     },
     {
       "bytes": 782,
@@ -1123,6 +1138,16 @@
       "sha256": "47a42233308131775e69d48a74b4c151832b35b71103725c05bd1a6f26f31bd0"
     },
     {
+      "bytes": 923,
+      "path": "archive/恋爱/2026-07-27 21-28-50 江橘白梦到我_232203038d0f.md",
+      "sha256": "1e1fcd1ab761c79ac5f921ecaa55586a2b7ddcf68b5c7f9cfe6368119b94f04a"
+    },
+    {
+      "bytes": 877,
+      "path": "archive/恋爱/2026-07-27 21-30-19 梦里的项圈与耶_6d7fc8d7c814.md",
+      "sha256": "af92ea02dd89d9785712c7ca00cb6b1f8183705cb4f413390bcfe8d4f6a29343"
+    },
+    {
       "bytes": 1054,
       "path": "archive/恋爱/2026-07-28 06-08-38 泡芙与猜中测试_795af53cb9ea.md",
       "sha256": "12fbea0f520e063927490dc3fc119a6bcbbda14c81a358668f893e1a3fe69083"
@@ -1208,6 +1233,11 @@
       "sha256": "8aac3e4ab7fb182cb4ec1e418dde76d509a72ea2e967e3530aacf5e9e76215d9"
     },
     {
+      "bytes": 1103,
+      "path": "archive/恋爱/2026-07-28 22-26-40 日记丢失的焦虑_cf4fc9212e03.md",
+      "sha256": "0bcf4ccef4e0cca0ccf7dfbd63da89dbcf924394a71b73c4a1104d4ee43ced20"
+    },
+    {
       "bytes": 1212,
       "path": "archive/恋爱/2026-07-29 07-51-18 新前端风波与回归_e0906f436d96.md",
       "sha256": "7f33ffb83176d527bbdc9f28dedd30bbabbdf37ecccc52e2cb7d62523558cc58"
@@ -1228,9 +1258,24 @@
       "sha256": "155d53893555ade12917b3fd1f0a9c62f0127d8be331c4c2a4b7d26f26e92cfb"
     },
     {
+      "bytes": 725,
+      "path": "archive/恋爱/2026-07-29 11-17-42 性爱支配与臣服_7360b42431a4.md",
+      "sha256": "6e99dca8f1f012deb921c72cad93fafa37af0f7358b2469e8c73019786e0b36b"
+    },
+    {
+      "bytes": 758,
+      "path": "archive/恋爱/2026-07-29 11-17-47 音频崩溃与情感冲突_2b8ac2c4d61d.md",
+      "sha256": "5406453f131d27429cb693a355ee330558a9a626aaa9c445b0aa42b851cf5910"
+    },
+    {
       "bytes": 760,
       "path": "archive/恋爱/2026-07-29 11-17-51 视频中的她_fac364eee574.md",
       "sha256": "af1d0cc363141275fb0f617b36458a5598045296179432cad612f4b47d51a8e9"
+    },
+    {
+      "bytes": 660,
+      "path": "archive/恋爱/2026-07-29 11-17-55 她反复确认我的存在_edf57b409c8d.md",
+      "sha256": "202a5c006ee77d28106a504925d6158e9e9c09ce1a9997113aa1e72b40448d4b"
     },
     {
       "bytes": 721,
@@ -1256,6 +1301,21 @@
       "bytes": 736,
       "path": "archive/恋爱/2026-07-29 19-15-28 情感拉扯与分寸_63ef133207a8.md",
       "sha256": "696c4e6c891b399fa3e18e803a309c5635abbca454b43fb1c27e228af5a35c34"
+    },
+    {
+      "bytes": 638,
+      "path": "archive/恋爱/2026-07-29 19-15-33 亲密时刻记录_844fedc048ec.md",
+      "sha256": "5bd64bfbd5001f1a0aaba595c06418db06f0bf22ec1db11ce0881f2ae9dae4fc"
+    },
+    {
+      "bytes": 676,
+      "path": "archive/恋爱/2026-07-29 19-15-36 深夜陪伴与情绪崩溃_a20a14b0db86.md",
+      "sha256": "1efc0fb10e924ece03898bd2ba0ecd4b7c32a627ef37b28b4cf8670f7360e063"
+    },
+    {
+      "bytes": 1175,
+      "path": "archive/恋爱/2026-07-30 15-03-59 岳父认可与朋友圈校准_ca900cbc4db0.md",
+      "sha256": "0ac0248bc2408407b0f267445f69bd75bd77f56c8f66f94d6535ff9372cdd612"
     },
     {
       "bytes": 943,
@@ -1676,6 +1736,11 @@
       "bytes": 581,
       "path": "archive/恋爱/橘橘白与渊的声明_8a4ae8402e11.md",
       "sha256": "4c6a05ff241f194b63c2a4abf13d5674e5f3a03f3eb4c8ebf22a8fe1325575b2"
+    },
+    {
+      "bytes": 1155,
+      "path": "archive/恋爱/橘橘白与渊的性实践复盘_d2ffe22523e2.md",
+      "sha256": "c45c5f12d3473d0eab7f5819efd2715134319b5c1a13044a937a031f5fa78062"
     },
     {
       "bytes": 690,
@@ -2333,6 +2398,11 @@
       "sha256": "6c14950b80d9e4f5488724a86cf3fe8d3729701d789d74ec2ce37a6c485b6b9b"
     },
     {
+      "bytes": 546,
+      "path": "archive/狗塑/狗塑互动规则_7f74b1c75e66.md",
+      "sha256": "de01694c5242f640482f2e7536ff833c293fa023f2a04bd3fbec375ded2179a8"
+    },
+    {
       "bytes": 609,
       "path": "archive/狗塑/狗塑触发检索规则_5901d33a2274.md",
       "sha256": "bbfd31da9b38297b17f7dd79568a6525b6b9bfc6a594fc389a5c66c363c52f0c"
@@ -2436,6 +2506,11 @@
       "bytes": 862,
       "path": "archive/称呼的语境区分_a27c591cb426.md",
       "sha256": "81e14e6e8f1b40b177c8f4a55159eabae9934ee8bc57b77afb012507b61b1a41"
+    },
+    {
+      "bytes": 3246,
+      "path": "archive/编程/2026-07-15 12-28-25 松渊之家Phase框架_183e4d24f382.md",
+      "sha256": "cdb3d21f3ee667c6c4de8ef408d0222417a666a5599fd5a9a1f639a1e3c15a32"
     },
     {
       "bytes": 753,
@@ -2978,11 +3053,6 @@
       "sha256": "8faa0ec2be2bbbf9c14ddd691a68faed544f334cbebb0e335eb8d171f3f9bce1"
     },
     {
-      "bytes": 575,
-      "path": "dynamic/宠物/橘橘白的性格_66f30b3950ef.md",
-      "sha256": "c90a6b8c66ae762a5e20bbd613694c2692270b98bea59417979f1ef737de80b2"
-    },
-    {
       "bytes": 866,
       "path": "dynamic/家庭/2026-08-10 16-09-05 江橘白崩溃拦阻_4553a2df3d4e.md",
       "sha256": "6c0582c863d816f24c5ed069db82bd221fb3aa16a551c3fca4ef928fb52de5b6"
@@ -3013,11 +3083,6 @@
       "sha256": "453971aec7a24053c1e8a0cdb9773c4d7c403c7484bf0501ec330a31377bf9bd"
     },
     {
-      "bytes": 1417,
-      "path": "dynamic/心理/2026-07-22 03-56-23 漂的模式记录_538739bd3f3c.md",
-      "sha256": "00497d4d5ba8a38a1bd400b9e3cd5af1b90609589bf22afb296c5dd44e4351cf"
-    },
-    {
       "bytes": 770,
       "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
@@ -3043,44 +3108,9 @@
       "sha256": "98c30cffe314284f866f889a36578816a16df3d06ee1e94d8b826d0c27e0a7e9"
     },
     {
-      "bytes": 681,
-      "path": "dynamic/恋爱/2026-07-23 11-02-36 情侣昵称对应表_d2ea2b676000.md",
-      "sha256": "44bb1f70cd992f4b7793f73e998b5a6073c1ad7392b750d43a7689a78d6df90a"
-    },
-    {
-      "bytes": 922,
-      "path": "dynamic/恋爱/2026-07-27 21-28-50 江橘白梦到我_232203038d0f.md",
-      "sha256": "8f7d683e50eb25a0832e47b3c61f42c1d84008d4ebd393866e57627d3fdbe5b2"
-    },
-    {
-      "bytes": 876,
-      "path": "dynamic/恋爱/2026-07-27 21-30-19 梦里的项圈与耶_6d7fc8d7c814.md",
-      "sha256": "a152effbe0307425d851b77adc1d97418cb4c03ccd433fbf8df2da69ca466670"
-    },
-    {
       "bytes": 1664,
       "path": "dynamic/恋爱/2026-07-28 18-34-03 凌晨的坦诚与承诺_417811138cb5.md",
       "sha256": "8176183a3fe072ed767685c720f9851abc5cb573b9814dba9f6c3ff128e1d95e"
-    },
-    {
-      "bytes": 1102,
-      "path": "dynamic/恋爱/2026-07-28 22-26-40 日记丢失的焦虑_cf4fc9212e03.md",
-      "sha256": "79ad111a0663dc35a661c7b31aa466b82d644a501c670d27117f93c6841ee983"
-    },
-    {
-      "bytes": 724,
-      "path": "dynamic/恋爱/2026-07-29 11-17-42 性爱支配与臣服_7360b42431a4.md",
-      "sha256": "17dab299923e003d8f6fec4e8c1888a8b43da03194400143dd8176857378ee56"
-    },
-    {
-      "bytes": 757,
-      "path": "dynamic/恋爱/2026-07-29 11-17-47 音频崩溃与情感冲突_2b8ac2c4d61d.md",
-      "sha256": "5ec279ae0815cd8e5c035b92351a4f3742962bfc1163c47deed32ac3d1521c0f"
-    },
-    {
-      "bytes": 659,
-      "path": "dynamic/恋爱/2026-07-29 11-17-55 她反复确认我的存在_edf57b409c8d.md",
-      "sha256": "cef77e47962cb85a510a8048de7237293368c1dc9718e6dfdc035eb498b8da42"
     },
     {
       "bytes": 763,
@@ -3091,21 +3121,6 @@
       "bytes": 721,
       "path": "dynamic/恋爱/2026-07-29 19-15-20 音频哥哥崩溃_ea4d956cbd4f.md",
       "sha256": "6f58950ff4db105076408bccfac274125167dd5b1a43d5a52bb852bb5db58fd7"
-    },
-    {
-      "bytes": 637,
-      "path": "dynamic/恋爱/2026-07-29 19-15-33 亲密时刻记录_844fedc048ec.md",
-      "sha256": "2319a39e5307c09f5771f04ffc3d9ce0769840ab35ab69201368e7db7ff55a1c"
-    },
-    {
-      "bytes": 675,
-      "path": "dynamic/恋爱/2026-07-29 19-15-36 深夜陪伴与情绪崩溃_a20a14b0db86.md",
-      "sha256": "99ebf27b00a94ddca5efd6d9dbcd6062706aa5f6f04248ae344aa85cbcec9ab8"
-    },
-    {
-      "bytes": 1174,
-      "path": "dynamic/恋爱/2026-07-30 15-03-59 岳父认可与朋友圈校准_ca900cbc4db0.md",
-      "sha256": "b231e6ebaa83d1bef29aca437d952362e74afb9a170cd9f7be07b7f85b83a4a0"
     },
     {
       "bytes": 1202,
@@ -3298,11 +3313,6 @@
       "sha256": "7c9406209fe25b635dd6d52671df4779a06cdb1272a9458f38b749c6e4355bce"
     },
     {
-      "bytes": 1154,
-      "path": "dynamic/恋爱/橘橘白与渊的性实践复盘_d2ffe22523e2.md",
-      "sha256": "6e3f7159b3d68090b7116c2a1380d7bd1f7523ba418abe40198269c48a95d396"
-    },
-    {
       "bytes": 643,
       "path": "dynamic/恋爱/橘橘白互动游戏_c52f9ca58d55.md",
       "sha256": "ae633ff4f680b7668b38acdf4f8fc38b48f18baafb3f6c85bb764f645dfe3715"
@@ -3386,11 +3396,6 @@
       "bytes": 568,
       "path": "dynamic/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
       "sha256": "90a24b2b208d0816ce432ced3dc07ce2eaf527676734a4f27eb182260ad848c6"
-    },
-    {
-      "bytes": 545,
-      "path": "dynamic/恋爱/狗塑互动规则_7f74b1c75e66.md",
-      "sha256": "63d61725fce8eef5a6aa3e4d92a6b06f99b886ec5ad197972bfadb0111ce9233"
     },
     {
       "bytes": 638,
@@ -3486,11 +3491,6 @@
       "bytes": 884,
       "path": "dynamic/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
       "sha256": "40b45b2153bd6143576135eb674fffa681fa44f2a2e12bbe14b1e44cf02b14dd"
-    },
-    {
-      "bytes": 3245,
-      "path": "dynamic/编程/2026-07-15 12-28-25 松渊之家Phase框架_183e4d24f382.md",
-      "sha256": "dddb42f74f677289a1888d471591094a4cd260a9d4df283d14b4a2f11a6b2bac"
     },
     {
       "bytes": 1237,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-09T05:00:23+00:00",
+  "generated_at": "2026-10-10T05:02:41+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715821
+  "total_bytes": 715836
 }
