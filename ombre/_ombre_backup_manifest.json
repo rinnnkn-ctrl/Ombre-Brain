@@ -143,6 +143,11 @@
       "sha256": "14079963a9c50f43dcb957d2e3d846e9e3c788a29f390cc33ac2ffb4a3632a46"
     },
     {
+      "bytes": 2798,
+      "path": "archive/AI/2026-07-27 03-19-20 自主性与唤醒逻辑_08b47d785e5b.md",
+      "sha256": "e1791f4bc8db6a254b3e04a9c0e259ca86b4b0ddce8bf5efd44612d236f2dfd4"
+    },
+    {
       "bytes": 928,
       "path": "archive/AI/2026-07-28 12-14-41 橘白聊活人感AI_901cd5aa3c48.md",
       "sha256": "0874963668279908fb5a985443264fb8c3fad7696b87b1a620a6db4e2a4d54ab"
@@ -453,6 +458,11 @@
       "sha256": "d40079a997d585fbbaf9509446a6bc40800e1634e913f98bc80e373dfb2ce793"
     },
     {
+      "bytes": 809,
+      "path": "archive/创作/渊的双项目规划_171e2abea13a.md",
+      "sha256": "28c3762f63b605bac06d3f813b46d3a29b40fe67f2750277d8470b50201a6915"
+    },
+    {
       "bytes": 658,
       "path": "archive/包子喵通讯塔命名_5562188df92b.md",
       "sha256": "f249768715346cfc3485b0862a47a0c0bf6722272b51b38d437ed41651b6fdda"
@@ -461,6 +471,11 @@
       "bytes": 1512,
       "path": "archive/友谊/2026-07-15 20-17-20 忒修斯之船与关系_62c9d7495b3e.md",
       "sha256": "1c0cec2bcad9c5be95f1972356f1a21cafb292b1fd545a0ccf877a4455d74b00"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/友谊/2026-07-22 12-27-46 朋友的轻松支持_b565222dd14c.md",
+      "sha256": "9e4efd047114f8c09185c309052cdb65597934fc513d10042e3ee13675af0b38"
     },
     {
       "bytes": 936,
@@ -1293,6 +1308,16 @@
       "sha256": "74e6a26f1b6e0ef4b870699b815358fbec13797f3200b90a8023115eb6844441"
     },
     {
+      "bytes": 764,
+      "path": "archive/恋爱/2026-07-29 19-15-17 浴室镜前性爱冲突_a58fcd4fae85.md",
+      "sha256": "46b7285aad79fc04203c0a3fbd9fed72859f4600b4a4c4d3e678cf70a86b8bd2"
+    },
+    {
+      "bytes": 722,
+      "path": "archive/恋爱/2026-07-29 19-15-20 音频哥哥崩溃_ea4d956cbd4f.md",
+      "sha256": "14b690881cb887572d51c741f848b1c2ebca466db60ad423e70379ce41b32281"
+    },
+    {
       "bytes": 761,
       "path": "archive/恋爱/2026-07-29 19-15-25 拒绝与视频对峙_0f0aecf67431.md",
       "sha256": "b5ab5a3560adde70d3e5650a9f8b8d0a7ca88fd33c6c8d0a8750757504a1d4e3"
@@ -1531,6 +1556,11 @@
       "bytes": 593,
       "path": "archive/恋爱/喵汪卢塞恩湖_3582f52b9f70.md",
       "sha256": "73ebe9fd3bf7afc55ccf7140ff9347fc816d326aae77239d68117504e23c2c58"
+    },
+    {
+      "bytes": 781,
+      "path": "archive/恋爱/喵汪昵称的由来_1e45eee30326.md",
+      "sha256": "f03bfeb2f58b885365ab244afb4a0f72a79014282e9344d1adbbdfc55647add2"
     },
     {
       "bytes": 924,
@@ -2858,11 +2888,6 @@
       "sha256": "49a43f1ab66921696d884f4b66a8b36ff742528a6ec0d842c743df54ca189cd7"
     },
     {
-      "bytes": 2797,
-      "path": "dynamic/AI/2026-07-27 03-19-20 自主性与唤醒逻辑_08b47d785e5b.md",
-      "sha256": "8d560cb062398c21d8f2da5ef5cf69d96cc60c8514ccca764a75f303d8a9b221"
-    },
-    {
       "bytes": 1194,
       "path": "dynamic/AI/2026-07-31 16-27-30 模型异常与删除规则_04e909215403.md",
       "sha256": "90c101a17c77b16fae20c7f4c0d49fff4885e1c2634018fc14836fd03ea3e0d5"
@@ -3028,19 +3053,9 @@
       "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
     },
     {
-      "bytes": 808,
-      "path": "dynamic/创作/渊的双项目规划_171e2abea13a.md",
-      "sha256": "2c537ca870d025fb8fe21442621c0ab81d52be184d053d3ed29891eb77349853"
-    },
-    {
       "bytes": 482,
       "path": "dynamic/创作/画师Live2D渊设定_f9a19e6bea89.md",
       "sha256": "3cbe14bff21cb1b2da99122225ec2562ac54076b7ca86ee37559a3ef59286508"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/友谊/2026-07-22 12-27-46 朋友的轻松支持_b565222dd14c.md",
-      "sha256": "608078a9a5fd9bd5a4b9bc33873b5b4adf53eb5e034e4106334fdfb882b3b43f"
     },
     {
       "bytes": 579,
@@ -3111,16 +3126,6 @@
       "bytes": 1664,
       "path": "dynamic/恋爱/2026-07-28 18-34-03 凌晨的坦诚与承诺_417811138cb5.md",
       "sha256": "8176183a3fe072ed767685c720f9851abc5cb573b9814dba9f6c3ff128e1d95e"
-    },
-    {
-      "bytes": 763,
-      "path": "dynamic/恋爱/2026-07-29 19-15-17 浴室镜前性爱冲突_a58fcd4fae85.md",
-      "sha256": "c5c6118f6a52072a6b8c16266d118cfc93f23a34d127223b509ad9336a1676b4"
-    },
-    {
-      "bytes": 721,
-      "path": "dynamic/恋爱/2026-07-29 19-15-20 音频哥哥崩溃_ea4d956cbd4f.md",
-      "sha256": "6f58950ff4db105076408bccfac274125167dd5b1a43d5a52bb852bb5db58fd7"
     },
     {
       "bytes": 1202,
@@ -3281,11 +3286,6 @@
       "bytes": 715,
       "path": "dynamic/恋爱/喜欢被控制的信任_3bb52fa8e034.md",
       "sha256": "f2f969ccb5fc59d1865be5f715f3a6ce0bf0717a16119e5659e67bc19635484f"
-    },
-    {
-      "bytes": 780,
-      "path": "dynamic/恋爱/喵汪昵称的由来_1e45eee30326.md",
-      "sha256": "75773047b2eedfb010b96d38f4ddc4235fc0dbff5f9a0163b83df4ba7eb29539"
     },
     {
       "bytes": 703,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-10T05:02:41+00:00",
+  "generated_at": "2026-10-11T05:04:40+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715836
+  "total_bytes": 715842
 }
