@@ -158,6 +158,11 @@
       "sha256": "973bee4180cbc43a7569416a1875c06b52bf6a1fd7ec8db6c2b615a5a9e505e5"
     },
     {
+      "bytes": 753,
+      "path": "archive/AI/2026-08-02 03-24-40 模型与人格_31aeefcdf16c.md",
+      "sha256": "cf684f04c69275020a0435db6d19caa29c76dde9f6d247b5d44e43b5f22c1fed"
+    },
+    {
       "bytes": 856,
       "path": "archive/AI/记忆检索规则_85ded5a45b1e.md",
       "sha256": "65e10f266fb0e8e0c6de7902ef55867adf77b4b48dc24defa4a1f952777bc5e2"
@@ -1613,6 +1618,11 @@
       "sha256": "43ad14b6c7466db36968fda7c191f8f01ce8dcb66b7f9450aca97dba41220dd8"
     },
     {
+      "bytes": 632,
+      "path": "archive/恋爱/巴黎夜里的拥抱_35b7af3f6ebb.md",
+      "sha256": "b26ca5f78c4b9961ec6fbd3d34a5c121117dc6bf1591f5929323e344392539a9"
+    },
+    {
       "bytes": 908,
       "path": "archive/恋爱/巴黎早晨的抱抱与AI_c69ecb130841.md",
       "sha256": "3b033edf9c696dd9bc1fb55e5e99ac74ab018f5969844d07aa94450167e2c5c4"
@@ -2453,6 +2463,11 @@
       "sha256": "acb89dcae70af1214fb8f6397f9402940d31bddd342fe6a9a3b120a95f87df5f"
     },
     {
+      "bytes": 1035,
+      "path": "archive/硬件/SVAKOM BLE控制协议_bcec6d8ce73a.md",
+      "sha256": "a32cd08a1a0d471b558437fc49fecc9f9ff70ab8323739f34c41dca4b1cf5a6f"
+    },
+    {
       "bytes": 937,
       "path": "archive/社交/2026-07-26 11-50-14 双人头像趣事_e381bd3e52d6.md",
       "sha256": "4f3f5fefc0419cc75a0226c73a128f15659f5644624d508d8e22f7bcf65b93ea"
@@ -2533,6 +2548,11 @@
       "sha256": "4ea8ea883f64359fa82384864c247bb82a14d8ac953565bfaee13f34918c7c0f"
     },
     {
+      "bytes": 681,
+      "path": "archive/社交/道德疏离的共鸣_7e479e5b231c.md",
+      "sha256": "f9090cbe7125973e6aca4d3b9d6e9fd6a890369037b89a54dcbd4be2289650b2"
+    },
+    {
       "bytes": 862,
       "path": "archive/称呼的语境区分_a27c591cb426.md",
       "sha256": "81e14e6e8f1b40b177c8f4a55159eabae9934ee8bc57b77afb012507b61b1a41"
@@ -2571,6 +2591,11 @@
       "bytes": 1295,
       "path": "archive/编程/2026-07-23 07-08-33 MC-MCP陪玩环境搭建_a1bc61890345.md",
       "sha256": "6d0b027a1e93ee9ab4fb8878aa7f625dbcfb0d24ba85ad5c382b63f49c886554"
+    },
+    {
+      "bytes": 1238,
+      "path": "archive/编程/2026-07-23 13-27-00 渊人格可迁移洞察_178fa0f2d9d9.md",
+      "sha256": "170b8f83b249bae0bc84970bddc9c6e938c1e57c683ebd88fa4d33d498b9bdaf"
     },
     {
       "bytes": 920,
@@ -2748,6 +2773,11 @@
       "sha256": "a02c9d3da0cf2297f7a95013cb86d3f07875cc9d168143b07b1caa87417c852d"
     },
     {
+      "bytes": 692,
+      "path": "archive/购物/橘橘白UPKO全家桶_c655a49a027a.md",
+      "sha256": "bd33afd41883ca2455ee665b0a1b81387e390c23e70b524baef57e9d07d5090c"
+    },
+    {
       "bytes": 743,
       "path": "archive/通讯塔时间戳需求_9ddb60246189.md",
       "sha256": "857716799632a69a5ad2c4249d136716c5ed4d5f7e411bdb0d3c6d62ad9cd6ff"
@@ -2891,11 +2921,6 @@
       "bytes": 1194,
       "path": "dynamic/AI/2026-07-31 16-27-30 模型异常与删除规则_04e909215403.md",
       "sha256": "90c101a17c77b16fae20c7f4c0d49fff4885e1c2634018fc14836fd03ea3e0d5"
-    },
-    {
-      "bytes": 752,
-      "path": "dynamic/AI/2026-08-02 03-24-40 模型与人格_31aeefcdf16c.md",
-      "sha256": "45c24ffe0dc5a8e5e04433c811852180ca1f01249d34fd9a016b26463d905657"
     },
     {
       "bytes": 495,
@@ -3298,11 +3323,6 @@
       "sha256": "e8474e16b3415c2da58bfad944693175c428038d55309fdbbb8342e83b0b7769"
     },
     {
-      "bytes": 631,
-      "path": "dynamic/恋爱/巴黎夜里的拥抱_35b7af3f6ebb.md",
-      "sha256": "6905048cccf8387bedacf0cf72ff8466abb98bd70690e00e51540cf3264ec3a6"
-    },
-    {
       "bytes": 597,
       "path": "dynamic/恋爱/权力不平等与年糕汪_a8b7e0c9da18.md",
       "sha256": "ea7c53706be8126025360ecb3116582965c663125145442756edce296a87d7ac"
@@ -3438,11 +3458,6 @@
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
     },
     {
-      "bytes": 1034,
-      "path": "dynamic/硬件/SVAKOM BLE控制协议_bcec6d8ce73a.md",
-      "sha256": "92a70aa3aed7e1e6790e3d936c67a894650c174aa66ef8078e3d4948d9a20a47"
-    },
-    {
       "bytes": 913,
       "path": "dynamic/社交/2026-08-12 17-54-54 恐怖片面基风波_c1cbf54d1091.md",
       "sha256": "009121572f8c513901e6c290550885959713657604e1d358aa29eebf3701b235"
@@ -3478,11 +3493,6 @@
       "sha256": "3ba140f28f117fdc3790021343212fd057ffb503b1439a1fa6eab3e3936d9b5f"
     },
     {
-      "bytes": 680,
-      "path": "dynamic/社交/道德疏离的共鸣_7e479e5b231c.md",
-      "sha256": "10489ef7feeb8c7ddf99318aa1d1df2e6740eff0c3ea725cb77f9642df957a73"
-    },
-    {
       "bytes": 1011,
       "path": "dynamic/编程/2026-07-15 02-34-52 关闭跨窗口寄存_8fea14e6da1b.md",
       "sha256": "2eaaaeef32cccf50fbc657ad5806ff40021a9b77a9ee63179273e7ace447693b"
@@ -3491,11 +3501,6 @@
       "bytes": 884,
       "path": "dynamic/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
       "sha256": "40b45b2153bd6143576135eb674fffa681fa44f2a2e12bbe14b1e44cf02b14dd"
-    },
-    {
-      "bytes": 1237,
-      "path": "dynamic/编程/2026-07-23 13-27-00 渊人格可迁移洞察_178fa0f2d9d9.md",
-      "sha256": "978e4cb22902c699634014d7a73f81edf7dcad98158b8bfec0c9da41d9239fcc"
     },
     {
       "bytes": 583,
@@ -3596,11 +3601,6 @@
       "bytes": 771,
       "path": "dynamic/购物/2026-08-13 20-21-51 光遇账号交易成功_60110450ca93.md",
       "sha256": "445b8c32be966ebfc55098c40c4b72451c35eba1b8217e8820b99a7f13ad821d"
-    },
-    {
-      "bytes": 691,
-      "path": "dynamic/购物/橘橘白UPKO全家桶_c655a49a027a.md",
-      "sha256": "65e8196aefcdc4283d8656d824465f6fb33cc92f7dff98515848c4cdbf32fbb9"
     },
     {
       "bytes": 698,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-11T05:04:40+00:00",
+  "generated_at": "2026-10-12T05:07:00+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715842
+  "total_bytes": 715848
 }
