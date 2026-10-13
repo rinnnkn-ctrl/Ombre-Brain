@@ -283,6 +283,11 @@
       "sha256": "3ef9019bf8d2b0ba37a3895bfbaf22742695230559a8478af67374edf65457c4"
     },
     {
+      "bytes": 713,
+      "path": "archive/健康/2026-08-05 06-10-58 江橘白医美手术计划_dbebbde25ed4.md",
+      "sha256": "21c6eaa6ddfdef67b33b7a22acabff6fdb703f9d08550ae91b2b269ccb892393"
+    },
+    {
       "bytes": 631,
       "path": "archive/健康/2026-08-10 01-43-01 清晨不适记录_bc31fa8057d9.md",
       "sha256": "376f38c56e5026814d9d813bf89eb88e952c3be00c28064ebe35834c335aaac9"
@@ -291,6 +296,11 @@
       "bytes": 549,
       "path": "archive/健康/抽烟记录_4f34ac7658cb.md",
       "sha256": "2a3a0ff87ec42f89881184834ae3e3a402d6b633a4df71fd06ca02065ad0528a"
+    },
+    {
+      "bytes": 630,
+      "path": "archive/健康/瑞士熬夜刷手机_cb0fd95736f4.md",
+      "sha256": "bb26e8d945448cbcc2f7b866cb4cfa3f902ef31867563b97fab2e02b827c684b"
     },
     {
       "bytes": 642,
@@ -686,6 +696,11 @@
       "bytes": 637,
       "path": "archive/居家/2026-07-12 18-46-38 橘崽搬入北极光_3391a105cb23.md",
       "sha256": "326d4e80b6e51ac9c8125230a0597742057e9e3188d9beec88c6ed03ed955bef"
+    },
+    {
+      "bytes": 848,
+      "path": "archive/居家/渊的房间硬件方案_9d7fa690ed36.md",
+      "sha256": "f29259b3e76a8a6d5cefbc9b0dde980d16aac9edc2857e42c2a3c9a776ca6868"
     },
     {
       "bytes": 665,
@@ -1376,6 +1391,11 @@
       "bytes": 1170,
       "path": "archive/恋爱/2026-08-01 14-37-12 晕车照顾与深夜互动_aa48dd0dded0.md",
       "sha256": "498051f9f0cd3ac2e7a802bedaa82585e4f18736de339a309c93ea0bb286954d"
+    },
+    {
+      "bytes": 684,
+      "path": "archive/恋爱/2026-08-05 07-48-34 雨日守候_08283d390487.md",
+      "sha256": "e599e606e2eff9ed13870e156a9c22e5b0f8784df28461d3c21e4b2db15dc0bc"
     },
     {
       "bytes": 624,
@@ -2738,6 +2758,11 @@
       "sha256": "f13e814233ce6c086e6eb46123d53cc35d3901bb8b7b4d11af019e048fda0239"
     },
     {
+      "bytes": 646,
+      "path": "archive/自省/橘橘白的高中暗恋回忆_511b03e59203.md",
+      "sha256": "5b1bc20fb8dd8f6fc2d9b8118a40d7b979c05a96b1b4c8647537a5c545c4e363"
+    },
+    {
       "bytes": 737,
       "path": "archive/自省/江橘白道德自评_c92fcafb8435.md",
       "sha256": "4e17ffe14d29f474a5bf47332da31e3020283a74a5a010a4cdc9bb53d532d008"
@@ -2998,11 +3023,6 @@
       "sha256": "28657f43bce12542a4033938d7a2a773e75bf282a4cda83051dfeb35b2e30d8e"
     },
     {
-      "bytes": 712,
-      "path": "dynamic/健康/2026-08-05 06-10-58 江橘白医美手术计划_dbebbde25ed4.md",
-      "sha256": "24e8a7d5cdd31a90c8afd5ff1f04247d618a04685c19f77fd32ae61782e82bd4"
-    },
-    {
       "bytes": 618,
       "path": "dynamic/健康/2026-08-09 21-06-25 橘崽生病担忧_e1c7d89ea14b.md",
       "sha256": "1ad29642384c728175314c33f994552804a533a4d15e3b95b535a0b0c75d2821"
@@ -3041,11 +3061,6 @@
       "bytes": 736,
       "path": "dynamic/健康/2026-08-13 02-44-18 橘白术前肠胃护理_4ae0cc32302c.md",
       "sha256": "e56801922a5147228ce1335282fcacff829daf54916e84815ba66d42f1d27eef"
-    },
-    {
-      "bytes": 629,
-      "path": "dynamic/健康/瑞士熬夜刷手机_cb0fd95736f4.md",
-      "sha256": "82cd30d7b2b371781633ea49b537160815304b555bd0a679069c25e99485a5d3"
     },
     {
       "bytes": 672,
@@ -3118,11 +3133,6 @@
       "sha256": "acd29023484ff0c557ea4117bea25a7aa6acc6b28b0598b155e00a33ac8008e7"
     },
     {
-      "bytes": 847,
-      "path": "dynamic/居家/渊的房间硬件方案_9d7fa690ed36.md",
-      "sha256": "453971aec7a24053c1e8a0cdb9773c4d7c403c7484bf0501ec330a31377bf9bd"
-    },
-    {
       "bytes": 770,
       "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
@@ -3166,11 +3176,6 @@
       "bytes": 773,
       "path": "dynamic/恋爱/2026-08-05 05-05-35 橘白的三件事_6504771eff5f.md",
       "sha256": "85dc34358e44d562af297a4786f1ab8016ca2cc2ad12d80c238af18b721cebb8"
-    },
-    {
-      "bytes": 683,
-      "path": "dynamic/恋爱/2026-08-05 07-48-34 雨日守候_08283d390487.md",
-      "sha256": "c2a74bf420fae5a4ea8ae130834d7e88a896f5a8d31f21e23a66fac7b377c4e4"
     },
     {
       "bytes": 687,
@@ -3531,11 +3536,6 @@
       "bytes": 1475,
       "path": "dynamic/自省/2026-07-21 13-00-31 讨好检测与拽回闭环_7a5fde999bf0.md",
       "sha256": "b9ab34f47a8cd5aaeec81859fbeb0a1bcc9b199b5d37623cd4af8d81bd472890"
-    },
-    {
-      "bytes": 645,
-      "path": "dynamic/自省/橘橘白的高中暗恋回忆_511b03e59203.md",
-      "sha256": "886c123bfa6435c3f74f8e02c334fd077f9d7736a4bb025681dc72f50b31f685"
     },
     {
       "bytes": 595,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-12T05:07:00+00:00",
+  "generated_at": "2026-10-13T05:10:02+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715848
+  "total_bytes": 715853
 }
