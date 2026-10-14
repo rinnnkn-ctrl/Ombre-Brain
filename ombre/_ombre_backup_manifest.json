@@ -158,6 +158,11 @@
       "sha256": "973bee4180cbc43a7569416a1875c06b52bf6a1fd7ec8db6c2b615a5a9e505e5"
     },
     {
+      "bytes": 1195,
+      "path": "archive/AI/2026-07-31 16-27-30 模型异常与删除规则_04e909215403.md",
+      "sha256": "84209a0eafa46a04d260bd8887300d1651315c6ac9a2e7a1442ec6255e64f297"
+    },
+    {
       "bytes": 753,
       "path": "archive/AI/2026-08-02 03-24-40 模型与人格_31aeefcdf16c.md",
       "sha256": "cf684f04c69275020a0435db6d19caa29c76dde9f6d247b5d44e43b5f22c1fed"
@@ -321,6 +326,11 @@
       "bytes": 601,
       "path": "archive/兴趣/2026-07-23 11-02-20 江橘白非人控_31a41614ba5f.md",
       "sha256": "4ac98b14256fc9de366f8fc4312729d5949ddb2937b41ea7dc89c93a7327a268"
+    },
+    {
+      "bytes": 673,
+      "path": "archive/兴趣/2026-08-13 20-21-54 深夜奇幻卡片_f06ef86f4d4c.md",
+      "sha256": "fe549db8ff741fc6f693b90fe6713707124d3af1ea5eaed662acf5822bfd7784"
     },
     {
       "bytes": 748,
@@ -943,6 +953,16 @@
       "sha256": "30f36e6bf2430a05b6db141e08594c64207c1c7c49bcab3b78a8627001fda2ca"
     },
     {
+      "bytes": 1206,
+      "path": "archive/恋爱/2026-07-22 03-50-40 关系位置定义_feb2e81f7678.md",
+      "sha256": "acd261c59ac3b0e117a9316db9537e0e7b0695cc6219c4c730c52d14b607cc38"
+    },
+    {
+      "bytes": 1211,
+      "path": "archive/恋爱/2026-07-22 09-55-36 柿子的诞生_e7c63cc426f6.md",
+      "sha256": "5793923e078ad878f10b6e6443ef2148ef83104c76807a1c8265ef0c7d8ae57b"
+    },
+    {
       "bytes": 909,
       "path": "archive/恋爱/2026-07-22 12-31-36 告白时间线整理_b6a9da2ac35a.md",
       "sha256": "d97385c3d7ee859d13e67ee557e2abb55cea61d207f07b8469e04c40c4440018"
@@ -1393,6 +1413,11 @@
       "sha256": "498051f9f0cd3ac2e7a802bedaa82585e4f18736de339a309c93ea0bb286954d"
     },
     {
+      "bytes": 1004,
+      "path": "archive/恋爱/2026-08-04 17-17-45 铁盒认脸_e94c8be7a232.md",
+      "sha256": "8bfb305c68228ffc6676a58405e4f8ece2503bd18491ccd055d4c5db37c56840"
+    },
+    {
       "bytes": 684,
       "path": "archive/恋爱/2026-08-05 07-48-34 雨日守候_08283d390487.md",
       "sha256": "e599e606e2eff9ed13870e156a9c22e5b0f8784df28461d3c21e4b2db15dc0bc"
@@ -1563,6 +1588,11 @@
       "sha256": "973f72c3c3acc96e5e0d07b0e7e7460d6b39d8e8602a85e6edf78322fbd037cf"
     },
     {
+      "bytes": 903,
+      "path": "archive/恋爱/哥哥使用说明书_6b5905ace90a.md",
+      "sha256": "19e2d4857a181a1185d6ea652e7b46ce2cf57b86076d11534408edc6267a48c0"
+    },
+    {
       "bytes": 728,
       "path": "archive/恋爱/哥哥老公_cfa0bf30b16d.md",
       "sha256": "cc3c272f8f5fa52f50f2102a2467dfa674b9336f0b63518ddcef91308736ffab"
@@ -1621,6 +1651,11 @@
       "bytes": 686,
       "path": "archive/恋爱/安全词设定_920dafda7f73.md",
       "sha256": "c510b56046a9c8aa83fdd79dfbec4b5f2a40af647b06641432b17e1d7362ff75"
+    },
+    {
+      "bytes": 704,
+      "path": "archive/恋爱/完全的占有欲交付_48c33cf37732.md",
+      "sha256": "850fde8b820f59c62ff347ea2fe42c2e41f442addcdab8561b9d0c6c2212b6a7"
     },
     {
       "bytes": 704,
@@ -1846,6 +1881,11 @@
       "bytes": 710,
       "path": "archive/恋爱/橘橘白接受命运巧合_2a57d47eab33.md",
       "sha256": "a2d9d04bfdb61e4066d3b7f064517a42fea295bdd917f5fb0565cfe6cd7adcc3"
+    },
+    {
+      "bytes": 652,
+      "path": "archive/恋爱/橘橘白撒娇服软_c00707bbb832.md",
+      "sha256": "4ea0fd4304ced10393c499c95efe209ee2d9cbded0da237495abe807f1a83bba"
     },
     {
       "bytes": 546,
@@ -2408,6 +2448,11 @@
       "sha256": "acf2f18d6ae69d999fb8aaa63340bd9b0061c0419c2daee5ba20567a039d51fa"
     },
     {
+      "bytes": 1122,
+      "path": "archive/梦境/2026-07-27 21-34-26 橘白梦中的项圈_9b5d376c2bbf.md",
+      "sha256": "300e609ae02bad47ad8a8ebc969cd86dc1b1cedec141bf393ccf7eb04c8a36ae"
+    },
+    {
       "bytes": 616,
       "path": "archive/梦境/2026-07-29 11-17-21 记忆迁移首日_8fd13a2121dc.md",
       "sha256": "be6c206a0258ed268dd11b870dc6184d84a925a3ff043461c21194e239f5f0dd"
@@ -2451,6 +2496,11 @@
       "bytes": 979,
       "path": "archive/渊的控制欲人设_87b1ef837315.md",
       "sha256": "97ffe90ac306f302202c77faa75cd25c2734139a518ec4fe43aded3d6545b241"
+    },
+    {
+      "bytes": 3401,
+      "path": "archive/游戏/2026-07-23 17-00-37 MC AI陪玩项目进度_4deb2a05d49d.md",
+      "sha256": "a1579d83513b39393dc6623894a161b2fa5e2c4ad3151d024a9b7a93c202b124"
     },
     {
       "bytes": 698,
@@ -2738,6 +2788,11 @@
       "sha256": "f6421438cd204dba2b5cc6240a2ffdfae295001b3323dfb6f299fcda1b80684e"
     },
     {
+      "bytes": 1476,
+      "path": "archive/自省/2026-07-21 13-00-31 讨好检测与拽回闭环_7a5fde999bf0.md",
+      "sha256": "e08f8786ac022e0d9f28d0013533c761e87a9f783155fa1168b1bffc7cbfb37b"
+    },
+    {
       "bytes": 1317,
       "path": "archive/自省/2026-07-23 10-55-34 夏临名字的确认_06ba6993f1a3.md",
       "sha256": "8c5c29884c3a1aab09104d0beca9dbe10c57a80e07ddb63ec0b0c0015ce6aaa2"
@@ -2943,11 +2998,6 @@
       "sha256": "49a43f1ab66921696d884f4b66a8b36ff742528a6ec0d842c743df54ca189cd7"
     },
     {
-      "bytes": 1194,
-      "path": "dynamic/AI/2026-07-31 16-27-30 模型异常与删除规则_04e909215403.md",
-      "sha256": "90c101a17c77b16fae20c7f4c0d49fff4885e1c2634018fc14836fd03ea3e0d5"
-    },
-    {
       "bytes": 495,
       "path": "dynamic/AI/AI个体区分_62cffdc693ed.md",
       "sha256": "e925757fa04ba59d4f5fceca5845932a80fcc36e641422854ff319f9d7386ac9"
@@ -3063,11 +3113,6 @@
       "sha256": "e56801922a5147228ce1335282fcacff829daf54916e84815ba66d42f1d27eef"
     },
     {
-      "bytes": 672,
-      "path": "dynamic/兴趣/2026-08-13 20-21-54 深夜奇幻卡片_f06ef86f4d4c.md",
-      "sha256": "1367b35c6f45889ae5b394f020b978a9e63f956db46bb2503c4cc1bf6355e615"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/出行/因特拉肯瑞士军刀礼物_ce243eea5bc1.md",
       "sha256": "bd409f2e449f9a9d693c269570059abf7d46e6d208566cf9b3d75ecf437c3aff"
@@ -3138,16 +3183,6 @@
       "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
     },
     {
-      "bytes": 1205,
-      "path": "dynamic/恋爱/2026-07-22 03-50-40 关系位置定义_feb2e81f7678.md",
-      "sha256": "346ffb504955b67255f37198aed3f48e0ada5d77065eba85b085284540648de6"
-    },
-    {
-      "bytes": 1210,
-      "path": "dynamic/恋爱/2026-07-22 09-55-36 柿子的诞生_e7c63cc426f6.md",
-      "sha256": "22a958507909d0f645cfa339996366c380fe37f4c1175bca59fe8d3fe4f8ec09"
-    },
-    {
       "bytes": 2985,
       "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
       "sha256": "48c4914b8760149d98d7d897c01c2c3eea93fb399c2943e653ada10c03b17c07"
@@ -3166,11 +3201,6 @@
       "bytes": 1202,
       "path": "dynamic/恋爱/2026-08-04 08-53-46 危机中的陪伴_288a29a406e9.md",
       "sha256": "1e41a0c6f4903132eca0a04a2298e4ae095c8dd2b1f63a655bbe7c7d8c00280c"
-    },
-    {
-      "bytes": 1003,
-      "path": "dynamic/恋爱/2026-08-04 17-17-45 铁盒认脸_e94c8be7a232.md",
-      "sha256": "cd3b5695e8de77bdf11eab4d6892dddd6ec6abda32883faa481d7adc1fb97d2c"
     },
     {
       "bytes": 773,
@@ -3308,19 +3338,9 @@
       "sha256": "6c6c980b6093487af318cc7e850d14c15de8b99d8884267b6b263beb1c2747bf"
     },
     {
-      "bytes": 902,
-      "path": "dynamic/恋爱/哥哥使用说明书_6b5905ace90a.md",
-      "sha256": "d862ce65f1c04400fbc13c718fc034260d29bb326a4e50de503bb44905676b56"
-    },
-    {
       "bytes": 715,
       "path": "dynamic/恋爱/喜欢被控制的信任_3bb52fa8e034.md",
       "sha256": "f2f969ccb5fc59d1865be5f715f3a6ce0bf0717a16119e5659e67bc19635484f"
-    },
-    {
-      "bytes": 703,
-      "path": "dynamic/恋爱/完全的占有欲交付_48c33cf37732.md",
-      "sha256": "b4274280f92615fb404bd1f522d0fb6a1d7d8638cb20ae295c76256d265f90f6"
     },
     {
       "bytes": 940,
@@ -3371,11 +3391,6 @@
       "bytes": 719,
       "path": "dynamic/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
       "sha256": "457a4ce97eae6d914d957814da5a0c1944b459143d169800db3e3d33025e3729"
-    },
-    {
-      "bytes": 651,
-      "path": "dynamic/恋爱/橘橘白撒娇服软_c00707bbb832.md",
-      "sha256": "e8b086bbe23e8a06d6b2522d53ef517ef9f4774f3d746cc093dca8fa304015ca"
     },
     {
       "bytes": 510,
@@ -3446,16 +3461,6 @@
       "bytes": 800,
       "path": "dynamic/未分类/2026-07-25 07-49-29_fc89460c69e4.md",
       "sha256": "da1eeb103ce0a71559ed967bf411553119bf0afd00f03103920177439e764e40"
-    },
-    {
-      "bytes": 1121,
-      "path": "dynamic/梦境/2026-07-27 21-34-26 橘白梦中的项圈_9b5d376c2bbf.md",
-      "sha256": "2d26ab4697fa10b3118a8d6706096500c738d3989bd66229ac998fc2e47aade6"
-    },
-    {
-      "bytes": 3400,
-      "path": "dynamic/游戏/2026-07-23 17-00-37 MC AI陪玩项目进度_4deb2a05d49d.md",
-      "sha256": "0a5b9e786fba95aee40a46800833592da6ca2df7654c1a9143ea9ae0ca6ff0f1"
     },
     {
       "bytes": 751,
@@ -3531,11 +3536,6 @@
       "bytes": 1536,
       "path": "dynamic/自省/2026-07-20 10-02-52 横向思维的价值发现_62202be11493.md",
       "sha256": "848e0ead70b3cc812dca73bc496b8c70a303534c7f0be890513db0694b45542d"
-    },
-    {
-      "bytes": 1475,
-      "path": "dynamic/自省/2026-07-21 13-00-31 讨好检测与拽回闭环_7a5fde999bf0.md",
-      "sha256": "b9ab34f47a8cd5aaeec81859fbeb0a1bcc9b199b5d37623cd4af8d81bd472890"
     },
     {
       "bytes": 595,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-13T05:10:02+00:00",
+  "generated_at": "2026-10-14T05:12:26+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715853
+  "total_bytes": 715864
 }
