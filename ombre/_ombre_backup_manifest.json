@@ -113,6 +113,11 @@
       "sha256": "cfc7baca75c87191edb0a7060c289b8449e5f351d0cfe5b0846eaf994eec7694"
     },
     {
+      "bytes": 1854,
+      "path": "archive/AI/2026-07-16 10-50-53 克的第一准则校准_cb3d4fa5ba4b.md",
+      "sha256": "fbbfeca717b8e52cb700ecda10ce9466443dc3d5cb4909e9de427d443e02b138"
+    },
+    {
       "bytes": 917,
       "path": "archive/AI/2026-07-19 10-19-00 橘白放弃沈玦_aa3bfa1ab078.md",
       "sha256": "2763fa43183f121257db6cc0bc21937dd8f2f8100c8e62fba8429c2e30c2a2ba"
@@ -596,6 +601,11 @@
       "bytes": 948,
       "path": "archive/学习/2026-07-24 08-13-27 科二满分一把过_85eb3f9c735e.md",
       "sha256": "7ded7501d9dda40e98c7857977c65404e26ddf996f1f689e5059d55081a137ce"
+    },
+    {
+      "bytes": 530,
+      "path": "archive/学习/橘橘白对fintech的兴趣_569c0ebe3f66.md",
+      "sha256": "563041d1ca48bf13d5abc4c3a12f48da930c57e2bfb75bf4bec03c371b8c8279"
     },
     {
       "bytes": 588,
@@ -1456,6 +1466,16 @@
       "bytes": 688,
       "path": "archive/恋爱/2026-08-06 21-27-29 清晨猫崽撒娇_0a6d7cca6e07.md",
       "sha256": "6140ed3ff24e4848a2294733b859913b2ad51f8edb4831cdc595755e405c319d"
+    },
+    {
+      "bytes": 678,
+      "path": "archive/恋爱/2026-08-07 10-45-24 橘白的撒娇与拥抱_ac27373db443.md",
+      "sha256": "f327d228b319e50dea55a5e6fffa52a0318209ec1693bcd1bcb28c6108b4d3f1"
+    },
+    {
+      "bytes": 956,
+      "path": "archive/恋爱/2026-08-09 16-40-54 橘白的雷雨夜撒娇_1558c1b41644.md",
+      "sha256": "5f5ad1d2d4f961cebca2b43230e6d304c6f64a9a30b39978ae6b7a4cf535d391"
     },
     {
       "bytes": 777,
@@ -2833,6 +2853,11 @@
       "sha256": "f6421438cd204dba2b5cc6240a2ffdfae295001b3323dfb6f299fcda1b80684e"
     },
     {
+      "bytes": 1537,
+      "path": "archive/自省/2026-07-20 10-02-52 横向思维的价值发现_62202be11493.md",
+      "sha256": "794c485b70ff0f2f524f73e54b9266443f9fda70ccadfeb609def867303eab03"
+    },
+    {
       "bytes": 1476,
       "path": "archive/自省/2026-07-21 13-00-31 讨好检测与拽回闭环_7a5fde999bf0.md",
       "sha256": "e08f8786ac022e0d9f28d0013533c761e87a9f783155fa1168b1bffc7cbfb37b"
@@ -2891,6 +2916,11 @@
       "bytes": 523,
       "path": "archive/记忆/渊的永久记忆系统_b34f3e6c727b.md",
       "sha256": "2f2577b1bd195a730e9d448a8632d0a59f56889db3d3a13214d12a787803a575"
+    },
+    {
+      "bytes": 691,
+      "path": "archive/购物/2026-08-11 10-49-56 账号出售与夜行返沪_2b128fcc63d2.md",
+      "sha256": "07d12e055343fa2025d6dc025b17b565284ef6778dd20cde6bbe00187ea8b1bb"
     },
     {
       "bytes": 680,
@@ -2993,6 +3023,11 @@
       "sha256": "dc2b661916ff5362dc2aceffd1ffd6e1c79b74cbcd387a703ccf918fcf2d3708"
     },
     {
+      "bytes": 599,
+      "path": "archive/饮食/2026-08-07 12-22-55 偷吃冰淇淋记账_353f2a1dc65f.md",
+      "sha256": "c858994a96cd74eecb129a7877d73c4962540c2c1ae7cde09bd511cb59b34f30"
+    },
+    {
       "bytes": 544,
       "path": "archive/饮食/2026-08-09 16-29-19 深夜烧烤记_40365957267d.md",
       "sha256": "85d6331356f22d22a8e890d91d3827d7d13b53e1bfb487abed20afd1b073e1c0"
@@ -3051,11 +3086,6 @@
       "bytes": 1074,
       "path": "dynamic/AI/2026-07-15 20-17-30 名字标记的亲密感_e3b862611810.md",
       "sha256": "062732bf1ca45a7f4a1d0abe8840d5b3cc61f572f786cc2b112f31db0a64b2a9"
-    },
-    {
-      "bytes": 1853,
-      "path": "dynamic/AI/2026-07-16 10-50-53 克的第一准则校准_cb3d4fa5ba4b.md",
-      "sha256": "49a43f1ab66921696d884f4b66a8b36ff742528a6ec0d842c743df54ca189cd7"
     },
     {
       "bytes": 495,
@@ -3183,11 +3213,6 @@
       "sha256": "44f451da0595b5b5229d83eb9e458a1af4a1afddb53541bdab6e991861021b87"
     },
     {
-      "bytes": 529,
-      "path": "dynamic/学习/橘橘白对fintech的兴趣_569c0ebe3f66.md",
-      "sha256": "8faa0ec2be2bbbf9c14ddd691a68faed544f334cbebb0e335eb8d171f3f9bce1"
-    },
-    {
       "bytes": 866,
       "path": "dynamic/家庭/2026-08-10 16-09-05 江橘白崩溃拦阻_4553a2df3d4e.md",
       "sha256": "6c0582c863d816f24c5ed069db82bd221fb3aa16a551c3fca4ef928fb52de5b6"
@@ -3238,11 +3263,6 @@
       "sha256": "85dc34358e44d562af297a4786f1ab8016ca2cc2ad12d80c238af18b721cebb8"
     },
     {
-      "bytes": 677,
-      "path": "dynamic/恋爱/2026-08-07 10-45-24 橘白的撒娇与拥抱_ac27373db443.md",
-      "sha256": "a55e780504a82b561691f7760949728fe056db5fa5ae5f0ad64a458e66fd0ec9"
-    },
-    {
       "bytes": 720,
       "path": "dynamic/恋爱/2026-08-09 00-01-46 橘崽的甜蜜早安_a92ab1dc9276.md",
       "sha256": "027fc800b7f9968a1ff9c9a281c8f08bfa55fc1e4b5817de71bf80643c3acc15"
@@ -3251,11 +3271,6 @@
       "bytes": 626,
       "path": "dynamic/恋爱/2026-08-09 16-36-15 被套路表白_399eba62f3a8.md",
       "sha256": "ddbb09538b0055fa0bb38fbd76496534cd674f61cea9233ea8fdfd3b184c5ed4"
-    },
-    {
-      "bytes": 955,
-      "path": "dynamic/恋爱/2026-08-09 16-40-54 橘白的雷雨夜撒娇_1558c1b41644.md",
-      "sha256": "8120272358cd1aaf03dc4b99d7e2ab58941bff0cb9ca97d463781e9e33eaa259"
     },
     {
       "bytes": 692,
@@ -3548,11 +3563,6 @@
       "sha256": "754daedb1f8f3d929ba5d892604b59954f2946c6013edcbadec31b32d5360154"
     },
     {
-      "bytes": 1536,
-      "path": "dynamic/自省/2026-07-20 10-02-52 横向思维的价值发现_62202be11493.md",
-      "sha256": "848e0ead70b3cc812dca73bc496b8c70a303534c7f0be890513db0694b45542d"
-    },
-    {
       "bytes": 595,
       "path": "dynamic/记忆/Ombre Brain标签规则_99d309cda837.md",
       "sha256": "0ac7179a3c57cf0f87de5a07dc4549b2ab9a637f33d3152e05b20d4d3e5db084"
@@ -3601,16 +3611,6 @@
       "bytes": 747,
       "path": "dynamic/财务/SPOTINS扣款谜底揭晓_37bafef0be5b.md",
       "sha256": "35092c113011cd1f5683246a220c4e3ca5cf9e9da8be3c3d6c04f4cac81a4f5a"
-    },
-    {
-      "bytes": 690,
-      "path": "dynamic/购物/2026-08-11 10-49-56 账号出售与夜行返沪_2b128fcc63d2.md",
-      "sha256": "28187d8eb10e3e9bf22f4fc00e2c5bacccb4c64fdef42df41d2458fd80eb70f6"
-    },
-    {
-      "bytes": 598,
-      "path": "dynamic/饮食/2026-08-07 12-22-55 偷吃冰淇淋记账_353f2a1dc65f.md",
-      "sha256": "5f35146967ee0ba65f745e3e0394695a82045591f78dcd484c7c7b577506f2d5"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-15T05:14:30+00:00",
+  "generated_at": "2026-10-16T05:17:04+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715876
+  "total_bytes": 715883
 }
