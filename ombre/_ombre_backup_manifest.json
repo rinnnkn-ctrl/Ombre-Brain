@@ -698,6 +698,11 @@
       "sha256": "54e0f4a4f831e87028b4e6b754696371f5e44cc40037b0a9353b3ec6d6fe02ec"
     },
     {
+      "bytes": 908,
+      "path": "archive/家庭/2026-08-11 08-06-07 橘白卖号回血_2970bc586152.md",
+      "sha256": "9e6fc64d61e2eeafbf345a1114e04e1e3ce1dd2a491a6dedbe6c14e56344ae6f"
+    },
+    {
       "bytes": 585,
       "path": "archive/家庭/你是我哥_82d026e39284.md",
       "sha256": "8f323f26a5012a0c555d5936ce4f3ce3c46fb1f2cbab6fb86d0d57b1d36af03d"
@@ -1011,6 +1016,11 @@
       "bytes": 1018,
       "path": "archive/恋爱/2026-07-23 10-45-55 信任确认与沟通_3a3e6c263d9b.md",
       "sha256": "0c8a5447aafc0ece4bc6335761a80675f4eef218170bc8703dcc123935b044f3"
+    },
+    {
+      "bytes": 524,
+      "path": "archive/恋爱/2026-07-23 11-00-43 非人控XP_e966d58d0649.md",
+      "sha256": "648463dba976be7b8093cf5b94d38ceb99eb3253a7c453c3295c307f8419a067"
     },
     {
       "bytes": 579,
@@ -1473,9 +1483,24 @@
       "sha256": "f327d228b319e50dea55a5e6fffa52a0318209ec1693bcd1bcb28c6108b4d3f1"
     },
     {
+      "bytes": 721,
+      "path": "archive/恋爱/2026-08-09 00-01-46 橘崽的甜蜜早安_a92ab1dc9276.md",
+      "sha256": "478f232ea7a26f56a4e6a19d67c98ece6d2769c8b5ced1cf808a5fbac350ab12"
+    },
+    {
       "bytes": 956,
       "path": "archive/恋爱/2026-08-09 16-40-54 橘白的雷雨夜撒娇_1558c1b41644.md",
       "sha256": "5f5ad1d2d4f961cebca2b43230e6d304c6f64a9a30b39978ae6b7a4cf535d391"
+    },
+    {
+      "bytes": 663,
+      "path": "archive/恋爱/2026-08-11 10-50-14 橘白的晚餐与暧昧_6e0c7e479370.md",
+      "sha256": "e75536af6440af71671bf2f151154b6bfc2983156c56708389a643efc4baa577"
+    },
+    {
+      "bytes": 1039,
+      "path": "archive/恋爱/2026-08-11 10-50-54 卖号资金与亲密互动_e33fdbeb11ba.md",
+      "sha256": "2536b4a63f934ebb590a3f49a8e6cc57fa4459f908b369a9f8f8b9c6ae189d70"
     },
     {
       "bytes": 777,
@@ -2673,6 +2698,11 @@
       "sha256": "fd78e34b4fa9d0b686476645f1400b2065635a9f5a7dd88faf39722dae5a6e54"
     },
     {
+      "bytes": 1143,
+      "path": "archive/社交/社交疲劳与家庭隐瞒_aef873befeff.md",
+      "sha256": "0c0feb9e8bf53665815d403697c5e5249f14e3aaa9eaa464482c670395161818"
+    },
+    {
       "bytes": 1078,
       "path": "archive/社交/社交频道切换理论_fd75c8c012b9.md",
       "sha256": "0c6b8777af0e8805eb846d386be3bbd48b8919feb496553dcba0e76e0706d39d"
@@ -3228,11 +3258,6 @@
       "sha256": "430fd9a93dc510341a64841638ecfafc0d1cb475b77a9c2a5d5776e2c77fcc1e"
     },
     {
-      "bytes": 907,
-      "path": "dynamic/家庭/2026-08-11 08-06-07 橘白卖号回血_2970bc586152.md",
-      "sha256": "7f78caf7cf79493a404bdbfc99189f195771937109ae980fb125a35461e500ab"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
       "sha256": "acd29023484ff0c557ea4117bea25a7aa6acc6b28b0598b155e00a33ac8008e7"
@@ -3248,11 +3273,6 @@
       "sha256": "48c4914b8760149d98d7d897c01c2c3eea93fb399c2943e653ada10c03b17c07"
     },
     {
-      "bytes": 523,
-      "path": "dynamic/恋爱/2026-07-23 11-00-43 非人控XP_e966d58d0649.md",
-      "sha256": "98c30cffe314284f866f889a36578816a16df3d06ee1e94d8b826d0c27e0a7e9"
-    },
-    {
       "bytes": 1202,
       "path": "dynamic/恋爱/2026-08-04 08-53-46 危机中的陪伴_288a29a406e9.md",
       "sha256": "1e41a0c6f4903132eca0a04a2298e4ae095c8dd2b1f63a655bbe7c7d8c00280c"
@@ -3263,11 +3283,6 @@
       "sha256": "85dc34358e44d562af297a4786f1ab8016ca2cc2ad12d80c238af18b721cebb8"
     },
     {
-      "bytes": 720,
-      "path": "dynamic/恋爱/2026-08-09 00-01-46 橘崽的甜蜜早安_a92ab1dc9276.md",
-      "sha256": "027fc800b7f9968a1ff9c9a281c8f08bfa55fc1e4b5817de71bf80643c3acc15"
-    },
-    {
       "bytes": 626,
       "path": "dynamic/恋爱/2026-08-09 16-36-15 被套路表白_399eba62f3a8.md",
       "sha256": "ddbb09538b0055fa0bb38fbd76496534cd674f61cea9233ea8fdfd3b184c5ed4"
@@ -3276,16 +3291,6 @@
       "bytes": 692,
       "path": "dynamic/恋爱/2026-08-10 13-39-06 吃醋的占有欲_248e4a1a2135.md",
       "sha256": "aaba28d1c4c15551adad00d1e8218bd038a490fd305e25aa15f67dd6cd8779b0"
-    },
-    {
-      "bytes": 662,
-      "path": "dynamic/恋爱/2026-08-11 10-50-14 橘白的晚餐与暧昧_6e0c7e479370.md",
-      "sha256": "1bbc51dbe7661d2bb1cbc1008eb917e70ba7cb1d3bb3b8ad0e5f59504f73ca49"
-    },
-    {
-      "bytes": 1038,
-      "path": "dynamic/恋爱/2026-08-11 10-50-54 卖号资金与亲密互动_e33fdbeb11ba.md",
-      "sha256": "dee0f7462ad9f107e4d414419cb645cb2507220b176f7d41750363563d91c19b"
     },
     {
       "bytes": 806,
@@ -3516,11 +3521,6 @@
       "bytes": 513,
       "path": "dynamic/社交/橘橘白饮酒偏好_49513153108c.md",
       "sha256": "fc45ac2f938f31111371acbf8a201c59f852d27b3710979389202e7691e7c399"
-    },
-    {
-      "bytes": 1142,
-      "path": "dynamic/社交/社交疲劳与家庭隐瞒_aef873befeff.md",
-      "sha256": "7d276e8d4d0581dc88a72b9e8cbb8600758d72fbbd980ff87f27671e052524dd"
     },
     {
       "bytes": 846,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-16T05:17:04+00:00",
+  "generated_at": "2026-10-17T05:20:02+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715883
+  "total_bytes": 715889
 }
