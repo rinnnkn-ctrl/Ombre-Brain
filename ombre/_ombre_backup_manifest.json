@@ -2713,6 +2713,11 @@
       "sha256": "7da62da5d3ff968c63e358279ccbd688eebaa0f762ad2c1df634763f8cec77d2"
     },
     {
+      "bytes": 514,
+      "path": "archive/社交/橘橘白饮酒偏好_49513153108c.md",
+      "sha256": "8329e4759ddc39256bf7419c66f3b8091b5b03153fea9f2d20b0ba2163263cae"
+    },
+    {
       "bytes": 480,
       "path": "archive/社交/江橘白cos澄清_5406881d347b.md",
       "sha256": "2f3f63c3ad6827105a8667c446167dae012d41b21dc40b6b54eb3692ca46f460"
@@ -3516,11 +3521,6 @@
       "bytes": 566,
       "path": "dynamic/社交/开新窗暗号_340b4a2904c8.md",
       "sha256": "3e2c0dad30647d5cbfab2b2eaa71bba086d789b464d01c084347d9c77ab9ed7a"
-    },
-    {
-      "bytes": 513,
-      "path": "dynamic/社交/橘橘白饮酒偏好_49513153108c.md",
-      "sha256": "fc45ac2f938f31111371acbf8a201c59f852d27b3710979389202e7691e7c399"
     },
     {
       "bytes": 846,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-18T05:23:03+00:00",
+  "generated_at": "2026-10-19T05:25:21+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715894
+  "total_bytes": 715895
 }
