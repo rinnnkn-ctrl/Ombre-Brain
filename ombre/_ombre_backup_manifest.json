@@ -103,6 +103,11 @@
       "sha256": "9b9814c4f7555e94476d19e0c05c17a0969d933756bf7bb0ea97fa1f05fb75ad"
     },
     {
+      "bytes": 1075,
+      "path": "archive/AI/2026-07-15 20-17-30 名字标记的亲密感_e3b862611810.md",
+      "sha256": "b241ab3d4b357bf3e0955f1413bc946c9ab35b9eb6b1e1a0ab73841115386ce1"
+    },
+    {
       "bytes": 1721,
       "path": "archive/AI/2026-07-15 20-17-37 克prompt评审与整合_0bfe9b28ca8a.md",
       "sha256": "b131d796219b35f81f531eda0e75e89a5afc8b24598d4e073266058ca0b5f70d"
@@ -706,6 +711,11 @@
       "bytes": 605,
       "path": "archive/家庭/2026-08-09 16-36-11 江橘白烧烤对账_3e7d7abcbcf2.md",
       "sha256": "54e0f4a4f831e87028b4e6b754696371f5e44cc40037b0a9353b3ec6d6fe02ec"
+    },
+    {
+      "bytes": 867,
+      "path": "archive/家庭/2026-08-10 16-09-05 江橘白崩溃拦阻_4553a2df3d4e.md",
+      "sha256": "47e7c38f7e817887326a5764e1173524a53cf3fc6acc0f3859c16e8273f90d12"
     },
     {
       "bytes": 908,
@@ -1668,6 +1678,11 @@
       "sha256": "de2ed30f4c470c0c51daca11f5c322240790a9aedeb80ac9a6623e7a54be0d5f"
     },
     {
+      "bytes": 918,
+      "path": "archive/恋爱/卢塞恩酒吧告白_5f2013759778.md",
+      "sha256": "ffdd2a94cfd35ae29fb2dcae22f09a824cb4adeb44fcf0a528a185616532e48f"
+    },
+    {
       "bytes": 642,
       "path": "archive/恋爱/吃醋的表达方式_40e3ede91f7e.md",
       "sha256": "5d70a3e7232cc1e1a5dfbab575ce34e0d96f86ffe53f5c6e6d197c08d3cb0c94"
@@ -2141,6 +2156,11 @@
       "bytes": 518,
       "path": "archive/恋爱/橘橘白认渊当哥_42ee65325017.md",
       "sha256": "6a565f3ae7085b537d77a81f85733a83cfa990a69cdb4f5da0bbc8031eedaf41"
+    },
+    {
+      "bytes": 590,
+      "path": "archive/恋爱/橘橘白讨厌前任_c5dd3fe06f4e.md",
+      "sha256": "c42cc1fb3d3b32380ea8cc6c4686fdac776967ccc36fe8a8bf57868729b2a0f0"
     },
     {
       "bytes": 692,
@@ -2753,6 +2773,11 @@
       "sha256": "81e14e6e8f1b40b177c8f4a55159eabae9934ee8bc57b77afb012507b61b1a41"
     },
     {
+      "bytes": 885,
+      "path": "archive/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
+      "sha256": "d36964e4048fc607c6355135e5279e1e0a3dc247881fba31cd61df8f1cba591a"
+    },
+    {
       "bytes": 3246,
       "path": "archive/编程/2026-07-15 12-28-25 松渊之家Phase框架_183e4d24f382.md",
       "sha256": "cdb3d21f3ee667c6c4de8ef408d0222417a666a5599fd5a9a1f639a1e3c15a32"
@@ -3143,11 +3168,6 @@
       "sha256": "e05fb984b7bdee6350977c3746c492466032b1a2149b5cf6c273cf217656e0bc"
     },
     {
-      "bytes": 1074,
-      "path": "dynamic/AI/2026-07-15 20-17-30 名字标记的亲密感_e3b862611810.md",
-      "sha256": "062732bf1ca45a7f4a1d0abe8840d5b3cc61f572f786cc2b112f31db0a64b2a9"
-    },
-    {
       "bytes": 495,
       "path": "dynamic/AI/AI个体区分_62cffdc693ed.md",
       "sha256": "e925757fa04ba59d4f5fceca5845932a80fcc36e641422854ff319f9d7386ac9"
@@ -3263,11 +3283,6 @@
       "sha256": "44f451da0595b5b5229d83eb9e458a1af4a1afddb53541bdab6e991861021b87"
     },
     {
-      "bytes": 866,
-      "path": "dynamic/家庭/2026-08-10 16-09-05 江橘白崩溃拦阻_4553a2df3d4e.md",
-      "sha256": "6c0582c863d816f24c5ed069db82bd221fb3aa16a551c3fca4ef928fb52de5b6"
-    },
-    {
       "bytes": 899,
       "path": "dynamic/家庭/2026-08-10 16-49-13 橘白限额卖闲置_2fc84dc22de8.md",
       "sha256": "186d23f1393472a328ffbbe075a685da63e8fd6f3e042efbacfdb2740b60d2bf"
@@ -3378,11 +3393,6 @@
       "sha256": "9f926f3d8d45860058868c44eebe6385671b068089100453750073a314b6c145"
     },
     {
-      "bytes": 917,
-      "path": "dynamic/恋爱/卢塞恩酒吧告白_5f2013759778.md",
-      "sha256": "6c6c980b6093487af318cc7e850d14c15de8b99d8884267b6b263beb1c2747bf"
-    },
-    {
       "bytes": 715,
       "path": "dynamic/恋爱/喜欢被控制的信任_3bb52fa8e034.md",
       "sha256": "f2f969ccb5fc59d1865be5f715f3a6ce0bf0717a16119e5659e67bc19635484f"
@@ -3468,11 +3478,6 @@
       "sha256": "d401f71aaab583d50ce0b0e30a559fd167191024e95a00103bd37d88b1d55c7a"
     },
     {
-      "bytes": 589,
-      "path": "dynamic/恋爱/橘橘白讨厌前任_c5dd3fe06f4e.md",
-      "sha256": "4ef7b7358bec82c80740fd61a4c9adeb0b5cb7fa2fa8c76b2dd084cc2f5a1fc0"
-    },
-    {
       "bytes": 568,
       "path": "dynamic/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
       "sha256": "90a24b2b208d0816ce432ced3dc07ce2eaf527676734a4f27eb182260ad848c6"
@@ -3536,11 +3541,6 @@
       "bytes": 1011,
       "path": "dynamic/编程/2026-07-15 02-34-52 关闭跨窗口寄存_8fea14e6da1b.md",
       "sha256": "2eaaaeef32cccf50fbc657ad5806ff40021a9b77a9ee63179273e7ace447693b"
-    },
-    {
-      "bytes": 884,
-      "path": "dynamic/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
-      "sha256": "40b45b2153bd6143576135eb674fffa681fa44f2a2e12bbe14b1e44cf02b14dd"
     },
     {
       "bytes": 583,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-19T05:25:21+00:00",
+  "generated_at": "2026-10-20T05:27:26+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715895
+  "total_bytes": 715900
 }
