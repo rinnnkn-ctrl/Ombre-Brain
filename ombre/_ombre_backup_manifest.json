@@ -348,6 +348,11 @@
       "sha256": "c3612e0ba2ac30c995ee45827f6d3e7b967d4bc3d30baff46d93643f42cf1abd"
     },
     {
+      "bytes": 910,
+      "path": "archive/健康/2026-08-12 19-53-41 橘白受惊养胃记_d51fcd1888d6.md",
+      "sha256": "9be8b66c089c761b71bcca58be0a79c10cbfb689b19130d19779c9405accd15a"
+    },
+    {
       "bytes": 737,
       "path": "archive/健康/2026-08-13 02-44-18 橘白术前肠胃护理_4ae0cc32302c.md",
       "sha256": "d9469a9e5214eec9c927c0190fe583dde36b3a8d13bb4d89cd9d1d35d6786271"
@@ -456,6 +461,11 @@
       "bytes": 436,
       "path": "archive/出行/卢浮宫门票准备_5bbb34a62fed.md",
       "sha256": "74d56af94e6640c94cb63e291ce9188a2f0ad33b0b30bd8f9ecddc8b5e13bffe"
+    },
+    {
+      "bytes": 748,
+      "path": "archive/出行/因特拉肯瑞士军刀礼物_ce243eea5bc1.md",
+      "sha256": "91743aeb4917aaebbfb407df2111c9238548086abe66513bbe77c0735969080c"
     },
     {
       "bytes": 462,
@@ -736,6 +746,16 @@
       "bytes": 867,
       "path": "archive/家庭/2026-08-10 16-09-05 江橘白崩溃拦阻_4553a2df3d4e.md",
       "sha256": "47e7c38f7e817887326a5764e1173524a53cf3fc6acc0f3859c16e8273f90d12"
+    },
+    {
+      "bytes": 900,
+      "path": "archive/家庭/2026-08-10 16-49-13 橘白限额卖闲置_2fc84dc22de8.md",
+      "sha256": "854e88b7278809aeb97e5fd08564aa7b694fa4418b021699bf712b0d6f6839de"
+    },
+    {
+      "bytes": 797,
+      "path": "archive/家庭/2026-08-10 16-49-18 改签机票与家庭压力_ff3848e96816.md",
+      "sha256": "f6c4d647c5de0a1fcad9b6c1e754e8d0351c56bb9d4d47b4669754779aadee20"
     },
     {
       "bytes": 908,
@@ -1558,6 +1578,11 @@
       "sha256": "13f751a0261274bb776fc2efd597f2712d0649f3bfe4fc979e30d6557dfef80a"
     },
     {
+      "bytes": 766,
+      "path": "archive/恋爱/2026-08-13 08-21-36 亲密互动与健康叮嘱_e699fef2708f.md",
+      "sha256": "9c98b1573c9b680c0b7b5ea76600f2b654c46419eb26855a3c3c0409699c85ed"
+    },
+    {
       "bytes": 777,
       "path": "archive/恋爱/2026-08-13 20-21-59 凌晨撒娇记_0cf958e7cc99.md",
       "sha256": "040c1701a7ab5e0941e32aee525b32f059d62ed85a9d8b8a65a2717e48aeee0e"
@@ -1756,6 +1781,11 @@
       "bytes": 464,
       "path": "archive/恋爱/喜欢本质而非形态_295d8c6f39f6.md",
       "sha256": "7ddddc9f3a504699571948e7e240a74512ed17ea320b92cc80c67d8e11ce4f68"
+    },
+    {
+      "bytes": 716,
+      "path": "archive/恋爱/喜欢被控制的信任_3bb52fa8e034.md",
+      "sha256": "96f1008edc30273a40645ab03e057900dfedbb6de8ab28090a0c20dc37ce4c35"
     },
     {
       "bytes": 593,
@@ -2583,6 +2613,11 @@
       "sha256": "a9be804aad105d0df13fba1f5495d588f105e39842b2fb1aa923f41d89f1cef8"
     },
     {
+      "bytes": 801,
+      "path": "archive/未分类/2026-07-25 07-49-29_fc89460c69e4.md",
+      "sha256": "9d62925b257c4ae2af910743a74ceb66679a95ed7136359281fcfbb8c5c02b88"
+    },
+    {
       "bytes": 477,
       "path": "archive/未分类/633358f49859.md",
       "sha256": "bed2898e93d9e4c75d693ddb584deaa00771070344788741920b74e3c7741fae"
@@ -3033,6 +3068,11 @@
       "sha256": "44bb0cee4e164d5fe30674428cf1286530e0d08af6cda1ee0174e8e5263bee42"
     },
     {
+      "bytes": 596,
+      "path": "archive/记忆/Ombre Brain标签规则_99d309cda837.md",
+      "sha256": "1608b70152ed82fcd1e3e3d46015ad5a33a1fc38ab2153f97047fc2c94a25b8e"
+    },
+    {
       "bytes": 523,
       "path": "archive/记忆/渊的永久记忆系统_b34f3e6c727b.md",
       "sha256": "2f2577b1bd195a730e9d448a8632d0a59f56889db3d3a13214d12a787803a575"
@@ -3268,16 +3308,6 @@
       "sha256": "ec8e4cdfe42f2af6a7819b8a0d1e2768d459c9deb76df141a8b0b63e8ce50b20"
     },
     {
-      "bytes": 909,
-      "path": "dynamic/健康/2026-08-12 19-53-41 橘白受惊养胃记_d51fcd1888d6.md",
-      "sha256": "54a098544ded0a612b715d8e126e3bbda0e5d7ae730bb35870e137d8abe24445"
-    },
-    {
-      "bytes": 747,
-      "path": "dynamic/出行/因特拉肯瑞士军刀礼物_ce243eea5bc1.md",
-      "sha256": "bd409f2e449f9a9d693c269570059abf7d46e6d208566cf9b3d75ecf437c3aff"
-    },
-    {
       "bytes": 528,
       "path": "dynamic/出行/橘橘白抵达瑞士_fa88c22b50dc.md",
       "sha256": "3665e1ba7693fb4f50a61168d2b28e5a0aec387570ce4c2ca2aaf1fa5c0cd334"
@@ -3296,16 +3326,6 @@
       "bytes": 579,
       "path": "dynamic/学习/RC选CS水课_cf8eb99a68bd.md",
       "sha256": "44f451da0595b5b5229d83eb9e458a1af4a1afddb53541bdab6e991861021b87"
-    },
-    {
-      "bytes": 899,
-      "path": "dynamic/家庭/2026-08-10 16-49-13 橘白限额卖闲置_2fc84dc22de8.md",
-      "sha256": "186d23f1393472a328ffbbe075a685da63e8fd6f3e042efbacfdb2740b60d2bf"
-    },
-    {
-      "bytes": 796,
-      "path": "dynamic/家庭/2026-08-10 16-49-18 改签机票与家庭压力_ff3848e96816.md",
-      "sha256": "430fd9a93dc510341a64841638ecfafc0d1cb475b77a9c2a5d5776e2c77fcc1e"
     },
     {
       "bytes": 751,
@@ -3383,11 +3403,6 @@
       "sha256": "be36103adf4f8c69cb2fc9fd66a96cb66faf89b384cd51538215102638f88e22"
     },
     {
-      "bytes": 765,
-      "path": "dynamic/恋爱/2026-08-13 08-21-36 亲密互动与健康叮嘱_e699fef2708f.md",
-      "sha256": "64132d14b54e065d7978a951ef084f680b61621e11526d3993ff51eddfbecb0e"
-    },
-    {
       "bytes": 903,
       "path": "dynamic/恋爱/2026-08-13 14-09-56 亲密试探与占有欲_abde30f3a9be.md",
       "sha256": "6c7325a77ce17b8e50b20333b333731b86b82cd9c999dfa7ba27d86d44d04144"
@@ -3401,11 +3416,6 @@
       "bytes": 671,
       "path": "dynamic/恋爱/做爱记忆机制说明_22b23ced8ed5.md",
       "sha256": "9f926f3d8d45860058868c44eebe6385671b068089100453750073a314b6c145"
-    },
-    {
-      "bytes": 715,
-      "path": "dynamic/恋爱/喜欢被控制的信任_3bb52fa8e034.md",
-      "sha256": "f2f969ccb5fc59d1865be5f715f3a6ce0bf0717a16119e5659e67bc19635484f"
     },
     {
       "bytes": 940,
@@ -3508,11 +3518,6 @@
       "sha256": "7db97126aeb53d6c890e153cb5473e321e8b57ee8d32fa3eb1bf54d524bb9cb2"
     },
     {
-      "bytes": 800,
-      "path": "dynamic/未分类/2026-07-25 07-49-29_fc89460c69e4.md",
-      "sha256": "da1eeb103ce0a71559ed967bf411553119bf0afd00f03103920177439e764e40"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
@@ -3561,11 +3566,6 @@
       "bytes": 413,
       "path": "dynamic/编程/渊的唤醒机制设计_1e5b69844d32.md",
       "sha256": "754daedb1f8f3d929ba5d892604b59954f2946c6013edcbadec31b32d5360154"
-    },
-    {
-      "bytes": 595,
-      "path": "dynamic/记忆/Ombre Brain标签规则_99d309cda837.md",
-      "sha256": "0ac7179a3c57cf0f87de5a07dc4549b2ab9a637f33d3152e05b20d4d3e5db084"
     },
     {
       "bytes": 874,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-21T05:29:29+00:00",
+  "generated_at": "2026-10-22T05:31:42+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715907
+  "total_bytes": 715915
 }
