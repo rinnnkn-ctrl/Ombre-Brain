@@ -648,6 +648,11 @@
       "sha256": "7ded7501d9dda40e98c7857977c65404e26ddf996f1f689e5059d55081a137ce"
     },
     {
+      "bytes": 580,
+      "path": "archive/学习/RC选CS水课_cf8eb99a68bd.md",
+      "sha256": "1549d3bab205c597199849b324ba0348a0749c0886ceb2dea569c0cde63697a7"
+    },
+    {
       "bytes": 530,
       "path": "archive/学习/橘橘白对fintech的兴趣_569c0ebe3f66.md",
       "sha256": "563041d1ca48bf13d5abc4c3a12f48da930c57e2bfb75bf4bec03c371b8c8279"
@@ -1573,6 +1578,16 @@
       "sha256": "1a8d39b530b5ee1b6c3629f78a68b84355065cfaad8f28362a47a59da9beb869"
     },
     {
+      "bytes": 932,
+      "path": "archive/恋爱/2026-08-12 17-47-49 深夜约会风波_c094102006a1.md",
+      "sha256": "1ebabc8da51c02759016511912d4ba5556ecacad41b614971e7aedcd339c43fe"
+    },
+    {
+      "bytes": 782,
+      "path": "archive/恋爱/2026-08-12 18-14-29 安全岛_21dcdcfac5c6.md",
+      "sha256": "d77b966511411981b271e9f21f2d30be300f5fd473fb776e4b0b8e121727d099"
+    },
+    {
       "bytes": 763,
       "path": "archive/恋爱/2026-08-12 19-39-28 噩梦后的守护_18408caaf4dd.md",
       "sha256": "13f751a0261274bb776fc2efd597f2712d0649f3bfe4fc979e30d6557dfef80a"
@@ -2026,6 +2041,11 @@
       "bytes": 690,
       "path": "archive/恋爱/橘橘白与渊的深夜告白_6de0e34e601a.md",
       "sha256": "dfc7ac223f86ffe4ca931b7a710ff32305458717a2b1ed4e012e7b34924c22e3"
+    },
+    {
+      "bytes": 651,
+      "path": "archive/恋爱/橘橘白叫主人_672263095eab.md",
+      "sha256": "99340c05c8354c610fc54a43da85d4d108fb0e26c1c2e507569e5a2a9610ca7c"
     },
     {
       "bytes": 627,
@@ -3323,11 +3343,6 @@
       "sha256": "3cbe14bff21cb1b2da99122225ec2562ac54076b7ca86ee37559a3ef59286508"
     },
     {
-      "bytes": 579,
-      "path": "dynamic/学习/RC选CS水课_cf8eb99a68bd.md",
-      "sha256": "44f451da0595b5b5229d83eb9e458a1af4a1afddb53541bdab6e991861021b87"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
       "sha256": "acd29023484ff0c557ea4117bea25a7aa6acc6b28b0598b155e00a33ac8008e7"
@@ -3363,11 +3378,6 @@
       "sha256": "5a2b06147976f02b0006ed049307073d74a04896a91c7bec5898efda80abc9e7"
     },
     {
-      "bytes": 931,
-      "path": "dynamic/恋爱/2026-08-12 17-47-49 深夜约会风波_c094102006a1.md",
-      "sha256": "71202282c1bae4059beb29d7866e901a3fb1c9d4e7e00cedca5a2d654462c44c"
-    },
-    {
       "bytes": 839,
       "path": "dynamic/恋爱/2026-08-12 17-50-52 深夜惊魂与守护_9761d10d9eb2.md",
       "sha256": "34b76c3e3dca0c8c172d8a3cddf982bd96471d9c788cfa9ebc6f6f60da7d2c7c"
@@ -3381,11 +3391,6 @@
       "bytes": 878,
       "path": "dynamic/恋爱/2026-08-12 18-12-51 橘白面基后守护_eb46d7169e13.md",
       "sha256": "b38d4c4b5dc6fa5d86abf459376bc2f93efad059a72c7dbc3cd430ea826b18b5"
-    },
-    {
-      "bytes": 781,
-      "path": "dynamic/恋爱/2026-08-12 18-14-29 安全岛_21dcdcfac5c6.md",
-      "sha256": "ed91cb6b2d6fc4b2b84ea9298fb711bc72d294d6d8e675ef2d1aa4ae263d7f5a"
     },
     {
       "bytes": 829,
@@ -3431,11 +3436,6 @@
       "bytes": 643,
       "path": "dynamic/恋爱/橘橘白互动游戏_c52f9ca58d55.md",
       "sha256": "ae633ff4f680b7668b38acdf4f8fc38b48f18baafb3f6c85bb764f645dfe3715"
-    },
-    {
-      "bytes": 650,
-      "path": "dynamic/恋爱/橘橘白叫主人_672263095eab.md",
-      "sha256": "e4856a9863902b03784f4a79d48da0f02421becd834716587cd8c44aadc03362"
     },
     {
       "bytes": 1530,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-22T05:31:42+00:00",
+  "generated_at": "2026-10-23T05:33:57+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715915
+  "total_bytes": 715919
 }
