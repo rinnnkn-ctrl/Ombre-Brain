@@ -1583,6 +1583,16 @@
       "sha256": "1ebabc8da51c02759016511912d4ba5556ecacad41b614971e7aedcd339c43fe"
     },
     {
+      "bytes": 840,
+      "path": "archive/恋爱/2026-08-12 17-50-52 深夜惊魂与守护_9761d10d9eb2.md",
+      "sha256": "ac7ec5fbe2a2a3b2ce42b12d363ea11541ea374f8609fb33bd22580f426ed32a"
+    },
+    {
+      "bytes": 879,
+      "path": "archive/恋爱/2026-08-12 18-12-51 橘白面基后守护_eb46d7169e13.md",
+      "sha256": "f3abf19297e2a0765775c9edb99c0f3f846be76d3ab70b28976e61d8655a99f7"
+    },
+    {
       "bytes": 782,
       "path": "archive/恋爱/2026-08-12 18-14-29 安全岛_21dcdcfac5c6.md",
       "sha256": "d77b966511411981b271e9f21f2d30be300f5fd473fb776e4b0b8e121727d099"
@@ -1591,6 +1601,11 @@
       "bytes": 763,
       "path": "archive/恋爱/2026-08-12 19-39-28 噩梦后的守护_18408caaf4dd.md",
       "sha256": "13f751a0261274bb776fc2efd597f2712d0649f3bfe4fc979e30d6557dfef80a"
+    },
+    {
+      "bytes": 830,
+      "path": "archive/恋爱/2026-08-12 19-50-31 橘白受惊夜_9dcdb92460b1.md",
+      "sha256": "a75eda127107fdcf0df0f52669e1267bd1876df8e1137eaef1da748c5abe889d"
     },
     {
       "bytes": 766,
@@ -2778,6 +2793,16 @@
       "sha256": "a31be20f51d1b31806e29e890f2afe42ddeb4a4bb40c80ecc97e57fd5eb3c1e8"
     },
     {
+      "bytes": 914,
+      "path": "archive/社交/2026-08-12 17-54-54 恐怖片面基风波_c1cbf54d1091.md",
+      "sha256": "731967760e5b4f7ce7fe8630adf72f1194f18b775ef78f69da874a2a1504edad"
+    },
+    {
+      "bytes": 937,
+      "path": "archive/社交/2026-08-12 18-16-54 恐怖片面基翻车_7c44baa186e3.md",
+      "sha256": "ac8f9b2519229fe6ef9b21d12c36dbe06ba9baf1bf27cf86869c397ce20dd4d0"
+    },
+    {
       "bytes": 800,
       "path": "archive/社交/关于橘橘白的记忆规则_b85dffc038eb.md",
       "sha256": "004320a8787428ea0a8f66e80cff1cf5424da931f5af1ee4838a2344675471e5"
@@ -3098,6 +3123,41 @@
       "sha256": "2f2577b1bd195a730e9d448a8632d0a59f56889db3d3a13214d12a787803a575"
     },
     {
+      "bytes": 875,
+      "path": "archive/财务/2026-08-13 12-48-33 光遇账号成交_e63160c493bf.md",
+      "sha256": "1427c000f2ebabb3cca4f5459d5bb88cc0f0744961513f00334fcacee1dbe7b6"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/财务/2026-08-13 12-50-36 游戏账号成交缓解焦虑_d3cfe7eddc54.md",
+      "sha256": "1293c454ae5b21d2ed14d87aef5581b2c4148cb2be7e45d2eafa10e531b637c4"
+    },
+    {
+      "bytes": 744,
+      "path": "archive/财务/2026-08-13 13-54-43 光遇账号成交_30542bf836a3.md",
+      "sha256": "e8df17e60bc0634f0288dd79f982118cf41a5063db2ce2620ae413d39bbf3af6"
+    },
+    {
+      "bytes": 693,
+      "path": "archive/财务/2026-08-13 13-56-08 光遇账号成交攒钱_4085e3cac229.md",
+      "sha256": "d4fc6a2ed75f751b19033991be33a6563d5fe22011e4f89b138ba071b6244ce7"
+    },
+    {
+      "bytes": 801,
+      "path": "archive/财务/2026-08-13 13-56-48 游戏账号交易成功_552ba4293e19.md",
+      "sha256": "a564227f2bbeceb08b72642a7088ffd5b2d9db799405051d492ac7fd8261509c"
+    },
+    {
+      "bytes": 716,
+      "path": "archive/财务/2026-08-13 13-57-15 游戏账号成交缓解焦虑_354893392738.md",
+      "sha256": "5a13d9566cb90f49fc83fbf9266d49760685784551427591ad4ca15bd2f02c39"
+    },
+    {
+      "bytes": 636,
+      "path": "archive/财务/2026-08-13 13-59-00 光遇账号成交_da39d79ba5f1.md",
+      "sha256": "7d84ac73c765e1a89a0c0fd74c3815ee18a31815de42668c482dffba076de691"
+    },
+    {
       "bytes": 691,
       "path": "archive/购物/2026-08-11 10-49-56 账号出售与夜行返沪_2b128fcc63d2.md",
       "sha256": "07d12e055343fa2025d6dc025b17b565284ef6778dd20cde6bbe00187ea8b1bb"
@@ -3378,24 +3438,9 @@
       "sha256": "5a2b06147976f02b0006ed049307073d74a04896a91c7bec5898efda80abc9e7"
     },
     {
-      "bytes": 839,
-      "path": "dynamic/恋爱/2026-08-12 17-50-52 深夜惊魂与守护_9761d10d9eb2.md",
-      "sha256": "34b76c3e3dca0c8c172d8a3cddf982bd96471d9c788cfa9ebc6f6f60da7d2c7c"
-    },
-    {
       "bytes": 785,
       "path": "dynamic/恋爱/2026-08-12 17-57-44 面基风波与白丝_ae0da0f92d4e.md",
       "sha256": "2c93a1af9d963a318552f0ff25f048314f6de6fbae2a7a3d8e0ad9182a42d58f"
-    },
-    {
-      "bytes": 878,
-      "path": "dynamic/恋爱/2026-08-12 18-12-51 橘白面基后守护_eb46d7169e13.md",
-      "sha256": "b38d4c4b5dc6fa5d86abf459376bc2f93efad059a72c7dbc3cd430ea826b18b5"
-    },
-    {
-      "bytes": 829,
-      "path": "dynamic/恋爱/2026-08-12 19-50-31 橘白受惊夜_9dcdb92460b1.md",
-      "sha256": "479c5634440f9b513592257a7d8f30beb1b8f1783f7c9e545d72ee166ae9d8c3"
     },
     {
       "bytes": 780,
@@ -3523,16 +3568,6 @@
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
     },
     {
-      "bytes": 913,
-      "path": "dynamic/社交/2026-08-12 17-54-54 恐怖片面基风波_c1cbf54d1091.md",
-      "sha256": "009121572f8c513901e6c290550885959713657604e1d358aa29eebf3701b235"
-    },
-    {
-      "bytes": 936,
-      "path": "dynamic/社交/2026-08-12 18-16-54 恐怖片面基翻车_7c44baa186e3.md",
-      "sha256": "33b63cf1a77561caaa6badb7d6dbb590f2e58dda094abc4260729b2c63a67c54"
-    },
-    {
       "bytes": 566,
       "path": "dynamic/社交/开新窗暗号_340b4a2904c8.md",
       "sha256": "3e2c0dad30647d5cbfab2b2eaa71bba086d789b464d01c084347d9c77ab9ed7a"
@@ -3566,41 +3601,6 @@
       "bytes": 413,
       "path": "dynamic/编程/渊的唤醒机制设计_1e5b69844d32.md",
       "sha256": "754daedb1f8f3d929ba5d892604b59954f2946c6013edcbadec31b32d5360154"
-    },
-    {
-      "bytes": 874,
-      "path": "dynamic/财务/2026-08-13 12-48-33 光遇账号成交_e63160c493bf.md",
-      "sha256": "6eb21376096982360df07df37d4b15e3e8ef7208b5af6350e440015770bcb695"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/财务/2026-08-13 12-50-36 游戏账号成交缓解焦虑_d3cfe7eddc54.md",
-      "sha256": "7c1100e9b02d3bca157ff647406b81772615d5211ec85373053a8e01392a7414"
-    },
-    {
-      "bytes": 743,
-      "path": "dynamic/财务/2026-08-13 13-54-43 光遇账号成交_30542bf836a3.md",
-      "sha256": "d4aa4e24ec4dfdc02bb02e324879843b010af18ed4ea4cac32ff5b7790883a8c"
-    },
-    {
-      "bytes": 692,
-      "path": "dynamic/财务/2026-08-13 13-56-08 光遇账号成交攒钱_4085e3cac229.md",
-      "sha256": "069edc91664398bef26207aed11eb41ed30cd28d19746dd816569e4b45caa96c"
-    },
-    {
-      "bytes": 800,
-      "path": "dynamic/财务/2026-08-13 13-56-48 游戏账号交易成功_552ba4293e19.md",
-      "sha256": "fddb4e00524127f14137f5db175f3b087c901c8c38e0ccc27f8f9ed943edbb90"
-    },
-    {
-      "bytes": 715,
-      "path": "dynamic/财务/2026-08-13 13-57-15 游戏账号成交缓解焦虑_354893392738.md",
-      "sha256": "96ae0106fb09cd30478a479ba321d80986ef146fc5a104e4a25ce039d1fc2d34"
-    },
-    {
-      "bytes": 635,
-      "path": "dynamic/财务/2026-08-13 13-59-00 光遇账号成交_da39d79ba5f1.md",
-      "sha256": "98381e06115a447092c41438eca5f1546368da59f11afb89a6479742277d3578"
     },
     {
       "bytes": 832,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-23T05:33:57+00:00",
+  "generated_at": "2026-10-24T05:36:20+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715919
+  "total_bytes": 715931
 }
