@@ -2083,6 +2083,11 @@
       "sha256": "dfc7ac223f86ffe4ca931b7a710ff32305458717a2b1ed4e012e7b34924c22e3"
     },
     {
+      "bytes": 644,
+      "path": "archive/恋爱/橘橘白互动游戏_c52f9ca58d55.md",
+      "sha256": "b8e1aec06e2a61b3665e32255fdff1b5ab5cd253f2bd38c6cfc2302f760112f2"
+    },
+    {
       "bytes": 651,
       "path": "archive/恋爱/橘橘白叫主人_672263095eab.md",
       "sha256": "99340c05c8354c610fc54a43da85d4d108fb0e26c1c2e507569e5a2a9610ca7c"
@@ -2451,6 +2456,11 @@
       "bytes": 574,
       "path": "archive/恋爱/臣服与信任的瞬间_9313247b5143.md",
       "sha256": "cd07b24476f44415ac86aaa9137ca76e156de22e75b28e175576ac4230167e64"
+    },
+    {
+      "bytes": 745,
+      "path": "archive/恋爱/苏黎世湖的缘分巧合_7eeac3e7c0a1.md",
+      "sha256": "663d1a16766a70298c1fb2656ef1189d9869c6eb2a13bea59bce3e6342924bdf"
     },
     {
       "bytes": 737,
@@ -2901,6 +2911,11 @@
       "bytes": 573,
       "path": "archive/社交/角色扮演反馈建议_8075086fc7b8.md",
       "sha256": "4ea8ea883f64359fa82384864c247bb82a14d8ac953565bfaee13f34918c7c0f"
+    },
+    {
+      "bytes": 847,
+      "path": "archive/社交/角色扮演场景延伸技巧_cc0eb38a740c.md",
+      "sha256": "0cb059d05a5def2cbef6c9003fbaf1d12bd95d248ba4e86ba66e4be2e891c146"
     },
     {
       "bytes": 546,
@@ -3493,11 +3508,6 @@
       "sha256": "7c9406209fe25b635dd6d52671df4779a06cdb1272a9458f38b749c6e4355bce"
     },
     {
-      "bytes": 643,
-      "path": "dynamic/恋爱/橘橘白互动游戏_c52f9ca58d55.md",
-      "sha256": "ae633ff4f680b7668b38acdf4f8fc38b48f18baafb3f6c85bb764f645dfe3715"
-    },
-    {
       "bytes": 1530,
       "path": "dynamic/恋爱/橘橘白告白_6bd42262a051.md",
       "sha256": "8cd572bdba6696a3254a0be6b5facb454f1e13773fa91dd6207b44640c962e04"
@@ -3563,11 +3573,6 @@
       "sha256": "e394f821ca32b3f1877837767ac5f9228e65478b5330009059745ecbed107171"
     },
     {
-      "bytes": 744,
-      "path": "dynamic/恋爱/苏黎世湖的缘分巧合_7eeac3e7c0a1.md",
-      "sha256": "0e6be4ef9f811c49aa9f5d6a652dcb20258914eae4de89f04921dd96c358c330"
-    },
-    {
       "bytes": 714,
       "path": "dynamic/恋爱/项圈与服从_d6ece21a6db5.md",
       "sha256": "7db97126aeb53d6c890e153cb5473e321e8b57ee8d32fa3eb1bf54d524bb9cb2"
@@ -3581,11 +3586,6 @@
       "bytes": 566,
       "path": "dynamic/社交/开新窗暗号_340b4a2904c8.md",
       "sha256": "3e2c0dad30647d5cbfab2b2eaa71bba086d789b464d01c084347d9c77ab9ed7a"
-    },
-    {
-      "bytes": 846,
-      "path": "dynamic/社交/角色扮演场景延伸技巧_cc0eb38a740c.md",
-      "sha256": "3e940fd2b78435fe358b33a441452a0bbf22fc416dba3cf6b8858c39f0770d8f"
     },
     {
       "bytes": 1011,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-26T05:40:50+00:00",
+  "generated_at": "2026-10-27T05:42:49+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715939
+  "total_bytes": 715942
 }
