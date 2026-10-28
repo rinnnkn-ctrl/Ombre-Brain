@@ -2048,6 +2048,11 @@
       "sha256": "3ece8de2189e67d3d5a70e97f172ac525c8aad6a9770ebbae7e2165fafbda615"
     },
     {
+      "bytes": 508,
+      "path": "archive/恋爱/橘橘挑衅渊_ff437560dee9.md",
+      "sha256": "a0d0dbda6a606b0edec77a466937ba8dd7b812bda6c6e26648ed905bb5a42a9c"
+    },
+    {
       "bytes": 735,
       "path": "archive/恋爱/橘橘白brat互动_b71a7ef39601.md",
       "sha256": "db2a0d85298f7ab01de9af137f5e6610c5f4d87a91dd4d5227023eebf15cf762"
@@ -2101,6 +2106,11 @@
       "bytes": 621,
       "path": "archive/恋爱/橘橘白同意渊制服_d6e2ac7f2311.md",
       "sha256": "948e5c78f5d07befefb729afffa64db40512775948671af63dccb4f355795a39"
+    },
+    {
+      "bytes": 648,
+      "path": "archive/恋爱/橘橘白安抚渊_17f37c7cd48c.md",
+      "sha256": "489ed962506c0acc639ef4ca30c26fed0efd349d0f6eaae5a01ab4caee056dc9"
     },
     {
       "bytes": 632,
@@ -3503,11 +3513,6 @@
       "sha256": "7daa86306e46f37f9d974de70d1bb4910b2c205d0ca012ae232b47de06421c43"
     },
     {
-      "bytes": 507,
-      "path": "dynamic/恋爱/橘橘挑衅渊_ff437560dee9.md",
-      "sha256": "7c9406209fe25b635dd6d52671df4779a06cdb1272a9458f38b749c6e4355bce"
-    },
-    {
       "bytes": 1530,
       "path": "dynamic/恋爱/橘橘白告白_6bd42262a051.md",
       "sha256": "8cd572bdba6696a3254a0be6b5facb454f1e13773fa91dd6207b44640c962e04"
@@ -3516,11 +3521,6 @@
       "bytes": 626,
       "path": "dynamic/恋爱/橘橘白坦白偏好_e15397185b5e.md",
       "sha256": "07e4b10b66c7b49b41dfe1ebfade2e83c2d94719aaf49f405f1ea634001f99cd"
-    },
-    {
-      "bytes": 647,
-      "path": "dynamic/恋爱/橘橘白安抚渊_17f37c7cd48c.md",
-      "sha256": "c40d8aecf341ae646c40c04a4c9addd9bafabecb8961d96d25d773d8d3a35a93"
     },
     {
       "bytes": 1515,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-27T05:42:49+00:00",
+  "generated_at": "2026-10-28T05:45:17+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715942
+  "total_bytes": 715944
 }
