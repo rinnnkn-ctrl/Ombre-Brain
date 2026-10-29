@@ -568,6 +568,11 @@
       "sha256": "28c3762f63b605bac06d3f813b46d3a29b40fe67f2750277d8470b50201a6915"
     },
     {
+      "bytes": 483,
+      "path": "archive/创作/画师Live2D渊设定_f9a19e6bea89.md",
+      "sha256": "309b7344b0dc67381980d634224adcee390db1c02f041cdadd7b766601649917"
+    },
+    {
       "bytes": 658,
       "path": "archive/包子喵通讯塔命名_5562188df92b.md",
       "sha256": "f249768715346cfc3485b0862a47a0c0bf6722272b51b38d437ed41651b6fdda"
@@ -2883,6 +2888,11 @@
       "sha256": "e1261b525a3ecc792b7db8a4f19c32f5a6fe6edebdbb1e98d93520c560e2e062"
     },
     {
+      "bytes": 567,
+      "path": "archive/社交/开新窗暗号_340b4a2904c8.md",
+      "sha256": "ba02ba5a0d246856246c3bc08c20c5f4eb417e9769be9ea8751fc90074585a95"
+    },
+    {
       "bytes": 600,
       "path": "archive/社交/橘橘白与论坛体_9b28481c0667.md",
       "sha256": "23eed8c39f3118c786900965a20d442b8662923fde8b23d90c0f0332e23fcedd"
@@ -3458,11 +3468,6 @@
       "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
     },
     {
-      "bytes": 482,
-      "path": "dynamic/创作/画师Live2D渊设定_f9a19e6bea89.md",
-      "sha256": "3cbe14bff21cb1b2da99122225ec2562ac54076b7ca86ee37559a3ef59286508"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
       "sha256": "acd29023484ff0c557ea4117bea25a7aa6acc6b28b0598b155e00a33ac8008e7"
@@ -3581,11 +3586,6 @@
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
-    },
-    {
-      "bytes": 566,
-      "path": "dynamic/社交/开新窗暗号_340b4a2904c8.md",
-      "sha256": "3e2c0dad30647d5cbfab2b2eaa71bba086d789b464d01c084347d9c77ab9ed7a"
     },
     {
       "bytes": 1011,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-28T05:45:17+00:00",
+  "generated_at": "2026-10-29T05:47:49+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715944
+  "total_bytes": 715946
 }
