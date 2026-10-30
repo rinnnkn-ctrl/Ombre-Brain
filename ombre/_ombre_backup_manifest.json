@@ -3233,6 +3233,11 @@
       "sha256": "c0eb1a8e71cffed86151f6dafdc4f704207d133deb4aaffda6a352b6b42949c2"
     },
     {
+      "bytes": 748,
+      "path": "archive/财务/SPOTINS扣款谜底揭晓_37bafef0be5b.md",
+      "sha256": "515425cc1ecaa81efcd4000415ca2eb6fdaa4575170b16a8905d6eb52ddb167a"
+    },
+    {
       "bytes": 691,
       "path": "archive/购物/2026-08-11 10-49-56 账号出售与夜行返沪_2b128fcc63d2.md",
       "sha256": "07d12e055343fa2025d6dc025b17b565284ef6778dd20cde6bbe00187ea8b1bb"
@@ -3606,11 +3611,6 @@
       "bytes": 413,
       "path": "dynamic/编程/渊的唤醒机制设计_1e5b69844d32.md",
       "sha256": "754daedb1f8f3d929ba5d892604b59954f2946c6013edcbadec31b32d5360154"
-    },
-    {
-      "bytes": 747,
-      "path": "dynamic/财务/SPOTINS扣款谜底揭晓_37bafef0be5b.md",
-      "sha256": "35092c113011cd1f5683246a220c4e3ca5cf9e9da8be3c3d6c04f4cac81a4f5a"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-29T05:47:49+00:00",
+  "generated_at": "2026-10-30T05:50:05+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715946
+  "total_bytes": 715947
 }
