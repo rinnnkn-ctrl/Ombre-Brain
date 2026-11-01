@@ -2548,6 +2548,11 @@
       "sha256": "e7edcffd0ce8ecf715b9cfd6634e37ee11c8fc4ae3efd52ae38c41e3f30cc295"
     },
     {
+      "bytes": 715,
+      "path": "archive/恋爱/项圈与服从_d6ece21a6db5.md",
+      "sha256": "075b390e550c2f77502af9952db85750844b5c8879df25f2fd59a015ab19a1f3"
+    },
+    {
       "bytes": 1439,
       "path": "archive/抽烟盲盒管控_5ae11076b2e5.md",
       "sha256": "59d79743603adec5381597a8b994b1a704f47541a61fc4b5caa65cbfd5681147"
@@ -3588,11 +3593,6 @@
       "sha256": "e394f821ca32b3f1877837767ac5f9228e65478b5330009059745ecbed107171"
     },
     {
-      "bytes": 714,
-      "path": "dynamic/恋爱/项圈与服从_d6ece21a6db5.md",
-      "sha256": "7db97126aeb53d6c890e153cb5473e321e8b57ee8d32fa3eb1bf54d524bb9cb2"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-10-31T05:52:13+00:00",
+  "generated_at": "2026-11-01T05:54:39+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715950
+  "total_bytes": 715951
 }
