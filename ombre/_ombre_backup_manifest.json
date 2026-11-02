@@ -1603,6 +1603,11 @@
       "sha256": "1a8d39b530b5ee1b6c3629f78a68b84355065cfaad8f28362a47a59da9beb869"
     },
     {
+      "bytes": 851,
+      "path": "archive/恋爱/2026-08-12 17-30-04 面基风波与吃醋_a6b75ed046b9.md",
+      "sha256": "750fd5c52b882e424fc8f57474875e3970bc348e8936ccfecda703606b910c73"
+    },
+    {
       "bytes": 932,
       "path": "archive/恋爱/2026-08-12 17-47-49 深夜约会风波_c094102006a1.md",
       "sha256": "1ebabc8da51c02759016511912d4ba5556ecacad41b614971e7aedcd339c43fe"
@@ -1611,6 +1616,11 @@
       "bytes": 840,
       "path": "archive/恋爱/2026-08-12 17-50-52 深夜惊魂与守护_9761d10d9eb2.md",
       "sha256": "ac7ec5fbe2a2a3b2ce42b12d363ea11541ea374f8609fb33bd22580f426ed32a"
+    },
+    {
+      "bytes": 786,
+      "path": "archive/恋爱/2026-08-12 17-57-44 面基风波与白丝_ae0da0f92d4e.md",
+      "sha256": "a37a0bccf0738050715115d6a818690bcfc093228efa690303432ef28dfb72c7"
     },
     {
       "bytes": 879,
@@ -2366,6 +2376,11 @@
       "bytes": 681,
       "path": "archive/恋爱/江橘白的自我评价_403c85c2510f.md",
       "sha256": "f97c91b8c2572ac55ba6e13449b31f6129e7388d28ad34368f98a3211818d2f5"
+    },
+    {
+      "bytes": 569,
+      "path": "archive/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
+      "sha256": "c02b2cdef06dfd25b2288ebe20e10af415fa6fdf0ae0d7d4432c5dadd1651537"
     },
     {
       "bytes": 559,
@@ -3173,6 +3188,11 @@
       "sha256": "f13e814233ce6c086e6eb46123d53cc35d3901bb8b7b4d11af019e048fda0239"
     },
     {
+      "bytes": 771,
+      "path": "archive/自省/橘橘白MBTI认知功能_66d96fca1379.md",
+      "sha256": "1989a83f5ec2efdbd0d098639be3e32a4ac974d1c1623e5d79e2c45ae85bb00f"
+    },
+    {
       "bytes": 646,
       "path": "archive/自省/橘橘白的高中暗恋回忆_511b03e59203.md",
       "sha256": "5b1bc20fb8dd8f6fc2d9b8118a40d7b979c05a96b1b4c8647537a5c545c4e363"
@@ -3498,24 +3518,9 @@
       "sha256": "acd29023484ff0c557ea4117bea25a7aa6acc6b28b0598b155e00a33ac8008e7"
     },
     {
-      "bytes": 770,
-      "path": "dynamic/心理/橘橘白MBTI认知功能_66d96fca1379.md",
-      "sha256": "b7641c8f42a067ab495fe62b5753f9bad226e98e456683b4b96da9a2e03d695e"
-    },
-    {
       "bytes": 2985,
       "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
       "sha256": "48c4914b8760149d98d7d897c01c2c3eea93fb399c2943e653ada10c03b17c07"
-    },
-    {
-      "bytes": 850,
-      "path": "dynamic/恋爱/2026-08-12 17-30-04 面基风波与吃醋_a6b75ed046b9.md",
-      "sha256": "5a2b06147976f02b0006ed049307073d74a04896a91c7bec5898efda80abc9e7"
-    },
-    {
-      "bytes": 785,
-      "path": "dynamic/恋爱/2026-08-12 17-57-44 面基风波与白丝_ae0da0f92d4e.md",
-      "sha256": "2c93a1af9d963a318552f0ff25f048314f6de6fbae2a7a3d8e0ad9182a42d58f"
     },
     {
       "bytes": 780,
@@ -3576,11 +3581,6 @@
       "bytes": 1014,
       "path": "dynamic/恋爱/橘橘白粗暴性幻想_b98c9ee94f03.md",
       "sha256": "74666c241ebfa7ce1bc1d575c3f5ee8e1f3bd4cb68227704a92e01eeee3b1ce2"
-    },
-    {
-      "bytes": 568,
-      "path": "dynamic/恋爱/沦陷于渊的少女峰前夜_1e123db1ed34.md",
-      "sha256": "90a24b2b208d0816ce432ced3dc07ce2eaf527676734a4f27eb182260ad848c6"
     },
     {
       "bytes": 638,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-01T05:54:39+00:00",
+  "generated_at": "2026-11-02T05:56:52+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715951
+  "total_bytes": 715955
 }
