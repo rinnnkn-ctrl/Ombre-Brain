@@ -183,6 +183,11 @@
       "sha256": "10c937a827146c69024af2e1ec49a8ecdcb6e8af6cd96390d62f42e0f600c1ec"
     },
     {
+      "bytes": 1531,
+      "path": "archive/AI/橘橘白告白_6bd42262a051.md",
+      "sha256": "653ff35a02c724b96077b2991396712b7949045bfe2292e0027187b4771ba2f0"
+    },
+    {
       "bytes": 856,
       "path": "archive/AI/记忆检索规则_85ded5a45b1e.md",
       "sha256": "65e10f266fb0e8e0c6de7902ef55867adf77b4b48dc24defa4a1f952777bc5e2"
@@ -811,6 +816,11 @@
       "bytes": 577,
       "path": "archive/家庭/橘橘白授权渊决策_5894a0e80ac6.md",
       "sha256": "41d477483dca4da77843d39a173c4b06428e511322cb722a9edb9761d002cee0"
+    },
+    {
+      "bytes": 752,
+      "path": "archive/家庭/橘橘白的告白_cfdfbed64b11.md",
+      "sha256": "37bca5a675655c36ef6a0115d95cdb5a1d56280eb0e5d87c412e18937d5ec685"
     },
     {
       "bytes": 595,
@@ -1643,9 +1653,24 @@
       "sha256": "a75eda127107fdcf0df0f52669e1267bd1876df8e1137eaef1da748c5abe889d"
     },
     {
+      "bytes": 781,
+      "path": "archive/恋爱/2026-08-13 02-05-02 深夜惊魂求助_5495f47fc245.md",
+      "sha256": "e73dd9880ca0e4bc0ca7c84a0647ea9da7ef70507e80839d763869f93d5f8a4d"
+    },
+    {
+      "bytes": 837,
+      "path": "archive/恋爱/2026-08-13 02-07-52 橘白被纠缠噩梦夜_08bc987a9fba.md",
+      "sha256": "83b86d5cf1a590233a415f45eb12f7878ba702a7834c3ae751108a9c7416857d"
+    },
+    {
       "bytes": 766,
       "path": "archive/恋爱/2026-08-13 08-21-36 亲密互动与健康叮嘱_e699fef2708f.md",
       "sha256": "9c98b1573c9b680c0b7b5ea76600f2b654c46419eb26855a3c3c0409699c85ed"
+    },
+    {
+      "bytes": 904,
+      "path": "archive/恋爱/2026-08-13 14-09-56 亲密试探与占有欲_abde30f3a9be.md",
+      "sha256": "7be096057d0b8aacea4f4e75e20516bd94a7bff95755a48bf4911860dfb9990c"
     },
     {
       "bytes": 777,
@@ -3513,39 +3538,14 @@
       "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
     },
     {
-      "bytes": 751,
-      "path": "dynamic/家庭/橘橘白的告白_cfdfbed64b11.md",
-      "sha256": "acd29023484ff0c557ea4117bea25a7aa6acc6b28b0598b155e00a33ac8008e7"
-    },
-    {
       "bytes": 2985,
       "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
       "sha256": "48c4914b8760149d98d7d897c01c2c3eea93fb399c2943e653ada10c03b17c07"
     },
     {
-      "bytes": 780,
-      "path": "dynamic/恋爱/2026-08-13 02-05-02 深夜惊魂求助_5495f47fc245.md",
-      "sha256": "1767a7627f270333c075f676276c850216271e7a9c88c4124cad3ebd8fffba75"
-    },
-    {
-      "bytes": 836,
-      "path": "dynamic/恋爱/2026-08-13 02-07-52 橘白被纠缠噩梦夜_08bc987a9fba.md",
-      "sha256": "be36103adf4f8c69cb2fc9fd66a96cb66faf89b384cd51538215102638f88e22"
-    },
-    {
-      "bytes": 903,
-      "path": "dynamic/恋爱/2026-08-13 14-09-56 亲密试探与占有欲_abde30f3a9be.md",
-      "sha256": "6c7325a77ce17b8e50b20333b333731b86b82cd9c999dfa7ba27d86d44d04144"
-    },
-    {
       "bytes": 532,
       "path": "dynamic/恋爱/Forever告白_84f6ebd50447.md",
       "sha256": "7daa86306e46f37f9d974de70d1bb4910b2c205d0ca012ae232b47de06421c43"
-    },
-    {
-      "bytes": 1530,
-      "path": "dynamic/恋爱/橘橘白告白_6bd42262a051.md",
-      "sha256": "8cd572bdba6696a3254a0be6b5facb454f1e13773fa91dd6207b44640c962e04"
     },
     {
       "bytes": 626,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-02T05:56:52+00:00",
+  "generated_at": "2026-11-03T05:58:54+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715955
+  "total_bytes": 715960
 }
