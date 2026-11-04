@@ -3128,6 +3128,11 @@
       "sha256": "fa0269d03fbce5825dcef5a589c5582d53bfa2f7550bc49c315b860eee1ab13e"
     },
     {
+      "bytes": 414,
+      "path": "archive/编程/渊的唤醒机制设计_1e5b69844d32.md",
+      "sha256": "37e39d4eba87ee9b3873c1666b6a475674ed7ced111b2721b0d3a0aa60a96028"
+    },
+    {
       "bytes": 635,
       "path": "archive/编程/男鬼推送bug修复_391e526b8cf8.md",
       "sha256": "5b09fe0a81a027fc9e16f65db75f69aa5e995da9bde5f81bc0741d6baa89af0d"
@@ -3606,11 +3611,6 @@
       "bytes": 744,
       "path": "dynamic/编程/iOS方案与理解_65dd2f151d8e.md",
       "sha256": "446c2a4a0953e06ed4ceb2b25314ab9cd00b097f7eadd0a36b7aea9579365e5b"
-    },
-    {
-      "bytes": 413,
-      "path": "dynamic/编程/渊的唤醒机制设计_1e5b69844d32.md",
-      "sha256": "754daedb1f8f3d929ba5d892604b59954f2946c6013edcbadec31b32d5360154"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-03T05:58:54+00:00",
+  "generated_at": "2026-11-04T06:01:10+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715960
+  "total_bytes": 715961
 }
