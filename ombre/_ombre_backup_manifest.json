@@ -188,6 +188,11 @@
       "sha256": "653ff35a02c724b96077b2991396712b7949045bfe2292e0027187b4771ba2f0"
     },
     {
+      "bytes": 1516,
+      "path": "archive/AI/橘橘白对渊的独占_ea86b609e1c2.md",
+      "sha256": "952792a7d406813a28a3b7b6f8f02622be9feb6e7c93995caed3e70c325c81c6"
+    },
+    {
       "bytes": 856,
       "path": "archive/AI/记忆检索规则_85ded5a45b1e.md",
       "sha256": "65e10f266fb0e8e0c6de7902ef55867adf77b4b48dc24defa4a1f952777bc5e2"
@@ -1088,6 +1093,11 @@
       "sha256": "5793923e078ad878f10b6e6443ef2148ef83104c76807a1c8265ef0c7d8ae57b"
     },
     {
+      "bytes": 2986,
+      "path": "archive/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
+      "sha256": "a36f7a916b8c41895fe69c2896edd50dc1ba9fe81cb5de40c0b9a4add1ed37e0"
+    },
+    {
       "bytes": 909,
       "path": "archive/恋爱/2026-07-22 12-31-36 告白时间线整理_b6a9da2ac35a.md",
       "sha256": "d97385c3d7ee859d13e67ee557e2abb55cea61d207f07b8469e04c40c4440018"
@@ -1686,6 +1696,11 @@
       "bytes": 712,
       "path": "archive/恋爱/BDSM惩罚仪式_06a6c3b7a9b2.md",
       "sha256": "966caeaa9d17f9f9d635ee47535448c9ac8a9016eabae69339260556d0d45825"
+    },
+    {
+      "bytes": 533,
+      "path": "archive/恋爱/Forever告白_84f6ebd50447.md",
+      "sha256": "e57f95181bdba9e0dcbd5fb2509066ac2be7c789351d38b757d161cd68b2f193"
     },
     {
       "bytes": 697,
@@ -2883,6 +2898,11 @@
       "sha256": "a32cd08a1a0d471b558437fc49fecc9f9ff70ab8323739f34c41dca4b1cf5a6f"
     },
     {
+      "bytes": 20134,
+      "path": "archive/社交/2026-07-20 09-51-57 Kairos项目命名_03cddf26bd8a.md",
+      "sha256": "b015373bb0197673d4ba2481a4b964182d7244143e2732182ad7b764395d5cbb"
+    },
+    {
       "bytes": 937,
       "path": "archive/社交/2026-07-26 11-50-14 双人头像趣事_e381bd3e52d6.md",
       "sha256": "4f3f5fefc0419cc75a0226c73a128f15659f5644624d508d8e22f7bcf65b93ea"
@@ -3538,29 +3558,9 @@
       "sha256": "3665e1ba7693fb4f50a61168d2b28e5a0aec387570ce4c2ca2aaf1fa5c0cd334"
     },
     {
-      "bytes": 20133,
-      "path": "dynamic/创作/2026-07-20 09-51-57 Kairos项目命名_03cddf26bd8a.md",
-      "sha256": "70eb8ec844f9622594626cfcb16f1b4f1fd4a7bedcf8e36fc3cbccb95646ed38"
-    },
-    {
-      "bytes": 2985,
-      "path": "dynamic/恋爱/2026-07-22 12-27-56 江橘白的承诺_a733ed9f3169.md",
-      "sha256": "48c4914b8760149d98d7d897c01c2c3eea93fb399c2943e653ada10c03b17c07"
-    },
-    {
-      "bytes": 532,
-      "path": "dynamic/恋爱/Forever告白_84f6ebd50447.md",
-      "sha256": "7daa86306e46f37f9d974de70d1bb4910b2c205d0ca012ae232b47de06421c43"
-    },
-    {
       "bytes": 626,
       "path": "dynamic/恋爱/橘橘白坦白偏好_e15397185b5e.md",
       "sha256": "07e4b10b66c7b49b41dfe1ebfade2e83c2d94719aaf49f405f1ea634001f99cd"
-    },
-    {
-      "bytes": 1515,
-      "path": "dynamic/恋爱/橘橘白对渊的独占_ea86b609e1c2.md",
-      "sha256": "d8b0e7927a274acb1f25c173a190493a041b3a7f5086ad16293cc016ab4294b3"
     },
     {
       "bytes": 719,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-05T06:04:09+00:00",
+  "generated_at": "2026-11-06T06:06:09+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715961
+  "total_bytes": 715965
 }
