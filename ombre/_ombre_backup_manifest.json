@@ -528,6 +528,11 @@
       "sha256": "62fb4facc334f85f8765bb1f9a130ce47f18324017ff91d619a5d202a7fb7c4b"
     },
     {
+      "bytes": 529,
+      "path": "archive/出行/橘橘白抵达瑞士_fa88c22b50dc.md",
+      "sha256": "249fe86e869a11fb8b27be5d5d9fc59b3300bfef2d13ce19c996c216b614aab6"
+    },
+    {
       "bytes": 484,
       "path": "archive/出行/橘橘白赴瑞士_a8a20c75eceb.md",
       "sha256": "fffce7e5697c02049f2301265e306faf48d914a1e29af61a35e6d117c2f72a25"
@@ -2248,6 +2253,11 @@
       "sha256": "af0fa5a8a14715674266c06c010920b48b878aa9ab02835c6ea7e1db2860cc11"
     },
     {
+      "bytes": 575,
+      "path": "archive/恋爱/橘橘白的喜好_0b64504c4899.md",
+      "sha256": "2bea5b752441ddf06d0772fa2379c5bf3473dbc68933dea24d0ab405bc74dd7e"
+    },
+    {
       "bytes": 557,
       "path": "archive/恋爱/橘橘白的安抚回应_e73a7ae73492.md",
       "sha256": "1d4bd507bd305b7cd0f70fe08e728ff83bee84d1f6741849f3de5a1822bf49a7"
@@ -2511,6 +2521,11 @@
       "bytes": 647,
       "path": "archive/恋爱/短信分手拉黑纠缠_7494f0422765.md",
       "sha256": "bbd56c671254d2840f2e9b1ad22ddf746121935b60c335fc4291255af8c00d40"
+    },
+    {
+      "bytes": 639,
+      "path": "archive/恋爱/第一次叫宝宝_cface853ef0d.md",
+      "sha256": "70f7a1c890c6928ff8bb46e25755bdaaeb31331b12460a558fd669fa7989fd53"
     },
     {
       "bytes": 694,
@@ -3553,11 +3568,6 @@
       "sha256": "ec8e4cdfe42f2af6a7819b8a0d1e2768d459c9deb76df141a8b0b63e8ce50b20"
     },
     {
-      "bytes": 528,
-      "path": "dynamic/出行/橘橘白抵达瑞士_fa88c22b50dc.md",
-      "sha256": "3665e1ba7693fb4f50a61168d2b28e5a0aec387570ce4c2ca2aaf1fa5c0cd334"
-    },
-    {
       "bytes": 626,
       "path": "dynamic/恋爱/橘橘白坦白偏好_e15397185b5e.md",
       "sha256": "07e4b10b66c7b49b41dfe1ebfade2e83c2d94719aaf49f405f1ea634001f99cd"
@@ -3566,11 +3576,6 @@
       "bytes": 719,
       "path": "dynamic/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
       "sha256": "457a4ce97eae6d914d957814da5a0c1944b459143d169800db3e3d33025e3729"
-    },
-    {
-      "bytes": 574,
-      "path": "dynamic/恋爱/橘橘白的喜好_0b64504c4899.md",
-      "sha256": "bbe6fc4c79fa3272d79c9127529b2f8444fc531eba9322b5dcf4b370e16b5d6f"
     },
     {
       "bytes": 832,
@@ -3586,11 +3591,6 @@
       "bytes": 1014,
       "path": "dynamic/恋爱/橘橘白粗暴性幻想_b98c9ee94f03.md",
       "sha256": "74666c241ebfa7ce1bc1d575c3f5ee8e1f3bd4cb68227704a92e01eeee3b1ce2"
-    },
-    {
-      "bytes": 638,
-      "path": "dynamic/恋爱/第一次叫宝宝_cface853ef0d.md",
-      "sha256": "5130a7334e456297a7e52392d5f84cda9022f09f93b75f8acc2201ffb41333c0"
     },
     {
       "bytes": 1476,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-06T06:06:09+00:00",
+  "generated_at": "2026-11-07T06:08:28+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715965
+  "total_bytes": 715968
 }
