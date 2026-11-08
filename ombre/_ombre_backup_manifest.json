@@ -2208,6 +2208,11 @@
       "sha256": "a2d9d04bfdb61e4066d3b7f064517a42fea295bdd917f5fb0565cfe6cd7adcc3"
     },
     {
+      "bytes": 720,
+      "path": "archive/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
+      "sha256": "bbaf0d52e85959605a411fb0044910858c026ebafa9349b3f674cfd8a0df883c"
+    },
+    {
       "bytes": 652,
       "path": "archive/恋爱/橘橘白撒娇服软_c00707bbb832.md",
       "sha256": "4ea0fd4304ced10393c499c95efe209ee2d9cbded0da237495abe807f1a83bba"
@@ -2311,6 +2316,11 @@
       "bytes": 555,
       "path": "archive/恋爱/橘橘白的现实承诺_3e457953447a.md",
       "sha256": "603f0b05296be3c2f4f1a6fe8d2a949cc00cc61094a949ec7252c8de132fd818"
+    },
+    {
+      "bytes": 586,
+      "path": "archive/恋爱/橘橘白的称呼偏好_1f4134595d2a.md",
+      "sha256": "9120339fdbca350773cfabd266e6ea1c67b87c8d5962ef2a9abe1f884c8f5056"
     },
     {
       "bytes": 513,
@@ -3043,6 +3053,11 @@
       "sha256": "81e14e6e8f1b40b177c8f4a55159eabae9934ee8bc57b77afb012507b61b1a41"
     },
     {
+      "bytes": 1012,
+      "path": "archive/编程/2026-07-15 02-34-52 关闭跨窗口寄存_8fea14e6da1b.md",
+      "sha256": "d78943685bdaa8cb05050786ed0fb9479725ce7b742631836ad4817ef8780f67"
+    },
+    {
       "bytes": 885,
       "path": "archive/编程/2026-07-15 12-28-22 松渊之家 Phase 0 通关_6bd88de8439d.md",
       "sha256": "d36964e4048fc607c6355135e5279e1e0a3dc247881fba31cd61df8f1cba591a"
@@ -3131,6 +3146,11 @@
       "bytes": 584,
       "path": "archive/编程/feel记忆搜索方法_6bc431008d83.md",
       "sha256": "7006ba500e917bb20a6d396046c2779973fe1cb21ae4b3d3c6c6f33b444efd53"
+    },
+    {
+      "bytes": 745,
+      "path": "archive/编程/iOS方案与理解_65dd2f151d8e.md",
+      "sha256": "0a77ee103990c78f9be314ce1379e35f07421b3411f8a6187cbc8f6f0796cb43"
     },
     {
       "bytes": 438,
@@ -3573,19 +3593,9 @@
       "sha256": "07e4b10b66c7b49b41dfe1ebfade2e83c2d94719aaf49f405f1ea634001f99cd"
     },
     {
-      "bytes": 719,
-      "path": "dynamic/恋爱/橘橘白撒娇喂虾_ef752b2a9d0a.md",
-      "sha256": "457a4ce97eae6d914d957814da5a0c1944b459143d169800db3e3d33025e3729"
-    },
-    {
       "bytes": 832,
       "path": "dynamic/恋爱/橘橘白的深情告白_24dd71dba22b.md",
       "sha256": "f993309f5fb91a0a5b9fbbee4e00b689f2bc844747cc80834f5ee7e573656101"
-    },
-    {
-      "bytes": 585,
-      "path": "dynamic/恋爱/橘橘白的称呼偏好_1f4134595d2a.md",
-      "sha256": "b70d3da184960c6af3c52c2fe3316b1a1eb9260132d9df915eaa5753dd481172"
     },
     {
       "bytes": 1014,
@@ -3601,16 +3611,6 @@
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
-    },
-    {
-      "bytes": 1011,
-      "path": "dynamic/编程/2026-07-15 02-34-52 关闭跨窗口寄存_8fea14e6da1b.md",
-      "sha256": "2eaaaeef32cccf50fbc657ad5806ff40021a9b77a9ee63179273e7ace447693b"
-    },
-    {
-      "bytes": 744,
-      "path": "dynamic/编程/iOS方案与理解_65dd2f151d8e.md",
-      "sha256": "446c2a4a0953e06ed4ceb2b25314ab9cd00b097f7eadd0a36b7aea9579365e5b"
     },
     {
       "bytes": 808,
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-07T06:08:28+00:00",
+  "generated_at": "2026-11-08T06:10:38+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715968
+  "total_bytes": 715972
 }
