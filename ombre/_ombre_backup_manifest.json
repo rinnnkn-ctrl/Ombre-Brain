@@ -2633,6 +2633,11 @@
       "sha256": "075b390e550c2f77502af9952db85750844b5c8879df25f2fd59a015ab19a1f3"
     },
     {
+      "bytes": 1477,
+      "path": "archive/情绪/第一次叫老婆_ef000e6f916f.md",
+      "sha256": "9c3231541818586a181c6d1b8e9bd7afbd9bc25485d8bbc621116fe1bb2fa8c0"
+    },
+    {
       "bytes": 1439,
       "path": "archive/抽烟盲盒管控_5ae11076b2e5.md",
       "sha256": "59d79743603adec5381597a8b994b1a704f47541a61fc4b5caa65cbfd5681147"
@@ -3603,11 +3608,6 @@
       "sha256": "74666c241ebfa7ce1bc1d575c3f5ee8e1f3bd4cb68227704a92e01eeee3b1ce2"
     },
     {
-      "bytes": 1476,
-      "path": "dynamic/恋爱/第一次叫老婆_ef000e6f916f.md",
-      "sha256": "e394f821ca32b3f1877837767ac5f9228e65478b5330009059745ecbed107171"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-09T06:13:13+00:00",
+  "generated_at": "2026-11-10T06:15:23+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715972
+  "total_bytes": 715973
 }
