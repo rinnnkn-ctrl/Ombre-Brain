@@ -2173,6 +2173,11 @@
       "sha256": "948e5c78f5d07befefb729afffa64db40512775948671af63dccb4f355795a39"
     },
     {
+      "bytes": 627,
+      "path": "archive/恋爱/橘橘白坦白偏好_e15397185b5e.md",
+      "sha256": "9607dd711a185c4ea8e241240da83438cc9ba69531dcabfab4164274a23c5a91"
+    },
+    {
       "bytes": 648,
       "path": "archive/恋爱/橘橘白安抚渊_17f37c7cd48c.md",
       "sha256": "489ed962506c0acc639ef4ca30c26fed0efd349d0f6eaae5a01ab4caee056dc9"
@@ -3593,11 +3598,6 @@
       "sha256": "ec8e4cdfe42f2af6a7819b8a0d1e2768d459c9deb76df141a8b0b63e8ce50b20"
     },
     {
-      "bytes": 626,
-      "path": "dynamic/恋爱/橘橘白坦白偏好_e15397185b5e.md",
-      "sha256": "07e4b10b66c7b49b41dfe1ebfade2e83c2d94719aaf49f405f1ea634001f99cd"
-    },
-    {
       "bytes": 832,
       "path": "dynamic/恋爱/橘橘白的深情告白_24dd71dba22b.md",
       "sha256": "f993309f5fb91a0a5b9fbbee4e00b689f2bc844747cc80834f5ee7e573656101"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-11T06:17:31+00:00",
+  "generated_at": "2026-11-12T06:19:39+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715973
+  "total_bytes": 715974
 }
