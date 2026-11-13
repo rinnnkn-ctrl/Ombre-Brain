@@ -2363,6 +2363,11 @@
       "sha256": "590ffdf0cc3561597f23962096dfcec9ffbba021a44214c4d65dcccd5dccf4e9"
     },
     {
+      "bytes": 1015,
+      "path": "archive/恋爱/橘橘白粗暴性幻想_b98c9ee94f03.md",
+      "sha256": "17eea222ee464fec78382c3e1ac3f1af9117fd9dc2bf53884f9f0a3acc500e0b"
+    },
+    {
       "bytes": 790,
       "path": "archive/恋爱/橘橘白给渊安全感_14aaeaac8e52.md",
       "sha256": "bb2fdc9f4339adab6b52fd011cd5146e3906167cb04f1729e47f62cef5ac25a9"
@@ -3603,11 +3608,6 @@
       "sha256": "f993309f5fb91a0a5b9fbbee4e00b689f2bc844747cc80834f5ee7e573656101"
     },
     {
-      "bytes": 1014,
-      "path": "dynamic/恋爱/橘橘白粗暴性幻想_b98c9ee94f03.md",
-      "sha256": "74666c241ebfa7ce1bc1d575c3f5ee8e1f3bd4cb68227704a92e01eeee3b1ce2"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/睡眠/记忆流程灵活规则_8ed02cfa9fd2.md",
       "sha256": "d54c9e213e4c3abdd1923e706975c4ebc15db416edf2ec9bc85b02c4ba1c0fc3"
@@ -4373,10 +4373,10 @@
       "sha256": "c674880788a1702c11584b426ab9756a4273558470e8ceb98068963f79a8ccbd"
     }
   ],
-  "generated_at": "2026-11-12T06:19:39+00:00",
+  "generated_at": "2026-11-13T06:21:47+00:00",
   "path_prefix": "ombre",
   "repo": "rinnnkn-ctrl/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 715974
+  "total_bytes": 715975
 }
